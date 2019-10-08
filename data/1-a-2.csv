@@ -1,7 +1,161 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Units,Area of Spending Category,Observation Status,Unit multiplier,Unit measure,Value
+1998,Percentage (%) of national budget,,Undefined,Units,Percentage (%),54.56
+1999,Percentage (%) of national budget,,Undefined,Units,Percentage (%),55.31
+2000,Percentage (%) of national budget,,Undefined,Units,Percentage (%),55.13
+2001,Percentage (%) of national budget,,Undefined,Units,Percentage (%),55.03
+2002,Percentage (%) of national budget,,Undefined,Units,Percentage (%),57.54
+2003,Percentage (%) of national budget,,Undefined,Units,Percentage (%),58.53
+2004,Percentage (%) of national budget,,Undefined,Units,Percentage (%),59.02
+2005,Percentage (%) of national budget,,Undefined,Units,Percentage (%),60.13
+2006,Percentage (%) of national budget,,Undefined,Units,Percentage (%),58.61
+2007,Percentage (%) of national budget,,Undefined,Units,Percentage (%),57.71
+2008,Percentage (%) of national budget,,Undefined,Units,Percentage (%),43.71
+2009,Percentage (%) of national budget,,Undefined,Units,Percentage (%),55.1
+2010,Percentage (%) of national budget,,Undefined,Units,Percentage (%),53.0
+2011,Percentage (%) of national budget,,Undefined,Units,Percentage (%),57.36
+2012,Percentage (%) of national budget,,Undefined,Units,Percentage (%),56.46
+2013,Percentage (%) of national budget,,Undefined,Units,Percentage (%),57.09
+2014,Percentage (%) of national budget,,Undefined,Units,Percentage (%),55.84
+2015,Percentage (%) of national budget,,Undefined,Units,Percentage (%),56.84
+2016,Percentage (%) of national budget,,Undefined,Units,Percentage (%),52.49
+2017,Percentage (%) of national budget,,Undefined,Units,Percentage (%),57.37
+1998,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),18.13
+1999,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),19.57
+2000,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),18.99
+2001,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),18.47
+2002,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),19.35
+2003,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),19.21
+2004,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),19.07
+2005,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),19.03
+2006,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),18.9
+2007,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),18.53
+2008,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),13.72
+2009,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),16.26
+2010,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),15.2
+2011,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),15.98
+2012,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),16.25
+2013,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),16.81
+2014,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),16.61
+2015,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),17.37
+2016,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),16.54
+2017,Percentage (%) of national budget,Health,Undefined,Units,Percentage (%),17.47
+1998,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),18.58
+1999,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),17.99
+2000,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),18.21
+2001,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),18.37
+2002,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),19.46
+2003,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),21.17
+2004,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),21.31
+2005,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),21.32
+2006,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),19.77
+2007,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),19.98
+2008,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),15.43
+2009,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),22.06
+2010,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),21.63
+2011,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),24.35
+2012,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),23.37
+2013,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),23.15
+2014,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),22.43
+2015,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),22.1
+2016,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),20.11
+2017,Percentage (%) of national budget,Social Protection,Undefined,Units,Percentage (%),22.51
+1998,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),17.85
+1999,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),17.75
+2000,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),17.93
+2001,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),18.19
+2002,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),18.73
+2003,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),18.15
+2004,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),18.64
+2005,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),19.78
+2006,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),19.94
+2007,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),19.2
+2008,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),14.56
+2009,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),16.78
+2010,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),16.17
+2011,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),17.03
+2012,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),16.84
+2013,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),17.13
+2014,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),16.8
+2015,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),17.37
+2016,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),15.84
+2017,Percentage (%) of national budget,Education,Undefined,Units,Percentage (%),17.39
+1998,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),22.18
+1999,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),22.88
+2000,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),22.59
+2001,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),22.85
+2002,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),24.64
+2003,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),25.93
+2004,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),25.14
+2005,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),24.84
+2006,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),23.87
+2007,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),23.42
+2008,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),23.83
+2009,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),26.11
+2010,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),25.33
+2011,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),25.37
+2012,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),24.74
+2013,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),24.21
+2014,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),24.47
+2015,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),23.59
+2016,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),23.26
+2017,Percentage (%) of Gross Domestic Product (GDP),,Undefined,Units,Percentage (%),24.83
+1998,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),7.37
+1999,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),8.1
+2000,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),7.78
+2001,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),7.67
+2002,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),8.29
+2003,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),8.51
+2004,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),8.12
+2005,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),7.86
+2006,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),7.7
+2007,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),7.52
+2008,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),7.48
+2009,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),7.71
+2010,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),7.27
+2011,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),7.07
+2012,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),7.12
+2013,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),7.13
+2014,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),7.28
+2015,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),7.21
+2016,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),7.33
+2017,Percentage (%) of Gross Domestic Product (GDP),Health,Undefined,Units,Percentage (%),7.56
+1998,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),7.55
+1999,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),7.44
+2000,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),7.46
+2001,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),7.63
+2002,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),8.33
+2003,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),9.38
+2004,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),9.08
+2005,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),8.81
+2006,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),8.05
+2007,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),8.11
+2008,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),8.41
+2009,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),10.45
+2010,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),10.33
+2011,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),10.77
+2012,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),10.24
+2013,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),9.82
+2014,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),9.83
+2015,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),9.17
+2016,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),8.91
+2017,Percentage (%) of Gross Domestic Product (GDP),Social Protection,Undefined,Units,Percentage (%),9.74
+1998,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),7.26
+1999,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),7.34
+2000,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),7.35
+2001,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),7.55
+2002,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),8.02
+2003,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),8.04
+2004,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),7.94
+2005,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),8.17
+2006,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),8.12
+2007,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),7.79
+2008,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),7.94
+2009,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),7.95
+2010,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),7.73
+2011,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),7.53
+2012,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),7.38
+2013,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),7.26
+2014,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),7.36
+2015,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),7.21
+2016,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),7.02
+2017,Percentage (%) of Gross Domestic Product (GDP),Education,Undefined,Units,Percentage (%),7.53
