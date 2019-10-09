@@ -1,7 +1,20 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Age-group,Skill,Value
+2017,16-24,Information skills,99
+2017,16-24,Communications skills,99
+2017,16-24,Problem solving skills,99
+2017,16-24,Software,97
+2017,25-34,Information skills,99
+2017,25-34,Communications skills,99
+2017,25-34,Problem solving skills,100
+2017,25-34,Software,95
+2017,35-44,Information skills,99
+2017,35-44,Communications skills,98
+2017,35-44,Problem solving skills,100
+2017,35-44,Software,95
+2017,45-54,Information skills,97
+2017,45-54,Communications skills,99
+2017,45-54,Problem solving skills,98
+2017,45-54,Software,86
+2017,55-64,Information skills,92
+2017,55-64,Communications skills,96
+2017,55-64,Problem solving skills,94
