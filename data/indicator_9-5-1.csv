@@ -1,7 +1,21 @@
 Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+2013,All units,1.76
+2013,Enterprises,0.99
+2013,Tertiary education institutions,0.66
+2013,Government institutions (excluding universities),0.12
+2014,All units,2.01
+2014,Enterprises,1.23
+2014,Tertiary education institutions,0.66
+2014,Government institutions (excluding universities),0.12
+2015,All units,2.2
+2015,Enterprises,1.45
+2015,Tertiary education institutions,0.65
+2015,Government institutions (excluding universities),0.1
+2016,All units,2.12
+2016,Enterprises,1.36
+2016,Tertiary education institutions,0.65
+2016,Government institutions (excluding universities),0.1
+2017,All units,2.1
+2017,Enterprises,1.35
+2017,Tertiary education institutions,0.66
+2017,Government institutions (excluding universities),0.09
