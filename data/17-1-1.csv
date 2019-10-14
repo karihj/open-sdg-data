@@ -1,7 +1,43 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Revenue,Value
+1998,Tax revenue,31.0
+1998,Other revenue,9.01
+1999,Tax revenue,33.22
+1999,Other revenue,8.96
+2000,Tax revenue,33.18
+2000,Other revenue,9.01
+2001,Tax revenue,31.45
+2001,Other revenue,9.1
+2002,Tax revenue,31.11
+2002,Other revenue,8.95
+2003,Tax revenue,32.34
+2003,Other revenue,8.86
+2004,Tax revenue,33.38
+2004,Other revenue,8.88
+2005,Tax revenue,36.32
+2005,Other revenue,9.43
+2006,Tax revenue,37.01
+2006,Other revenue,9.52
+2007,Tax revenue,35.79
+2007,Other revenue,9.67
+2008,Tax revenue,31.94
+2008,Other revenue,9.71
+2009,Tax revenue,28.43
+2009,Other revenue,9.48
+2010,Tax revenue,28.57
+2010,Other revenue,9.76
+2011,Tax revenue,29.53
+2011,Other revenue,9.29
+2012,Tax revenue,30.49
+2012,Other revenue,9.73
+2013,Tax revenue,30.95
+2013,Other revenue,9.67
+2014,Tax revenue,33.8
+2014,Other revenue,9.94
+2015,Tax revenue,31.92
+2015,Other revenue,8.66
+2016,Tax revenue,47.38
+2016,Other revenue,9.56
+2017,Tax revenue,34.08
+2017,Other revenue,9.73
+2018,Tax revenue,33.19
+2018,Other revenue,9.57
