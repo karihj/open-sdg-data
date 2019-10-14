@@ -1,7 +1,36 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Sub-indicator.,Value
+2000,Forest area annual net change (%),0.0
+2000,Above-ground biomass stock in forest [ton/ha],14.19
+2000,Proportion of forest area located within legally established protected areas [%],0.01
+2000,Proportion of forest area under long-term forest management plan [%],0.4396
+2000,Forest area under independantely verified forest management certification schemes [1000 ha],0.0
+2010,Forest area annual net change (%),0.0412
+2010,Above-ground biomass stock in forest [ton/ha],15.63
+2010,Proportion of forest area located within legally established protected areas [%],0.0125
+2010,Proportion of forest area under long-term forest management plan [%],0.7413
+2010,Forest area under independantely verified forest management certification schemes [1000 ha],0.0
+2015,Forest area annual net change (%),0.0152
+2015,Above-ground biomass stock in forest [ton/ha],19.86
+2015,Proportion of forest area located within legally established protected areas [%],0.0127
+2015,Proportion of forest area under long-term forest management plan [%],0.8096
+2015,Forest area under independantely verified forest management certification schemes [1000 ha],0.0
+2016,Forest area annual net change (%),0.0103
+2016,Above-ground biomass stock in forest [ton/ha],20.72
+2016,Proportion of forest area located within legally established protected areas [%],0.0127
+2016,Proportion of forest area under long-term forest management plan [%],0.8191
+2016,Forest area under independantely verified forest management certification schemes [1000 ha],0.0
+2017,Forest area annual net change (%),0.0146
+2017,Above-ground biomass stock in forest [ton/ha],21.46
+2017,Proportion of forest area located within legally established protected areas [%],0.0127
+2017,Proportion of forest area under long-term forest management plan [%],0.8331
+2017,Forest area under independantely verified forest management certification schemes [1000 ha],0.0
+2018,Forest area annual net change (%),0.0132
+2018,Above-ground biomass stock in forest [ton/ha],22.21
+2018,Proportion of forest area located within legally established protected areas [%],
+2018,Proportion of forest area under long-term forest management plan [%],0.8333
+2018,Forest area under independantely verified forest management certification schemes [1000 ha],
+2019,Forest area annual net change (%),0.0128
+2019,Above-ground biomass stock in forest [ton/ha],22.94
+2019,Proportion of forest area located within legally established protected areas [%],
+2019,Proportion of forest area under long-term forest management plan [%],0.8459
+2019,Forest area under independantely verified forest management certification schemes [1000 ha],
