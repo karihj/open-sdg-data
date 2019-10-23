@@ -1,7 +1,13 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Category,Value
+2000,Lakes and reservoirs,1217.8
+2000,Rivers and Estuaries,869.1
+2000,Wetlands,7126.8
+2006,Lakes and reservoirs,1222.3
+2006,Rivers and Estuaries,854.3
+2006,Wetlands,7121.7
+2012,Lakes and reservoirs,1297
+2012,Rivers and Estuaries,797.2
+2012,Wetlands,7107.5
+2018,Lakes and reservoirs,1314.5
+2018,Rivers and Estuaries,722.4
+2018,Wetlands,7093.8
