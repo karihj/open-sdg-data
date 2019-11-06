@@ -20,66 +20,25 @@ Year,Sector,Value
 2015,,0.002796
 2016,,0.002637239
 2017,,0.002723725
-1997,"A - Landbúnaður, skógrækt og fiskveiðar",0.031976008
-1998,"A - Landbúnaður, skógrækt og fiskveiðar",0.029771423
-1999,"A - Landbúnaður, skógrækt og fiskveiðar",0.028970904
-2000,"A - Landbúnaður, skógrækt og fiskveiðar",0.028474345
-2001,"A - Landbúnaður, skógrækt og fiskveiðar",0.023417977
-2002,"A - Landbúnaður, skógrækt og fiskveiðar",0.020882401
-2003,"A - Landbúnaður, skógrækt og fiskveiðar",0.022163987
-2004,"A - Landbúnaður, skógrækt og fiskveiðar",0.025501587
-2005,"A - Landbúnaður, skógrækt og fiskveiðar",0.025187645
-2006,"A - Landbúnaður, skógrækt og fiskveiðar",0.02097585
-2007,"A - Landbúnaður, skógrækt og fiskveiðar",0.020758984
-2008,"A - Landbúnaður, skógrækt og fiskveiðar",0.014924401
-2009,"A - Landbúnaður, skógrækt og fiskveiðar",0.012681807
-2010,"A - Landbúnaður, skógrækt og fiskveiðar",0.010695616
-2011,"A - Landbúnaður, skógrækt og fiskveiðar",0.010248334
-2012,"A - Landbúnaður, skógrækt og fiskveiðar",0.00925651
-2013,"A - Landbúnaður, skógrækt og fiskveiðar",0.009474937
-2014,"A - Landbúnaður, skógrækt og fiskveiðar",0.009794991
-2015,"A - Landbúnaður, skógrækt og fiskveiðar",0.008708471
-2016,"A - Landbúnaður, skógrækt og fiskveiðar",0.009276474
-2017,"A - Landbúnaður, skógrækt og fiskveiðar",0.011011534
-1997,B - Námugröftur og vinnsla hráefna úr jörðu,0.00035524
-1998,B - Námugröftur og vinnsla hráefna úr jörðu,0.000332344
-1999,B - Námugröftur og vinnsla hráefna úr jörðu,0.000359908
-2000,B - Námugröftur og vinnsla hráefna úr jörðu,0.000379234
-2001,B - Námugröftur og vinnsla hráefna úr jörðu,0.000324675
-2002,B - Námugröftur og vinnsla hráefna úr jörðu,0.000323986
-2003,B - Námugröftur og vinnsla hráefna úr jörðu,0.00090471
-2004,B - Námugröftur og vinnsla hráefna úr jörðu,0.000713959
-2005,B - Námugröftur og vinnsla hráefna úr jörðu,0.004712921
-2006,B - Námugröftur og vinnsla hráefna úr jörðu,0.000775639
-2007,B - Námugröftur og vinnsla hráefna úr jörðu,0.000613361
-2008,B - Námugröftur og vinnsla hráefna úr jörðu,0.000709416
-2009,B - Námugröftur og vinnsla hráefna úr jörðu,0.001320433
-2010,B - Námugröftur og vinnsla hráefna úr jörðu,0.001140684
-2011,B - Námugröftur og vinnsla hráefna úr jörðu,0.001145833
-2012,B - Námugröftur og vinnsla hráefna úr jörðu,0.001159189
-2013,B - Námugröftur og vinnsla hráefna úr jörðu,0.000847621
-2014,B - Námugröftur og vinnsla hráefna úr jörðu,0.000864716
-2015,B - Námugröftur og vinnsla hráefna úr jörðu,0.000630769
-2016,B - Námugröftur og vinnsla hráefna úr jörðu,0.000620898
-2017,B - Námugröftur og vinnsla hráefna úr jörðu,0.000381161
-1997,C - Framleiðsla,0.010148778
-1998,C - Framleiðsla,0.00966932
-1999,C - Framleiðsla,0.012117576
-2000,C - Framleiðsla,0.012562381
-2001,C - Framleiðsla,0.011037179
-2002,C - Framleiðsla,0.011726665
-2003,C - Framleiðsla,0.012493945
-2004,C - Framleiðsla,0.011855648
-2005,C - Framleiðsla,0.012973219
-2006,C - Framleiðsla,0.010773821
-2007,C - Framleiðsla,0.010008504
-2008,C - Framleiðsla,0.008937278
-2009,C - Framleiðsla,0.009341494
-2010,C - Framleiðsla,0.010097779
-2011,C - Framleiðsla,0.008414475
-2012,C - Framleiðsla,0.009017935
-2013,C - Framleiðsla,0.008096446
-2014,C - Framleiðsla,0.008088077
-2015,C - Framleiðsla,0.007868642
-2016,C - Framleiðsla,0.008027854
-2017,C - Framleiðsla,0.00843089
+1997,"A",0.031976008
+1998,"A",0.029771423
+1999,"A",0.028970904
+2000,"A",0.028474345
+2001,"A",0.023417977
+2002,"A",0.020882401
+2003,"A",0.022163987
+2004,"A",0.025501587
+2005,"A",0.025187645
+2006,"A",0.02097585
+2007,"A",0.020758984
+2008,"A",0.014924401
+2009,"A",0.012681807
+2010,"A",0.010695616
+2011,"A",0.010248334
+2012,"A",0.00925651
+2013,"A",0.009474937
+2014,"A",0.009794991
+2015,"A",0.008708471
+2016,"A",0.009276474
+2017,"A",0.011011534
+
