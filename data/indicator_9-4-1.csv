@@ -104,48 +104,48 @@ Year,Sector,Value
 2015,D - Electricity and power generation,0.002123088
 2016,D - Electricity and power generation,0.002396401
 2017,D - Electricity and power generation,0.002071259
-1997,"E - Water collection, waste management and remediation activities ",0.08519559
-1998,"E - Water collection, waste management and remediation activities ",0.076607525
-1999,"E - Water collection, waste management and remediation activities ",0.076668209
-2000,"E - Water collection, waste management and remediation activities ",0.074683581
-2001,"E - Water collection, waste management and remediation activities ",0.057788303
-2002,"E - Water collection, waste management and remediation activities ",0.054812312
-2003,"E - Water collection, waste management and remediation activities ",0.060240261
-2004,"E - Water collection, waste management and remediation activities ",0.05445008
-2005,"E - Water collection, waste management and remediation activities ",0.049193395
-2006,"E - Water collection, waste management and remediation activities ",0.045186193
-2007,"E - Water collection, waste management and remediation activities ",0.030333861
-2008,"E - Water collection, waste management and remediation activities ",0.02744937
-2009,"E - Water collection, waste management and remediation activities ",0.02555875
-2010,"E - Water collection, waste management and remediation activities ",0.022219817
-2011,"E - Water collection, waste management and remediation activities ",0.020009796
-2012,"E - Water collection, waste management and remediation activities ",0.017735595
-2013,"E - Water collection, waste management and remediation activities ",0.014813216
-2014,"E - Water collection, waste management and remediation activities ",0.014042056
-2015,"E - Water collection, waste management and remediation activities ",0.013438188
-2016,"E - Water collection, waste management and remediation activities ",0.012051015
-2017,"E - Water collection, waste management and remediation activities ",0.011155284
-1997,F - Construction ,0.003732648
-1998,F - Construction ,0.00319298
-1999,F - Construction ,0.003834381
-2000,F - Construction ,0.003358379
-2001,F - Construction ,0.00362403
-2002,F - Construction ,0.00372936
-2003,F - Construction ,0.003664972
-2004,F - Construction ,0.002829183
-2005,F - Construction ,0.002102027
-2006,F - Construction ,0.002127701
-2007,F - Construction ,0.002177953
-2008,F - Construction ,0.002146118
-2009,F - Construction ,0.004092048
-2010,F - Construction ,0.004007479
-2011,F - Construction ,0.003022128
-2012,F - Construction ,0.002189329
-2013,F - Construction ,0.001660778
-2014,F - Construction ,0.001445754
-2015,F - Construction ,0.001252783
-2016,F - Construction ,0.001190735
-2017,F - Construction ,0.00091505
+1997,"E - Water collection, waste management and remediation activities",0.08519559
+1998,"E - Water collection, waste management and remediation activities",0.076607525
+1999,"E - Water collection, waste management and remediation activities",0.076668209
+2000,"E - Water collection, waste management and remediation activities",0.074683581
+2001,"E - Water collection, waste management and remediation activities",0.057788303
+2002,"E - Water collection, waste management and remediation activities",0.054812312
+2003,"E - Water collection, waste management and remediation activities",0.060240261
+2004,"E - Water collection, waste management and remediation activities",0.05445008
+2005,"E - Water collection, waste management and remediation activities",0.049193395
+2006,"E - Water collection, waste management and remediation activities",0.045186193
+2007,"E - Water collection, waste management and remediation activities",0.030333861
+2008,"E - Water collection, waste management and remediation activities",0.02744937
+2009,"E - Water collection, waste management and remediation activities",0.02555875
+2010,"E - Water collection, waste management and remediation activities",0.022219817
+2011,"E - Water collection, waste management and remediation activities",0.020009796
+2012,"E - Water collection, waste management and remediation activities",0.017735595
+2013,"E - Water collection, waste management and remediation activities",0.014813216
+2014,"E - Water collection, waste management and remediation activities",0.014042056
+2015,"E - Water collection, waste management and remediation activities",0.013438188
+2016,"E - Water collection, waste management and remediation activities",0.012051015
+2017,"E - Water collection, waste management and remediation activities",0.011155284
+1997,F - Construction,0.003732648
+1998,F - Construction,0.00319298
+1999,F - Construction,0.003834381
+2000,F - Construction,0.003358379
+2001,F - Construction,0.00362403
+2002,F - Construction,0.00372936
+2003,F - Construction,0.003664972
+2004,F - Construction,0.002829183
+2005,F - Construction,0.002102027
+2006,F - Construction,0.002127701
+2007,F - Construction,0.002177953
+2008,F - Construction,0.002146118
+2009,F - Construction,0.004092048
+2010,F - Construction,0.004007479
+2011,F - Construction,0.003022128
+2012,F - Construction,0.002189329
+2013,F - Construction,0.001660778
+2014,F - Construction,0.001445754
+2015,F - Construction,0.001252783
+2016,F - Construction,0.001190735
+2017,F - Construction,0.00091505
 1997,G - Trade and repair of mechanical equipment,0.000480273
 1998,G - Trade and repair of mechanical equipment,0.00047411
 1999,G - Trade and repair of mechanical equipment,0.000519322
@@ -209,27 +209,27 @@ Year,Sector,Value
 2015,I - Accommodation and food services activities,4.98026E-05
 2016,I - Accommodation and food services activities,4.12069E-05
 2017,I - Accommodation and food services activities,4.35857E-05
-1997,J - Information and communication ,6.13637E-05
-1998,J - Information and communication ,4.80975E-05
-1999,J - Information and communication ,4.42039E-05
-2000,J - Information and communication ,4.01685E-05
-2001,J - Information and communication ,3.87331E-05
-2002,J - Information and communication ,4.06797E-05
-2003,J - Information and communication ,4.33021E-05
-2004,J - Information and communication ,4.0623E-05
-2005,J - Information and communication ,4.09088E-05
-2006,J - Information and communication ,3.8302E-05
-2007,J - Information and communication ,4.34545E-05
-2008,J - Information and communication ,4.31155E-05
-2009,J - Information and communication ,4.72807E-05
-2010,J - Information and communication ,4.7306E-05
-2011,J - Information and communication ,4.56254E-05
-2012,J - Information and communication ,4.34508E-05
-2013,J - Information and communication ,3.36329E-05
-2014,J - Information and communication ,3.34386E-05
-2015,J - Information and communication ,3.28031E-05
-2016,J - Information and communication ,2.66174E-05
-2017,J - Information and communication ,2.92846E-05
+1997,J - Information and communication,6.13637E-05
+1998,J - Information and communication,4.80975E-05
+1999,J - Information and communication,4.42039E-05
+2000,J - Information and communication,4.01685E-05
+2001,J - Information and communication,3.87331E-05
+2002,J - Information and communication,4.06797E-05
+2003,J - Information and communication,4.33021E-05
+2004,J - Information and communication,4.0623E-05
+2005,J - Information and communication,4.09088E-05
+2006,J - Information and communication,3.8302E-05
+2007,J - Information and communication,4.34545E-05
+2008,J - Information and communication,4.31155E-05
+2009,J - Information and communication,4.72807E-05
+2010,J - Information and communication,4.7306E-05
+2011,J - Information and communication,4.56254E-05
+2012,J - Information and communication,4.34508E-05
+2013,J - Information and communication,3.36329E-05
+2014,J - Information and communication,3.34386E-05
+2015,J - Information and communication,3.28031E-05
+2016,J - Information and communication,2.66174E-05
+2017,J - Information and communication,2.92846E-05
 1997,K - Financial and insurance activities,0.000157989
 1998,K - Financial and insurance activities,0.000134249
 1999,K - Financial and insurance activities,0.000133745
@@ -251,48 +251,48 @@ Year,Sector,Value
 2015,K - Financial and insurance activities,3.45203E-05
 2016,K - Financial and insurance activities,2.45641E-05
 2017,K - Financial and insurance activities,2.81758E-05
-1997,"M - Professional, scientific and technical activities ",9.575E-05
-1998,"M - Professional, scientific and technical activities ",7.8762E-05
-1999,"M - Professional, scientific and technical activities ",7.68304E-05
-2000,"M - Professional, scientific and technical activities ",7.31037E-05
-2001,"M - Professional, scientific and technical activities ",6.71878E-05
-2002,"M - Professional, scientific and technical activities ",8.91131E-05
-2003,"M - Professional, scientific and technical activities ",6.89172E-05
-2004,"M - Professional, scientific and technical activities ",7.7131E-05
-2005,"M - Professional, scientific and technical activities ",8.84329E-05
-2006,"M - Professional, scientific and technical activities ",0.000110217
-2007,"M - Professional, scientific and technical activities ",8.17908E-05
-2008,"M - Professional, scientific and technical activities ",7.52903E-05
-2009,"M - Professional, scientific and technical activities ",7.63472E-05
-2010,"M - Professional, scientific and technical activities ",6.96942E-05
-2011,"M - Professional, scientific and technical activities ",7.48675E-05
-2012,"M - Professional, scientific and technical activities ",6.3695E-05
-2013,"M - Professional, scientific and technical activities ",5.47398E-05
-2014,"M - Professional, scientific and technical activities ",5.28778E-05
-2015,"M - Professional, scientific and technical activities ",4.58019E-05
-2016,"M - Professional, scientific and technical activities ",4.13814E-05
-2017,"M - Professional, scientific and technical activities ",4.41799E-05
-1997,N - Administrative and support service activities ,0.000321184
-1998,N - Administrative and support service activities ,0.000224839
-1999,N - Administrative and support service activities ,0.000240468
-2000,N - Administrative and support service activities ,0.000221058
-2001,N - Administrative and support service activities ,0.00023486
-2002,N - Administrative and support service activities ,0.000226526
-2003,N - Administrative and support service activities ,0.000209573
-2004,N - Administrative and support service activities ,0.000224783
-2005,N - Administrative and support service activities ,0.000279075
-2006,N - Administrative and support service activities ,0.00025893
-2007,N - Administrative and support service activities ,0.000221082
-2008,N - Administrative and support service activities ,0.000330304
-2009,N - Administrative and support service activities ,0.000333642
-2010,N - Administrative and support service activities ,0.000392063
-2011,N - Administrative and support service activities ,0.000352398
-2012,N - Administrative and support service activities ,0.000370401
-2013,N - Administrative and support service activities ,0.000300152
-2014,N - Administrative and support service activities ,0.000251572
-2015,N - Administrative and support service activities ,0.00021115
-2016,N - Administrative and support service activities ,0.000198491
-2017,N - Administrative and support service activities ,0.000224108
+1997,"M - Professional, scientific and technical activities",9.575E-05
+1998,"M - Professional, scientific and technical activities",7.8762E-05
+1999,"M - Professional, scientific and technical activities",7.68304E-05
+2000,"M - Professional, scientific and technical activities",7.31037E-05
+2001,"M - Professional, scientific and technical activities",6.71878E-05
+2002,"M - Professional, scientific and technical activities",8.91131E-05
+2003,"M - Professional, scientific and technical activities",6.89172E-05
+2004,"M - Professional, scientific and technical activities",7.7131E-05
+2005,"M - Professional, scientific and technical activities",8.84329E-05
+2006,"M - Professional, scientific and technical activities",0.000110217
+2007,"M - Professional, scientific and technical activities",8.17908E-05
+2008,"M - Professional, scientific and technical activities",7.52903E-05
+2009,"M - Professional, scientific and technical activities",7.63472E-05
+2010,"M - Professional, scientific and technical activities",6.96942E-05
+2011,"M - Professional, scientific and technical activities",7.48675E-05
+2012,"M - Professional, scientific and technical activities",6.3695E-05
+2013,"M - Professional, scientific and technical activities",5.47398E-05
+2014,"M - Professional, scientific and technical activities",5.28778E-05
+2015,"M - Professional, scientific and technical activities",4.58019E-05
+2016,"M - Professional, scientific and technical activities",4.13814E-05
+2017,"M - Professional, scientific and technical activities",4.41799E-05
+1997,N - Administrative and support service activities,0.000321184
+1998,N - Administrative and support service activities,0.000224839
+1999,N - Administrative and support service activities,0.000240468
+2000,N - Administrative and support service activities,0.000221058
+2001,N - Administrative and support service activities,0.00023486
+2002,N - Administrative and support service activities,0.000226526
+2003,N - Administrative and support service activities,0.000209573
+2004,N - Administrative and support service activities,0.000224783
+2005,N - Administrative and support service activities,0.000279075
+2006,N - Administrative and support service activities,0.00025893
+2007,N - Administrative and support service activities,0.000221082
+2008,N - Administrative and support service activities,0.000330304
+2009,N - Administrative and support service activities,0.000333642
+2010,N - Administrative and support service activities,0.000392063
+2011,N - Administrative and support service activities,0.000352398
+2012,N - Administrative and support service activities,0.000370401
+2013,N - Administrative and support service activities,0.000300152
+2014,N - Administrative and support service activities,0.000251572
+2015,N - Administrative and support service activities,0.00021115
+2016,N - Administrative and support service activities,0.000198491
+2017,N - Administrative and support service activities,0.000224108
 1997,O - Public administration and defence; compulsory social security,0.000258086
 1998,O - Public administration and defence; compulsory social security,0.000161109
 1999,O - Public administration and defence; compulsory social security,0.000158709
@@ -335,69 +335,69 @@ Year,Sector,Value
 2015,P - Education ,6.35616E-06
 2016,P - Education ,5.82024E-06
 2017,P - Education ,5.51767E-06
-1997,Q - Human health and social work activities ,1.0432E-05
-1998,Q - Human health and social work activities ,7.84739E-06
-1999,Q - Human health and social work activities ,7.49341E-06
-2000,Q - Human health and social work activities ,7.32913E-06
-2001,Q - Human health and social work activities ,7.57775E-06
-2002,Q - Human health and social work activities ,8.58745E-06
-2003,Q - Human health and social work activities ,1.01161E-05
-2004,Q - Human health and social work activities ,1.26846E-05
-2005,Q - Human health and social work activities ,1.37875E-05
-2006,Q - Human health and social work activities ,1.40167E-05
-2007,Q - Human health and social work activities ,1.68235E-05
-2008,Q - Human health and social work activities ,1.53608E-05
-2009,Q - Human health and social work activities ,1.47832E-05
-2010,Q - Human health and social work activities ,1.59019E-05
-2011,Q - Human health and social work activities ,1.77184E-05
-2012,Q - Human health and social work activities ,1.76702E-05
-2013,Q - Human health and social work activities ,1.48246E-05
-2014,Q - Human health and social work activities ,1.50018E-05
-2015,Q - Human health and social work activities ,1.2455E-05
-2016,Q - Human health and social work activities ,1.09677E-05
-2017,Q - Human health and social work activities ,1.1314E-05
-1997,"R - Arts, entertainment and recreation ",7.71554E-05
-1998,"R - Arts, entertainment and recreation ",7.15695E-05
-1999,"R - Arts, entertainment and recreation ",7.62121E-05
-2000,"R - Arts, entertainment and recreation ",6.58159E-05
-2001,"R - Arts, entertainment and recreation ",6.83197E-05
-2002,"R - Arts, entertainment and recreation ",0.000148953
-2003,"R - Arts, entertainment and recreation ",8.59707E-05
-2004,"R - Arts, entertainment and recreation ",7.7645E-05
-2005,"R - Arts, entertainment and recreation ",8.52328E-05
-2006,"R - Arts, entertainment and recreation ",0.000140161
-2007,"R - Arts, entertainment and recreation ",5.66267E-05
-2008,"R - Arts, entertainment and recreation ",5.64621E-05
-2009,"R - Arts, entertainment and recreation ",5.22517E-05
-2010,"R - Arts, entertainment and recreation ",6.34936E-05
-2011,"R - Arts, entertainment and recreation ",5.61622E-05
-2012,"R - Arts, entertainment and recreation ",6.1228E-05
-2013,"R - Arts, entertainment and recreation ",5.02815E-05
-2014,"R - Arts, entertainment and recreation ",5.29665E-05
-2015,"R - Arts, entertainment and recreation ",4.70318E-05
-2016,"R - Arts, entertainment and recreation ",4.21329E-05
-2017,"R - Arts, entertainment and recreation ",5.10604E-05
-1997,S - Other services activities ,0.000147632
-1998,S - Other services activities ,0.000137473
-1999,S - Other services activities ,0.00013279
-2000,S - Other services activities ,0.000120767
-2001,S - Other services activities ,0.000112927
-2002,S - Other services activities ,8.35957E-05
-2003,S - Other services activities ,6.52703E-05
-2004,S - Other services activities ,6.64521E-05
-2005,S - Other services activities ,7.65304E-05
-2006,S - Other services activities ,7.46332E-05
-2007,S - Other services activities ,6.19818E-05
-2008,S - Other services activities ,6.00857E-05
-2009,S - Other services activities ,6.42824E-05
-2010,S - Other services activities ,6.58495E-05
-2011,S - Other services activities ,7.07413E-05
-2012,S - Other services activities ,7.07156E-05
-2013,S - Other services activities ,6.58506E-05
-2014,S - Other services activities ,6.16881E-05
-2015,S - Other services activities ,5.31272E-05
-2016,S - Other services activities ,5.01937E-05
-2017,S - Other services activities ,5.3453E-05
+1997,Q - Human health and social work activities,1.0432E-05
+1998,Q - Human health and social work activities,7.84739E-06
+1999,Q - Human health and social work activities,7.49341E-06
+2000,Q - Human health and social work activities,7.32913E-06
+2001,Q - Human health and social work activities,7.57775E-06
+2002,Q - Human health and social work activities,8.58745E-06
+2003,Q - Human health and social work activities,1.01161E-05
+2004,Q - Human health and social work activities,1.26846E-05
+2005,Q - Human health and social work activities,1.37875E-05
+2006,Q - Human health and social work activities,1.40167E-05
+2007,Q - Human health and social work activities,1.68235E-05
+2008,Q - Human health and social work activities,1.53608E-05
+2009,Q - Human health and social work activities,1.47832E-05
+2010,Q - Human health and social work activities,1.59019E-05
+2011,Q - Human health and social work activities,1.77184E-05
+2012,Q - Human health and social work activities,1.76702E-05
+2013,Q - Human health and social work activities,1.48246E-05
+2014,Q - Human health and social work activities,1.50018E-05
+2015,Q - Human health and social work activities,1.2455E-05
+2016,Q - Human health and social work activities,1.09677E-05
+2017,Q - Human health and social work activities,1.1314E-05
+1997,"R - Arts, entertainment and recreation",7.71554E-05
+1998,"R - Arts, entertainment and recreation",7.15695E-05
+1999,"R - Arts, entertainment and recreation",7.62121E-05
+2000,"R - Arts, entertainment and recreation",6.58159E-05
+2001,"R - Arts, entertainment and recreation",6.83197E-05
+2002,"R - Arts, entertainment and recreation",0.000148953
+2003,"R - Arts, entertainment and recreation",8.59707E-05
+2004,"R - Arts, entertainment and recreation",7.7645E-05
+2005,"R - Arts, entertainment and recreation",8.52328E-05
+2006,"R - Arts, entertainment and recreation",0.000140161
+2007,"R - Arts, entertainment and recreation",5.66267E-05
+2008,"R - Arts, entertainment and recreation",5.64621E-05
+2009,"R - Arts, entertainment and recreation",5.22517E-05
+2010,"R - Arts, entertainment and recreation",6.34936E-05
+2011,"R - Arts, entertainment and recreation",5.61622E-05
+2012,"R - Arts, entertainment and recreation",6.1228E-05
+2013,"R - Arts, entertainment and recreation",5.02815E-05
+2014,"R - Arts, entertainment and recreation",5.29665E-05
+2015,"R - Arts, entertainment and recreation",4.70318E-05
+2016,"R - Arts, entertainment and recreation",4.21329E-05
+2017,"R - Arts, entertainment and recreation",5.10604E-05
+1997,S - Other services activities,0.000147632
+1998,S - Other services activities,0.000137473
+1999,S - Other services activities,0.00013279
+2000,S - Other services activities,0.000120767
+2001,S - Other services activities,0.000112927
+2002,S - Other services activities,8.35957E-05
+2003,S - Other services activities,6.52703E-05
+2004,S - Other services activities,6.64521E-05
+2005,S - Other services activities,7.65304E-05
+2006,S - Other services activities,7.46332E-05
+2007,S - Other services activities,6.19818E-05
+2008,S - Other services activities,6.00857E-05
+2009,S - Other services activities,6.42824E-05
+2010,S - Other services activities,6.58495E-05
+2011,S - Other services activities,7.07413E-05
+2012,S - Other services activities,7.07156E-05
+2013,S - Other services activities,6.58506E-05
+2014,S - Other services activities,6.16881E-05
+2015,S - Other services activities,5.31272E-05
+2016,S - Other services activities,5.01937E-05
+2017,S - Other services activities,5.3453E-05
 1997,U - Activities of extraterritorial organisations and bodies,
 1998,U - Activities of extraterritorial organisations and bodies,
 1999,U - Activities of extraterritorial organisations and bodies,
