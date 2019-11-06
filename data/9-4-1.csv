@@ -1,7 +1,85 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Sector,Value
+1997,,0.007904551
+1998,,0.0073917159999999996
+1999,,0.0073008380000000005
+2000,,0.0069846959999999994
+2001,,0.006431631
+2002,,0.006168024
+2003,,0.005971385
+2004,,0.005408306999999999
+2005,,0.005329895
+2006,,0.004729405
+2007,,0.003984087
+2008,,0.003564005
+2009,,0.0037313209999999997
+2010,,0.0039062770000000005
+2011,,0.003484083
+2012,,0.0033890490000000003
+2013,,0.003035603
+2014,,0.00293226
+2015,,0.002796
+2016,,0.0026372390000000004
+2017,,0.002723725
+1997,"A - Landbúnaður, skógrækt og fiskveiðar",0.031976008
+1998,"A - Landbúnaður, skógrækt og fiskveiðar",0.029771422999999998
+1999,"A - Landbúnaður, skógrækt og fiskveiðar",0.028970904
+2000,"A - Landbúnaður, skógrækt og fiskveiðar",0.028474345
+2001,"A - Landbúnaður, skógrækt og fiskveiðar",0.023417977000000003
+2002,"A - Landbúnaður, skógrækt og fiskveiðar",0.020882401000000002
+2003,"A - Landbúnaður, skógrækt og fiskveiðar",0.022163987000000003
+2004,"A - Landbúnaður, skógrækt og fiskveiðar",0.025501587000000003
+2005,"A - Landbúnaður, skógrækt og fiskveiðar",0.025187645
+2006,"A - Landbúnaður, skógrækt og fiskveiðar",0.02097585
+2007,"A - Landbúnaður, skógrækt og fiskveiðar",0.020758983999999998
+2008,"A - Landbúnaður, skógrækt og fiskveiðar",0.014924401
+2009,"A - Landbúnaður, skógrækt og fiskveiðar",0.012681807
+2010,"A - Landbúnaður, skógrækt og fiskveiðar",0.010695616000000002
+2011,"A - Landbúnaður, skógrækt og fiskveiðar",0.010248334
+2012,"A - Landbúnaður, skógrækt og fiskveiðar",0.00925651
+2013,"A - Landbúnaður, skógrækt og fiskveiðar",0.009474937
+2014,"A - Landbúnaður, skógrækt og fiskveiðar",0.009794991
+2015,"A - Landbúnaður, skógrækt og fiskveiðar",0.008708471
+2016,"A - Landbúnaður, skógrækt og fiskveiðar",0.009276474
+2017,"A - Landbúnaður, skógrækt og fiskveiðar",0.011011534
+1997,B - Námugröftur og vinnsla hráefna úr jörðu,0.00035524
+1998,B - Námugröftur og vinnsla hráefna úr jörðu,0.000332344
+1999,B - Námugröftur og vinnsla hráefna úr jörðu,0.00035990800000000004
+2000,B - Námugröftur og vinnsla hráefna úr jörðu,0.000379234
+2001,B - Námugröftur og vinnsla hráefna úr jörðu,0.000324675
+2002,B - Námugröftur og vinnsla hráefna úr jörðu,0.000323986
+2003,B - Námugröftur og vinnsla hráefna úr jörðu,0.00090471
+2004,B - Námugröftur og vinnsla hráefna úr jörðu,0.0007139589999999999
+2005,B - Námugröftur og vinnsla hráefna úr jörðu,0.004712921
+2006,B - Námugröftur og vinnsla hráefna úr jörðu,0.000775639
+2007,B - Námugröftur og vinnsla hráefna úr jörðu,0.000613361
+2008,B - Námugröftur og vinnsla hráefna úr jörðu,0.000709416
+2009,B - Námugröftur og vinnsla hráefna úr jörðu,0.001320433
+2010,B - Námugröftur og vinnsla hráefna úr jörðu,0.0011406839999999999
+2011,B - Námugröftur og vinnsla hráefna úr jörðu,0.001145833
+2012,B - Námugröftur og vinnsla hráefna úr jörðu,0.001159189
+2013,B - Námugröftur og vinnsla hráefna úr jörðu,0.000847621
+2014,B - Námugröftur og vinnsla hráefna úr jörðu,0.0008647160000000001
+2015,B - Námugröftur og vinnsla hráefna úr jörðu,0.000630769
+2016,B - Námugröftur og vinnsla hráefna úr jörðu,0.000620898
+2017,B - Námugröftur og vinnsla hráefna úr jörðu,0.000381161
+1997,C - Framleiðsla,0.010148778
+1998,C - Framleiðsla,0.00966932
+1999,C - Framleiðsla,0.012117576000000001
+2000,C - Framleiðsla,0.012562381000000001
+2001,C - Framleiðsla,0.011037179
+2002,C - Framleiðsla,0.011726665
+2003,C - Framleiðsla,0.012493945
+2004,C - Framleiðsla,0.011855648
+2005,C - Framleiðsla,0.012973219
+2006,C - Framleiðsla,0.010773821000000001
+2007,C - Framleiðsla,0.010008504
+2008,C - Framleiðsla,0.008937278
+2009,C - Framleiðsla,0.009341494
+2010,C - Framleiðsla,0.010097779
+2011,C - Framleiðsla,0.008414475
+2012,C - Framleiðsla,0.009017935
+2013,C - Framleiðsla,0.008096446
+2014,C - Framleiðsla,0.008088076999999999
+2015,C - Framleiðsla,0.007868642
+2016,C - Framleiðsla,0.008027854000000001
+2017,C - Framleiðsla,0.00843089
