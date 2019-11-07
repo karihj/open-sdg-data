@@ -1,421 +1,421 @@
-Year;Sector;Value
-1997;;0,414078362
-1998;;0,394027708
-1999;;0,405018556
-2000;;0,435865179
-2001;;0,511642878
-2002;;0,467209132
-2003;;0,387678626
-2004;;0,329308438
-2005;;0,300784685
-2006;;0,305819215
-2007;;0,2431074
-2008;;0,306095378
-2009;;0,454821752
-2010;;0,477854844
-2011;;0,418137457
-2012;;0,447299476
-2013;;0,397326422
-2014;;0,372563342
-2015;;0,401640803
-2016;;0,351121205
-2017;;0,345424968
-1997;A - Agriculture, forestry and fishing;1,675057035
-1998;A - Agriculture, forestry and fishing;1,587015316
-1999;A - Agriculture, forestry and fishing;1,60717891
-2000;A - Agriculture, forestry and fishing;1,77688124
-2001;A - Agriculture, forestry and fishing;1,862924172
-2002;A - Agriculture, forestry and fishing;1,581778549
-2003;A - Agriculture, forestry and fishing;1,438946492
-2004;A - Agriculture, forestry and fishing;1,552775611
-2005;A - Agriculture, forestry and fishing;1,421427255
-2006;A - Agriculture, forestry and fishing;1,356368818
-2007;A - Agriculture, forestry and fishing;1,266704811
-2008;A - Agriculture, forestry and fishing;1,281785593
-2009;A - Agriculture, forestry and fishing;1,545822887
-2010;A - Agriculture, forestry and fishing;1,308394652
-2011;A - Agriculture, forestry and fishing;1,229939678
-2012;A - Agriculture, forestry and fishing;1,221709246
-2013;A - Agriculture, forestry and fishing;1,240163161
-2014;A - Agriculture, forestry and fishing;1,244519399
-2015;A - Agriculture, forestry and fishing;1,250957578
-2016;A - Agriculture, forestry and fishing;1,235066923
-2017;A - Agriculture, forestry and fishing;1,396491238
-1997;B - Mining and quarrying;0,018609168
-1998;B - Mining and quarrying;0,017716162
-1999;B - Mining and quarrying;0,019966142
-2000;B - Mining and quarrying;0,023665276
-2001;B - Mining and quarrying;0,025828257
-2002;B - Mining and quarrying;0,024540968
-2003;B - Mining and quarrying;0,058736265
-2004;B - Mining and quarrying;0,043472504
-2005;B - Mining and quarrying;0,265966689
-2006;B - Mining and quarrying;0,050155432
-2007;B - Mining and quarrying;0,037427036
-2008;B - Mining and quarrying;0,060928388
-2009;B - Mining and quarrying;0,160951421
-2010;B - Mining and quarrying;0,139539924
-2011;B - Mining and quarrying;0,137515611
-2012;B - Mining and quarrying;0,152994215
-2013;B - Mining and quarrying;0,110944083
-2014;B - Mining and quarrying;0,109867911
-2015;B - Mining and quarrying;0,09060897
-2016;B - Mining and quarrying;0,08266612
-2017;B - Mining and quarrying;0,048339075
-1997;C - Manufacturing;0,53164178
-1998;C - Manufacturing;0,51543923
-1999;C - Manufacturing;0,672230084
-2000;C - Manufacturing;0,783928786
-2001;C - Manufacturing;0,878018937
-2002;C - Manufacturing;0,888259291
-2003;C - Manufacturing;0,811140992
-2004;C - Manufacturing;0,721882976
-2005;C - Manufacturing;0,732124317
-2006;C - Manufacturing;0,696671429
-2007;C - Manufacturing;0,610714849
-2008;C - Manufacturing;0,767580146
-2009;C - Manufacturing;1,13866223
-2010;C - Manufacturing;1,235261288
-2011;C - Manufacturing;1,009851604
-2012;C - Manufacturing;1,19022126
-2013;C - Manufacturing;1,059734192
-2014;C - Manufacturing;1,027644448
-2015;C - Manufacturing;1,130317589
-2016;C - Manufacturing;1,068825995
-2017;C - Manufacturing;1,069212034
-1997;D - Electricity and power generation;0,268075432
-1998;D - Electricity and power generation;0,279730541
-1999;D - Electricity and power generation;0,207591334
-2000;D - Electricity and power generation;0,280731156
-2001;D - Electricity and power generation;0,379500038
-2002;D - Electricity and power generation;0,501267158
-2003;D - Electricity and power generation;0,421763456
-2004;D - Electricity and power generation;0,372418701
-2005;D - Electricity and power generation;0,295356406
-2006;D - Electricity and power generation;0,218500422
-2007;D - Electricity and power generation;0,198780196
-2008;D - Electricity and power generation;0,209030714
-2009;D - Electricity and power generation;0,351338786
-2010;D - Electricity and power generation;0,343595945
-2011;D - Electricity and power generation;0,273554876
-2012;D - Electricity and power generation;0,326287348
-2013;D - Electricity and power generation;0,300430864
-2014;D - Electricity and power generation;0,308980043
-2015;D - Electricity and power generation;0,304978136
-2016;D - Electricity and power generation;0,319056114
-2017;D - Electricity and power generation;0,26267869
-1997;E - Water collection, waste management and remediation activities;4,462954632
-1998;E - Water collection, waste management and remediation activities;4,083691716
-1999;E - Water collection, waste management and remediation activities;4,253216588
-2000;E - Water collection, waste management and remediation activities;4,660470855
-2001;E - Water collection, waste management and remediation activities;4,597119027
-2002;E - Water collection, waste management and remediation activities;4,151866351
-2003;E - Water collection, waste management and remediation activities;3,91096198
-2004;E - Water collection, waste management and remediation activities;3,315431187
-2005;E - Water collection, waste management and remediation activities;2,776155978
-2006;E - Water collection, waste management and remediation activities;2,921890834
-2007;E - Water collection, waste management and remediation activities;1,850959913
-2008;E - Water collection, waste management and remediation activities;2,357495373
-2009;E - Water collection, waste management and remediation activities;3,115431479
-2010;E - Water collection, waste management and remediation activities;2,718150253
-2011;E - Water collection, waste management and remediation activities;2,401448127
-2012;E - Water collection, waste management and remediation activities;2,340811029
-2013;E - Water collection, waste management and remediation activities;1,938884142
-2014;E - Water collection, waste management and remediation activities;1,784137486
-2015;E - Water collection, waste management and remediation activities;1,930373807
-2016;E - Water collection, waste management and remediation activities;1,604468457
-2017;E - Water collection, waste management and remediation activities;1,414721739
-1997;F - Construction;0,195534069
-1998;F - Construction;0,170207111
-1999;F - Construction;0,212714668
-2000;F - Construction;0,209572518
-2001;F - Construction;0,288295297
-2002;F - Construction;0,282487723
-2003;F - Construction;0,237939962
-2004;F - Construction;0,172267198
-2005;F - Construction;0,118624787
-2006;F - Construction;0,137584274
-2007;F - Construction;0,132897839
-2008;F - Construction;0,18431981
-2009;F - Construction;0,498791826
-2010;F - Construction;0,49023493
-2011;F - Construction;0,362696551
-2012;F - Construction;0,288955938
-2013;F - Construction;0,217377287
-2014;F - Construction;0,183692689
-2015;F - Construction;0,179960231
-2016;F - Construction;0,158534108
-2017;F - Construction;0,11604735
-1997;G - Trade and repair of mechanical equipment;0,025159005
-1998;G - Trade and repair of mechanical equipment;0,0252732
-1999;G - Trade and repair of mechanical equipment;0,028809723
-2000;G - Trade and repair of mechanical equipment;0,035889778
-2001;G - Trade and repair of mechanical equipment;0,053373496
-2002;G - Trade and repair of mechanical equipment;0,048068052
-2003;G - Trade and repair of mechanical equipment;0,043287144
-2004;G - Trade and repair of mechanical equipment;0,03744473
-2005;G - Trade and repair of mechanical equipment;0,039370795
-2006;G - Trade and repair of mechanical equipment;0,044131479
-2007;G - Trade and repair of mechanical equipment;0,037170649
-2008;G - Trade and repair of mechanical equipment;0,062272114
-2009;G - Trade and repair of mechanical equipment;0,070902592
-2010;G - Trade and repair of mechanical equipment;0,063107752
-2011;G - Trade and repair of mechanical equipment;0,043505989
-2012;G - Trade and repair of mechanical equipment;0,046632294
-2013;G - Trade and repair of mechanical equipment;0,038549058
-2014;G - Trade and repair of mechanical equipment;0,037910113
-2015;G - Trade and repair of mechanical equipment;0,036285088
-2016;G - Trade and repair of mechanical equipment;0,029840841
-2017;G - Trade and repair of mechanical equipment;0,030719905
-1997;H - Tranportation and storage;0,849285915
-1998;H - Tranportation and storage;0,966997637
-1999;H - Tranportation and storage;1,055290554
-2000;H - Tranportation and storage;1,239507061
-2001;H - Tranportation and storage;1,471902152
-2002;H - Tranportation and storage;1,559319592
-2003;H - Tranportation and storage;1,41274569
-2004;H - Tranportation and storage;1,139330336
-2005;H - Tranportation and storage;1,494113965
-2006;H - Tranportation and storage;1,912504352
-2007;H - Tranportation and storage;1,244907302
-2008;H - Tranportation and storage;1,051131135
-2009;H - Tranportation and storage;1,846727656
-2010;H - Tranportation and storage;1,566534638
-2011;H - Tranportation and storage;1,350250838
-2012;H - Tranportation and storage;1,724299477
-2013;H - Tranportation and storage;1,459539611
-2014;H - Tranportation and storage;1,496565877
-2015;H - Tranportation and storage;1,650380637
-2016;H - Tranportation and storage;1,458502415
-2017;H - Tranportation and storage;1,654509033
-1997;I - Accommodation and food services activities;0,003088354
-1998;I - Accommodation and food services activities;0,002415457
-1999;I - Accommodation and food services activities;0,002515521
-2000;I - Accommodation and food services activities;0,002916485
-2001;I - Accommodation and food services activities;0,003925014
-2002;I - Accommodation and food services activities;0,007079046
-2003;I - Accommodation and food services activities;0,003502089
-2004;I - Accommodation and food services activities;0,004167588
-2005;I - Accommodation and food services activities;0,004392614
-2006;I - Accommodation and food services activities;0,0055217
-2007;I - Accommodation and food services activities;0,004768224
-2008;I - Accommodation and food services activities;0,006854676
-2009;I - Accommodation and food services activities;0,009977671
-2010;I - Accommodation and food services activities;0,010554329
-2011;I - Accommodation and food services activities;0,010576742
-2012;I - Accommodation and food services activities;0,010284721
-2013;I - Accommodation and food services activities;0,008278653
-2014;I - Accommodation and food services activities;0,007504426
-2015;I - Accommodation and food services activities;0,007154065
-2016;I - Accommodation and food services activities;0,005486277
-2017;I - Accommodation and food services activities;0,005527575
-1997;J - Information and communication;0,003214528
-1998;J - Information and communication;0,002563917
-1999;J - Information and communication;0,002452238
-2000;J - Information and communication;0,002506632
-2001;J - Information and communication;0,003081259
-2002;J - Information and communication;0,003081366
-2003;J - Information and communication;0,00281129
-2004;J - Information and communication;0,002473511
-2005;J - Information and communication;0,002308626
-2006;J - Information and communication;0,002476738
-2007;J - Information and communication;0,002651577
-2008;J - Information and communication;0,003702986
-2009;J - Information and communication;0,005763189
-2010;J - Information and communication;0,005786943
-2011;J - Information and communication;0,005475669
-2012;J - Information and communication;0,005734796
-2013;J - Information and communication;0,004402171
-2014;J - Information and communication;0,004248597
-2015;J - Information and communication;0,004712117
-2016;J - Information and communication;0,003543837
-2017;J - Information and communication;0,003713896
-1997;K - Financial and insurance activities;0,008276235
-1998;K - Financial and insurance activities;0,007156363
-1999;K - Financial and insurance activities;0,007419606
-2000;K - Financial and insurance activities;0,005530884
-2001;K - Financial and insurance activities;0,006637623
-2002;K - Financial and insurance activities;0,004755408
-2003;K - Financial and insurance activities;0,002350936
-2004;K - Financial and insurance activities;0,001902375
-2005;K - Financial and insurance activities;0,001523494
-2006;K - Financial and insurance activities;0,001126906
-2007;K - Financial and insurance activities;0,00064498
-2008;K - Financial and insurance activities;0,001510228
-2009;K - Financial and insurance activities;0,001888866
-2010;K - Financial and insurance activities;0,004500691
-2011;K - Financial and insurance activities;0,007367282
-2012;K - Financial and insurance activities;0,009149716
-2013;K - Financial and insurance activities;0,010638934
-2014;K - Financial and insurance activities;0,005127659
-2015;K - Financial and insurance activities;0,004958785
-2016;K - Financial and insurance activities;0,003270451
-2017;K - Financial and insurance activities;0,003573279
-1997;M - Professional, scientific and technical activities;0,005015845
-1998;M - Professional, scientific and technical activities;0,00419854
-1999;M - Professional, scientific and technical activities;0,004262211
-2000;M - Professional, scientific and technical activities;0,004561879
-2001;M - Professional, scientific and technical activities;0,00534486
-2002;M - Professional, scientific and technical activities;0,006750047
-2003;M - Professional, scientific and technical activities;0,004474294
-2004;M - Professional, scientific and technical activities;0,004696461
-2005;M - Professional, scientific and technical activities;0,00499058
-2006;M - Professional, scientific and technical activities;0,007126998
-2007;M - Professional, scientific and technical activities;0,004990839
-2008;M - Professional, scientific and technical activities;0,006466325
-2009;M - Professional, scientific and technical activities;0,009306182
-2010;M - Professional, scientific and technical activities;0,008525691
-2011;M - Professional, scientific and technical activities;0,008985118
-2012;M - Professional, scientific and technical activities;0,008406706
-2013;M - Professional, scientific and technical activities;0,00716483
-2014;M - Professional, scientific and technical activities;0,006718481
-2015;M - Professional, scientific and technical activities;0,006579371
-2016;M - Professional, scientific and technical activities;0,005509508
-2017;M - Professional, scientific and technical activities;0,005602924
-1997;N - Administrative and support service activities;0,016825137
-1998;N - Administrative and support service activities;0,011985433
-1999;N - Administrative and support service activities;0,013340135
-2000;N - Administrative and support service activities;0,01379464
-2001;N - Administrative and support service activities;0,018683331
-2002;N - Administrative and support service activities;0,017158685
-2003;N - Administrative and support service activities;0,013606052
-2004;N - Administrative and support service activities;0,013686899
-2005;N - Administrative and support service activities;0,015749195
-2006;N - Administrative and support service activities;0,016743277
-2007;N - Administrative and support service activities;0,013490356
-2008;N - Administrative and support service activities;0,028368261
-2009;N - Administrative and support service activities;0,040668609
-2010;N - Administrative and support service activities;0,047961104
-2011;N - Administrative and support service activities;0,04229252
-2012;N - Administrative and support service activities;0,048886908
-2013;N - Administrative and support service activities;0,039286559
-2014;N - Administrative and support service activities;0,0319639
-2015;N - Administrative and support service activities;0,030331332
-2016;N - Administrative and support service activities;0,026427015
-2017;N - Administrative and support service activities;0,028421542
-1997;"O - Public administration and defence; compulsory social security";0,013519807
-1998;"O - Public administration and defence; compulsory social security";0,008588162
-1999;"O - Public administration and defence; compulsory social security";0,008804463
-2000;"O - Public administration and defence; compulsory social security";0,008782916
-2001;"O - Public administration and defence; compulsory social security";0,01014161
-2002;"O - Public administration and defence; compulsory social security";0,008561303
-2003;"O - Public administration and defence; compulsory social security";0,006686443
-2004;"O - Public administration and defence; compulsory social security";0,006149556
-2005;"O - Public administration and defence; compulsory social security";0,006098358
-2006;"O - Public administration and defence; compulsory social security";0,006397937
-2007;"O - Public administration and defence; compulsory social security";0,00475829
-2008;"O - Public administration and defence; compulsory social security";0,00763075
-2009;"O - Public administration and defence; compulsory social security";0,010370631
-2010;"O - Public administration and defence; compulsory social security";0,009396346
-2011;"O - Public administration and defence; compulsory social security";0,008367066
-2012;"O - Public administration and defence; compulsory social security";0,00822159
-2013;"O - Public administration and defence; compulsory social security";0,007805598
-2014;"O - Public administration and defence; compulsory social security";0,007784248
-2015;"O - Public administration and defence; compulsory social security";0,008118953
-2016;"O - Public administration and defence; compulsory social security";0,006930268
-2017;"O - Public administration and defence; compulsory social security";0,007379327
-1997;P - Education;0,000282719
-1998;P - Education;0,000217333
-1999;P - Education;0,000190258
-2000;P - Education;0,000320184
-2001;P - Education;0,000326032
-2002;P - Education;0,000316922
-2003;P - Education;0,000262861
-2004;P - Education;0,000236278
-2005;P - Education;0,000291138
-2006;P - Education;0,000282795
-2007;P - Education;0,000306017
-2008;P - Education;0,000433824
-2009;P - Education;0,000682218
-2010;P - Education;0,00068469
-2011;P - Education;0,000755576
-2012;P - Education;0,001149323
-2013;P - Education;0,000923362
-2014;P - Education;0,000897819
-2015;P - Education;0,000913052
-2016;P - Education;0,000774906
-2017;P - Education;0,000699755
-1997;Q - Human health and social work activities;0,000546478
-1998;Q - Human health and social work activities;0,000418318
-1999;Q - Human health and social work activities;0,000415702
-2000;Q - Human health and social work activities;0,000457359
-2001;Q - Human health and social work activities;0,000602818
-2002;Q - Human health and social work activities;0,000650473
-2003;Q - Human health and social work activities;0,000656765
-2004;Q - Human health and social work activities;0,000772355
-2005;Q - Human health and social work activities;0,000778076
-2006;Q - Human health and social work activities;0,000906365
-2007;Q - Human health and social work activities;0,001026561
-2008;Q - Human health and social work activities;0,001319265
-2009;Q - Human health and social work activities;0,001801964
-2010;Q - Human health and social work activities;0,00194528
-2011;Q - Human health and social work activities;0,002126449
-2012;Q - Human health and social work activities;0,002332175
-2013;Q - Human health and social work activities;0,001940369
-2014;Q - Human health and social work activities;0,001906077
-2015;Q - Human health and social work activities;0,001789146
-2016;Q - Human health and social work activities;0,001460238
-2017;Q - Human health and social work activities;0,00143485
-1997;R - Arts, entertainment and recreation;0,00404177
-1998;R - Arts, entertainment and recreation;0,003815134
-1999;R - Arts, entertainment and recreation;0,004227912
-2000;R - Arts, entertainment and recreation;0,004107104
-2001;R - Arts, entertainment and recreation;0,0054349
-2002;R - Arts, entertainment and recreation;0,011282775
-2003;R - Arts, entertainment and recreation;0,005581455
-2004;R - Arts, entertainment and recreation;0,004727758
-2005;R - Arts, entertainment and recreation;0,004809985
-2006;R - Arts, entertainment and recreation;0,009063309
-2007;R - Arts, entertainment and recreation;0,00345534
-2008;R - Arts, entertainment and recreation;0,004849259
-2009;R - Arts, entertainment and recreation;0,006369119
-2010;R - Arts, entertainment and recreation;0,007767171
-2011;R - Arts, entertainment and recreation;0,006740235
-2012;R - Arts, entertainment and recreation;0,008081105
-2013;R - Arts, entertainment and recreation;0,006581285
-2014;R - Arts, entertainment and recreation;0,006729752
-2015;R - Arts, entertainment and recreation;0,006756045
-2016;R - Arts, entertainment and recreation;0,005609564
-2017;R - Arts, entertainment and recreation;0,006475524
-1997;S - Other services activities;0,007733654
-1998;S - Other services activities;0,007328234
-1999;S - Other services activities;0,007366622
-2000;S - Other services activities;0,007536227
-2001;S - Other services activities;0,00898346
-2002;S - Other services activities;0,006332119
-2003;S - Other services activities;0,004237528
-2004;S - Other services activities;0,004046227
-2005;S - Other services activities;0,00431888
-2006;S - Other services activities;0,004826036
-2007;S - Other services activities;0,003782103
-2008;S - Other services activities;0,005160471
-2009;S - Other services activities;0,007835572
-2010;S - Other services activities;0,008055367
-2011;S - Other services activities;0,00848992
-2012;S - Other services activities;0,009333311
-2013;S - Other services activities;0,008619111
-2014;S - Other services activities;0,00783789
-2015;S - Other services activities;0,00763163
-2016;S - Other services activities;0,00668278
-2017;S - Other services activities;0,006778951
-1997;U - Activities of extraterritorial organisations and bodies;
-1998;U - Activities of extraterritorial organisations and bodies;
-1999;U - Activities of extraterritorial organisations and bodies;
-2000;U - Activities of extraterritorial organisations and bodies;
-2001;U - Activities of extraterritorial organisations and bodies;
-2002;U - Activities of extraterritorial organisations and bodies;
-2003;U - Activities of extraterritorial organisations and bodies;
-2004;U - Activities of extraterritorial organisations and bodies;
-2005;U - Activities of extraterritorial organisations and bodies;
-2006;U - Activities of extraterritorial organisations and bodies;
-2007;U - Activities of extraterritorial organisations and bodies;0,019675086
-2008;U - Activities of extraterritorial organisations and bodies;0,072375192
-2009;U - Activities of extraterritorial organisations and bodies;0,086547111
-2010;U - Activities of extraterritorial organisations and bodies;0,073361319
-2011;U - Activities of extraterritorial organisations and bodies;0,072865415
-2012;U - Activities of extraterritorial organisations and bodies;0,089437224
-2013;U - Activities of extraterritorial organisations and bodies;0,056508927
-2014;U - Activities of extraterritorial organisations and bodies;0,056662228
-2015;U - Activities of extraterritorial organisations and bodies;0,069772064
-2016;U - Activities of extraterritorial organisations and bodies;0,064808738
-2017;U - Activities of extraterritorial organisations and bodies;0,119179279
+Year,Sector,Value
+1997,,0.414078362
+1998,,0.394027708
+1999,,0.405018556
+2000,,0.435865179
+2001,,0.511642878
+2002,,0.467209132
+2003,,0.387678626
+2004,,0.329308438
+2005,,0.300784685
+2006,,0.305819215
+2007,,0.2431074
+2008,,0.306095378
+2009,,0.454821752
+2010,,0.477854844
+2011,,0.418137457
+2012,,0.447299476
+2013,,0.397326422
+2014,,0.372563342
+2015,,0.401640803
+2016,,0.351121205
+2017,,0.345424968
+1997,"A - Agriculture, forestry and fishing",1.675057035
+1998,"A - Agriculture, forestry and fishing",1.587015316
+1999,"A - Agriculture, forestry and fishing",1.60717891
+2000,"A - Agriculture, forestry and fishing",1.77688124
+2001,"A - Agriculture, forestry and fishing",1.862924172
+2002,"A - Agriculture, forestry and fishing",1.581778549
+2003,"A - Agriculture, forestry and fishing",1.438946492
+2004,"A - Agriculture, forestry and fishing",1.552775611
+2005,"A - Agriculture, forestry and fishing",1.421427255
+2006,"A - Agriculture, forestry and fishing",1.356368818
+2007,"A - Agriculture, forestry and fishing",1.266704811
+2008,"A - Agriculture, forestry and fishing",1.281785593
+2009,"A - Agriculture, forestry and fishing",1.545822887
+2010,"A - Agriculture, forestry and fishing",1.308394652
+2011,"A - Agriculture, forestry and fishing",1.229939678
+2012,"A - Agriculture, forestry and fishing",1.221709246
+2013,"A - Agriculture, forestry and fishing",1.240163161
+2014,"A - Agriculture, forestry and fishing",1.244519399
+2015,"A - Agriculture, forestry and fishing",1.250957578
+2016,"A - Agriculture, forestry and fishing",1.235066923
+2017,"A - Agriculture, forestry and fishing",1.396491238
+1997,B - Mining and quarrying,0.018609168
+1998,B - Mining and quarrying,0.017716162
+1999,B - Mining and quarrying,0.019966142
+2000,B - Mining and quarrying,0.023665276
+2001,B - Mining and quarrying,0.025828257
+2002,B - Mining and quarrying,0.024540968
+2003,B - Mining and quarrying,0.058736265
+2004,B - Mining and quarrying,0.043472504
+2005,B - Mining and quarrying,0.265966689
+2006,B - Mining and quarrying,0.050155432
+2007,B - Mining and quarrying,0.037427036
+2008,B - Mining and quarrying,0.060928388
+2009,B - Mining and quarrying,0.160951421
+2010,B - Mining and quarrying,0.139539924
+2011,B - Mining and quarrying,0.137515611
+2012,B - Mining and quarrying,0.152994215
+2013,B - Mining and quarrying,0.110944083
+2014,B - Mining and quarrying,0.109867911
+2015,B - Mining and quarrying,0.09060897
+2016,B - Mining and quarrying,0.08266612
+2017,B - Mining and quarrying,0.048339075
+1997,C - Manufacturing,0.53164178
+1998,C - Manufacturing,0.51543923
+1999,C - Manufacturing,0.672230084
+2000,C - Manufacturing,0.783928786
+2001,C - Manufacturing,0.878018937
+2002,C - Manufacturing,0.888259291
+2003,C - Manufacturing,0.811140992
+2004,C - Manufacturing,0.721882976
+2005,C - Manufacturing,0.732124317
+2006,C - Manufacturing,0.696671429
+2007,C - Manufacturing,0.610714849
+2008,C - Manufacturing,0.767580146
+2009,C - Manufacturing,1.13866223
+2010,C - Manufacturing,1.235261288
+2011,C - Manufacturing,1.009851604
+2012,C - Manufacturing,1.19022126
+2013,C - Manufacturing,1.059734192
+2014,C - Manufacturing,1.027644448
+2015,C - Manufacturing,1.130317589
+2016,C - Manufacturing,1.068825995
+2017,C - Manufacturing,1.069212034
+1997,D - Electricity and power generation,0.268075432
+1998,D - Electricity and power generation,0.279730541
+1999,D - Electricity and power generation,0.207591334
+2000,D - Electricity and power generation,0.280731156
+2001,D - Electricity and power generation,0.379500038
+2002,D - Electricity and power generation,0.501267158
+2003,D - Electricity and power generation,0.421763456
+2004,D - Electricity and power generation,0.372418701
+2005,D - Electricity and power generation,0.295356406
+2006,D - Electricity and power generation,0.218500422
+2007,D - Electricity and power generation,0.198780196
+2008,D - Electricity and power generation,0.209030714
+2009,D - Electricity and power generation,0.351338786
+2010,D - Electricity and power generation,0.343595945
+2011,D - Electricity and power generation,0.273554876
+2012,D - Electricity and power generation,0.326287348
+2013,D - Electricity and power generation,0.300430864
+2014,D - Electricity and power generation,0.308980043
+2015,D - Electricity and power generation,0.304978136
+2016,D - Electricity and power generation,0.319056114
+2017,D - Electricity and power generation,0.26267869
+1997,"E - Water collection, waste management and remediation activities",4.462954632
+1998,"E - Water collection, waste management and remediation activities",4.083691716
+1999,"E - Water collection, waste management and remediation activities",4.253216588
+2000,"E - Water collection, waste management and remediation activities",4.660470855
+2001,"E - Water collection, waste management and remediation activities",4.597119027
+2002,"E - Water collection, waste management and remediation activities",4.151866351
+2003,"E - Water collection, waste management and remediation activities",3.91096198
+2004,"E - Water collection, waste management and remediation activities",3.315431187
+2005,"E - Water collection, waste management and remediation activities",2.776155978
+2006,"E - Water collection, waste management and remediation activities",2.921890834
+2007,"E - Water collection, waste management and remediation activities",1.850959913
+2008,"E - Water collection, waste management and remediation activities",2.357495373
+2009,"E - Water collection, waste management and remediation activities",3.115431479
+2010,"E - Water collection, waste management and remediation activities",2.718150253
+2011,"E - Water collection, waste management and remediation activities",2.401448127
+2012,"E - Water collection, waste management and remediation activities",2.340811029
+2013,"E - Water collection, waste management and remediation activities",1.938884142
+2014,"E - Water collection, waste management and remediation activities",1.784137486
+2015,"E - Water collection, waste management and remediation activities",1.930373807
+2016,"E - Water collection, waste management and remediation activities",1.604468457
+2017,"E - Water collection, waste management and remediation activities",1.414721739
+1997,F - Construction,0.195534069
+1998,F - Construction,0.170207111
+1999,F - Construction,0.212714668
+2000,F - Construction,0.209572518
+2001,F - Construction,0.288295297
+2002,F - Construction,0.282487723
+2003,F - Construction,0.237939962
+2004,F - Construction,0.172267198
+2005,F - Construction,0.118624787
+2006,F - Construction,0.137584274
+2007,F - Construction,0.132897839
+2008,F - Construction,0.18431981
+2009,F - Construction,0.498791826
+2010,F - Construction,0.49023493
+2011,F - Construction,0.362696551
+2012,F - Construction,0.288955938
+2013,F - Construction,0.217377287
+2014,F - Construction,0.183692689
+2015,F - Construction,0.179960231
+2016,F - Construction,0.158534108
+2017,F - Construction,0.11604735
+1997,G - Trade and repair of mechanical equipment,0.025159005
+1998,G - Trade and repair of mechanical equipment,0.0252732
+1999,G - Trade and repair of mechanical equipment,0.028809723
+2000,G - Trade and repair of mechanical equipment,0.035889778
+2001,G - Trade and repair of mechanical equipment,0.053373496
+2002,G - Trade and repair of mechanical equipment,0.048068052
+2003,G - Trade and repair of mechanical equipment,0.043287144
+2004,G - Trade and repair of mechanical equipment,0.03744473
+2005,G - Trade and repair of mechanical equipment,0.039370795
+2006,G - Trade and repair of mechanical equipment,0.044131479
+2007,G - Trade and repair of mechanical equipment,0.037170649
+2008,G - Trade and repair of mechanical equipment,0.062272114
+2009,G - Trade and repair of mechanical equipment,0.070902592
+2010,G - Trade and repair of mechanical equipment,0.063107752
+2011,G - Trade and repair of mechanical equipment,0.043505989
+2012,G - Trade and repair of mechanical equipment,0.046632294
+2013,G - Trade and repair of mechanical equipment,0.038549058
+2014,G - Trade and repair of mechanical equipment,0.037910113
+2015,G - Trade and repair of mechanical equipment,0.036285088
+2016,G - Trade and repair of mechanical equipment,0.029840841
+2017,G - Trade and repair of mechanical equipment,0.030719905
+1997,H - Tranportation and storage,0.849285915
+1998,H - Tranportation and storage,0.966997637
+1999,H - Tranportation and storage,1.055290554
+2000,H - Tranportation and storage,1.239507061
+2001,H - Tranportation and storage,1.471902152
+2002,H - Tranportation and storage,1.559319592
+2003,H - Tranportation and storage,1.41274569
+2004,H - Tranportation and storage,1.139330336
+2005,H - Tranportation and storage,1.494113965
+2006,H - Tranportation and storage,1.912504352
+2007,H - Tranportation and storage,1.244907302
+2008,H - Tranportation and storage,1.051131135
+2009,H - Tranportation and storage,1.846727656
+2010,H - Tranportation and storage,1.566534638
+2011,H - Tranportation and storage,1.350250838
+2012,H - Tranportation and storage,1.724299477
+2013,H - Tranportation and storage,1.459539611
+2014,H - Tranportation and storage,1.496565877
+2015,H - Tranportation and storage,1.650380637
+2016,H - Tranportation and storage,1.458502415
+2017,H - Tranportation and storage,1.654509033
+1997,I - Accommodation and food services activities,0.003088354
+1998,I - Accommodation and food services activities,0.002415457
+1999,I - Accommodation and food services activities,0.002515521
+2000,I - Accommodation and food services activities,0.002916485
+2001,I - Accommodation and food services activities,0.003925014
+2002,I - Accommodation and food services activities,0.007079046
+2003,I - Accommodation and food services activities,0.003502089
+2004,I - Accommodation and food services activities,0.004167588
+2005,I - Accommodation and food services activities,0.004392614
+2006,I - Accommodation and food services activities,0.0055217
+2007,I - Accommodation and food services activities,0.004768224
+2008,I - Accommodation and food services activities,0.006854676
+2009,I - Accommodation and food services activities,0.009977671
+2010,I - Accommodation and food services activities,0.010554329
+2011,I - Accommodation and food services activities,0.010576742
+2012,I - Accommodation and food services activities,0.010284721
+2013,I - Accommodation and food services activities,0.008278653
+2014,I - Accommodation and food services activities,0.007504426
+2015,I - Accommodation and food services activities,0.007154065
+2016,I - Accommodation and food services activities,0.005486277
+2017,I - Accommodation and food services activities,0.005527575
+1997,J - Information and communication,0.003214528
+1998,J - Information and communication,0.002563917
+1999,J - Information and communication,0.002452238
+2000,J - Information and communication,0.002506632
+2001,J - Information and communication,0.003081259
+2002,J - Information and communication,0.003081366
+2003,J - Information and communication,0.00281129
+2004,J - Information and communication,0.002473511
+2005,J - Information and communication,0.002308626
+2006,J - Information and communication,0.002476738
+2007,J - Information and communication,0.002651577
+2008,J - Information and communication,0.003702986
+2009,J - Information and communication,0.005763189
+2010,J - Information and communication,0.005786943
+2011,J - Information and communication,0.005475669
+2012,J - Information and communication,0.005734796
+2013,J - Information and communication,0.004402171
+2014,J - Information and communication,0.004248597
+2015,J - Information and communication,0.004712117
+2016,J - Information and communication,0.003543837
+2017,J - Information and communication,0.003713896
+1997,K - Financial and insurance activities,0.008276235
+1998,K - Financial and insurance activities,0.007156363
+1999,K - Financial and insurance activities,0.007419606
+2000,K - Financial and insurance activities,0.005530884
+2001,K - Financial and insurance activities,0.006637623
+2002,K - Financial and insurance activities,0.004755408
+2003,K - Financial and insurance activities,0.002350936
+2004,K - Financial and insurance activities,0.001902375
+2005,K - Financial and insurance activities,0.001523494
+2006,K - Financial and insurance activities,0.001126906
+2007,K - Financial and insurance activities,0.00064498
+2008,K - Financial and insurance activities,0.001510228
+2009,K - Financial and insurance activities,0.001888866
+2010,K - Financial and insurance activities,0.004500691
+2011,K - Financial and insurance activities,0.007367282
+2012,K - Financial and insurance activities,0.009149716
+2013,K - Financial and insurance activities,0.010638934
+2014,K - Financial and insurance activities,0.005127659
+2015,K - Financial and insurance activities,0.004958785
+2016,K - Financial and insurance activities,0.003270451
+2017,K - Financial and insurance activities,0.003573279
+1997,"M - Professional, scientific and technical activities",0.005015845
+1998,"M - Professional, scientific and technical activities",0.00419854
+1999,"M - Professional, scientific and technical activities",0.004262211
+2000,"M - Professional, scientific and technical activities",0.004561879
+2001,"M - Professional, scientific and technical activities",0.00534486
+2002,"M - Professional, scientific and technical activities",0.006750047
+2003,"M - Professional, scientific and technical activities",0.004474294
+2004,"M - Professional, scientific and technical activities",0.004696461
+2005,"M - Professional, scientific and technical activities",0.00499058
+2006,"M - Professional, scientific and technical activities",0.007126998
+2007,"M - Professional, scientific and technical activities",0.004990839
+2008,"M - Professional, scientific and technical activities",0.006466325
+2009,"M - Professional, scientific and technical activities",0.009306182
+2010,"M - Professional, scientific and technical activities",0.008525691
+2011,"M - Professional, scientific and technical activities",0.008985118
+2012,"M - Professional, scientific and technical activities",0.008406706
+2013,"M - Professional, scientific and technical activities",0.00716483
+2014,"M - Professional, scientific and technical activities",0.006718481
+2015,"M - Professional, scientific and technical activities",0.006579371
+2016,"M - Professional, scientific and technical activities",0.005509508
+2017,"M - Professional, scientific and technical activities",0.005602924
+1997,N - Administrative and support service activities,0.016825137
+1998,N - Administrative and support service activities,0.011985433
+1999,N - Administrative and support service activities,0.013340135
+2000,N - Administrative and support service activities,0.01379464
+2001,N - Administrative and support service activities,0.018683331
+2002,N - Administrative and support service activities,0.017158685
+2003,N - Administrative and support service activities,0.013606052
+2004,N - Administrative and support service activities,0.013686899
+2005,N - Administrative and support service activities,0.015749195
+2006,N - Administrative and support service activities,0.016743277
+2007,N - Administrative and support service activities,0.013490356
+2008,N - Administrative and support service activities,0.028368261
+2009,N - Administrative and support service activities,0.040668609
+2010,N - Administrative and support service activities,0.047961104
+2011,N - Administrative and support service activities,0.04229252
+2012,N - Administrative and support service activities,0.048886908
+2013,N - Administrative and support service activities,0.039286559
+2014,N - Administrative and support service activities,0.0319639
+2015,N - Administrative and support service activities,0.030331332
+2016,N - Administrative and support service activities,0.026427015
+2017,N - Administrative and support service activities,0.028421542
+1997,O - Public administration and defence; compulsory social security,0.013519807
+1998,O - Public administration and defence; compulsory social security,0.008588162
+1999,O - Public administration and defence; compulsory social security,0.008804463
+2000,O - Public administration and defence; compulsory social security,0.008782916
+2001,O - Public administration and defence; compulsory social security,0.01014161
+2002,O - Public administration and defence; compulsory social security,0.008561303
+2003,O - Public administration and defence; compulsory social security,0.006686443
+2004,O - Public administration and defence; compulsory social security,0.006149556
+2005,O - Public administration and defence; compulsory social security,0.006098358
+2006,O - Public administration and defence; compulsory social security,0.006397937
+2007,O - Public administration and defence; compulsory social security,0.00475829
+2008,O - Public administration and defence; compulsory social security,0.00763075
+2009,O - Public administration and defence; compulsory social security,0.010370631
+2010,O - Public administration and defence; compulsory social security,0.009396346
+2011,O - Public administration and defence; compulsory social security,0.008367066
+2012,O - Public administration and defence; compulsory social security,0.00822159
+2013,O - Public administration and defence; compulsory social security,0.007805598
+2014,O - Public administration and defence; compulsory social security,0.007784248
+2015,O - Public administration and defence; compulsory social security,0.008118953
+2016,O - Public administration and defence; compulsory social security,0.006930268
+2017,O - Public administration and defence; compulsory social security,0.007379327
+1997,P - Education,0.000282719
+1998,P - Education,0.000217333
+1999,P - Education,0.000190258
+2000,P - Education,0.000320184
+2001,P - Education,0.000326032
+2002,P - Education,0.000316922
+2003,P - Education,0.000262861
+2004,P - Education,0.000236278
+2005,P - Education,0.000291138
+2006,P - Education,0.000282795
+2007,P - Education,0.000306017
+2008,P - Education,0.000433824
+2009,P - Education,0.000682218
+2010,P - Education,0.00068469
+2011,P - Education,0.000755576
+2012,P - Education,0.001149323
+2013,P - Education,0.000923362
+2014,P - Education,0.000897819
+2015,P - Education,0.000913052
+2016,P - Education,0.000774906
+2017,P - Education,0.000699755
+1997,Q - Human health and social work activities,0.000546478
+1998,Q - Human health and social work activities,0.000418318
+1999,Q - Human health and social work activities,0.000415702
+2000,Q - Human health and social work activities,0.000457359
+2001,Q - Human health and social work activities,0.000602818
+2002,Q - Human health and social work activities,0.000650473
+2003,Q - Human health and social work activities,0.000656765
+2004,Q - Human health and social work activities,0.000772355
+2005,Q - Human health and social work activities,0.000778076
+2006,Q - Human health and social work activities,0.000906365
+2007,Q - Human health and social work activities,0.001026561
+2008,Q - Human health and social work activities,0.001319265
+2009,Q - Human health and social work activities,0.001801964
+2010,Q - Human health and social work activities,0.00194528
+2011,Q - Human health and social work activities,0.002126449
+2012,Q - Human health and social work activities,0.002332175
+2013,Q - Human health and social work activities,0.001940369
+2014,Q - Human health and social work activities,0.001906077
+2015,Q - Human health and social work activities,0.001789146
+2016,Q - Human health and social work activities,0.001460238
+2017,Q - Human health and social work activities,0.00143485
+1997,"R - Arts, entertainment and recreation",0.00404177
+1998,"R - Arts, entertainment and recreation",0.003815134
+1999,"R - Arts, entertainment and recreation",0.004227912
+2000,"R - Arts, entertainment and recreation",0.004107104
+2001,"R - Arts, entertainment and recreation",0.0054349
+2002,"R - Arts, entertainment and recreation",0.011282775
+2003,"R - Arts, entertainment and recreation",0.005581455
+2004,"R - Arts, entertainment and recreation",0.004727758
+2005,"R - Arts, entertainment and recreation",0.004809985
+2006,"R - Arts, entertainment and recreation",0.009063309
+2007,"R - Arts, entertainment and recreation",0.00345534
+2008,"R - Arts, entertainment and recreation",0.004849259
+2009,"R - Arts, entertainment and recreation",0.006369119
+2010,"R - Arts, entertainment and recreation",0.007767171
+2011,"R - Arts, entertainment and recreation",0.006740235
+2012,"R - Arts, entertainment and recreation",0.008081105
+2013,"R - Arts, entertainment and recreation",0.006581285
+2014,"R - Arts, entertainment and recreation",0.006729752
+2015,"R - Arts, entertainment and recreation",0.006756045
+2016,"R - Arts, entertainment and recreation",0.005609564
+2017,"R - Arts, entertainment and recreation",0.006475524
+1997,S - Other services activities,0.007733654
+1998,S - Other services activities,0.007328234
+1999,S - Other services activities,0.007366622
+2000,S - Other services activities,0.007536227
+2001,S - Other services activities,0.00898346
+2002,S - Other services activities,0.006332119
+2003,S - Other services activities,0.004237528
+2004,S - Other services activities,0.004046227
+2005,S - Other services activities,0.00431888
+2006,S - Other services activities,0.004826036
+2007,S - Other services activities,0.003782103
+2008,S - Other services activities,0.005160471
+2009,S - Other services activities,0.007835572
+2010,S - Other services activities,0.008055367
+2011,S - Other services activities,0.00848992
+2012,S - Other services activities,0.009333311
+2013,S - Other services activities,0.008619111
+2014,S - Other services activities,0.00783789
+2015,S - Other services activities,0.00763163
+2016,S - Other services activities,0.00668278
+2017,S - Other services activities,0.006778951
+1997,U - Activities of extraterritorial organisations and bodies,
+1998,U - Activities of extraterritorial organisations and bodies,
+1999,U - Activities of extraterritorial organisations and bodies,
+2000,U - Activities of extraterritorial organisations and bodies,
+2001,U - Activities of extraterritorial organisations and bodies,
+2002,U - Activities of extraterritorial organisations and bodies,
+2003,U - Activities of extraterritorial organisations and bodies,
+2004,U - Activities of extraterritorial organisations and bodies,
+2005,U - Activities of extraterritorial organisations and bodies,
+2006,U - Activities of extraterritorial organisations and bodies,
+2007,U - Activities of extraterritorial organisations and bodies,0.019675086
+2008,U - Activities of extraterritorial organisations and bodies,0.072375192
+2009,U - Activities of extraterritorial organisations and bodies,0.086547111
+2010,U - Activities of extraterritorial organisations and bodies,0.073361319
+2011,U - Activities of extraterritorial organisations and bodies,0.072865415
+2012,U - Activities of extraterritorial organisations and bodies,0.089437224
+2013,U - Activities of extraterritorial organisations and bodies,0.056508927
+2014,U - Activities of extraterritorial organisations and bodies,0.056662228
+2015,U - Activities of extraterritorial organisations and bodies,0.069772064
+2016,U - Activities of extraterritorial organisations and bodies,0.064808738
+2017,U - Activities of extraterritorial organisations and bodies,0.119179279
