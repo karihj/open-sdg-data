@@ -1,43 +1,85 @@
 Year,Revenue,Value
 1998,Tax revenue,31.0
-1998,Other revenue,9.01
 1999,Tax revenue,33.22
-1999,Other revenue,8.96
 2000,Tax revenue,33.18
-2000,Other revenue,9.01
 2001,Tax revenue,31.45
-2001,Other revenue,9.1
 2002,Tax revenue,31.11
-2002,Other revenue,8.95
 2003,Tax revenue,32.34
-2003,Other revenue,8.86
 2004,Tax revenue,33.38
-2004,Other revenue,8.88
 2005,Tax revenue,36.32
-2005,Other revenue,9.43
 2006,Tax revenue,37.01
-2006,Other revenue,9.52
 2007,Tax revenue,35.79
-2007,Other revenue,9.67
 2008,Tax revenue,31.94
-2008,Other revenue,9.71
 2009,Tax revenue,28.43
-2009,Other revenue,9.48
 2010,Tax revenue,28.57
-2010,Other revenue,9.76
 2011,Tax revenue,29.53
-2011,Other revenue,9.29
 2012,Tax revenue,30.49
-2012,Other revenue,9.73
 2013,Tax revenue,30.95
-2013,Other revenue,9.67
 2014,Tax revenue,33.8
-2014,Other revenue,9.94
 2015,Tax revenue,31.92
-2015,Other revenue,8.66
 2016,Tax revenue,47.38
-2016,Other revenue,9.56
-2017,Tax revenue,34.08
-2017,Other revenue,9.73
-2018,Tax revenue,33.19
-2018,Other revenue,9.57
+2017,Tax revenue,34.18
+2018,Tax revenue,33.41
+1998,Social contributions,2.67
+1999,Social contributions,2.74
+2000,Social contributions,2.78
+2001,Social contributions,2.74
+2002,Social contributions,2.75
+2003,Social contributions,2.98
+2004,Social contributions,2.92
+2005,Social contributions,3.1
+2006,Social contributions,3.18
+2007,Social contributions,2.87
+2008,Social contributions,2.64
+2009,Social contributions,2.82
+2010,Social contributions,3.8
+2011,Social contributions,3.8
+2012,Social contributions,3.52
+2013,Social contributions,3.57
+2014,Social contributions,3.54
+2015,Social contributions,3.47
+2016,Social contributions,3.43
+2017,Social contributions,3.43
+2018,Social contributions,3.49
+1998,Grants,0.07
+1999,Grants,0.08
+2000,Grants,0.09
+2001,Grants,0.11
+2002,Grants,0.08
+2003,Grants,0.12
+2004,Grants,0.13
+2005,Grants,0.11
+2006,Grants,0.11
+2007,Grants,0.08
+2008,Grants,0.1
+2009,Grants,0.13
+2010,Grants,0.14
+2011,Grants,0.17
+2012,Grants,0.2
+2013,Grants,0.15
+2014,Grants,0.12
+2015,Grants,0.12
+2016,Grants,0.12
+2017,Grants,0.11
+2018,Grants,0.12
+1998,Other revenue,6.27
+1999,Other revenue,6.14
+2000,Other revenue,6.13
+2001,Other revenue,6.25
+2002,Other revenue,6.12
+2003,Other revenue,5.77
+2004,Other revenue,5.82
+2005,Other revenue,6.23
+2006,Other revenue,6.22
+2007,Other revenue,6.72
+2008,Other revenue,6.96
+2009,Other revenue,6.53
+2010,Other revenue,5.81
+2011,Other revenue,5.32
+2012,Other revenue,6.0
+2013,Other revenue,5.96
+2014,Other revenue,6.28
+2015,Other revenue,5.07
+2016,Other revenue,6.01
+2017,Other revenue,5.84
+2018,Other revenue,5.78
