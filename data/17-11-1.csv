@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Development status,Value
+2010,Least developed,22.54274698
+2011,Least developed,19.76351824
+2012,Least developed,21.8056668
+2013,Least developed,20.89073088
+2014,Least developed,19.91253328
+2015,Least developed,22.03557499
+2016,Least developed,17.49332859
+2017,Least developed,19.29174603
+2018,Least developed,19.38138092
+2010,Developing,0.111080634
+2011,Developing,0.123196149
+2012,Developing,0.48466264700000006
+2013,Developing,0.16057249099999998
+2014,Developing,0.181221405
+2015,Developing,0.201561308
+2016,Developing,0.22975610600000002
+2017,Developing,0.249475258
+2018,Developing,0.270770159
