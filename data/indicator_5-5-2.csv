@@ -1,143 +1,143 @@
 Year,Sex,Position,Value
-1999,Male,CEO,84.6
-2000,Male,CEO,83.9
-2001,Male,CEO,83.4
-2002,Male,CEO,83.1
-2003,Male,CEO,82.7
-2004,Male,CEO,82.3
-2005,Male,CEO,81.8
-2006,Male,CEO,81.6
-2007,Male,CEO,81.3
-2008,Male,CEO,80.9
-2009,Male,CEO,80.6
-2010,Male,CEO,79.8
-2011,Male,CEO,79.6
-2012,Male,CEO,79.2
-2013,Male,CEO,78.6
-2014,Male,CEO,78.4
-2015,Male,CEO,78.1
-2016,Male,CEO,77.9
-2017,Male,CEO,77.8
-2018,Male,CEO,77.3
-1999,Male,Chairman,77.6
-2000,Male,Chairman,77.9
-2001,Male,Chairman,78.2
-2002,Male,Chairman,78.5
-2003,Male,Chairman,77.9
-2004,Male,Chairman,78
-2005,Male,Chairman,78.3
-2006,Male,Chairman,78.1
-2007,Male,Chairman,78.1
-2008,Male,Chairman,77.9
-2009,Male,Chairman,77.3
-2010,Male,Chairman,76.9
-2011,Male,Chairman,76.5
-2012,Male,Chairman,76.1
-2013,Male,Chairman,76.3
-2014,Male,Chairman,76.1
-2015,Male,Chairman,75.9
-2016,Male,Chairman,76.1
-2017,Male,Chairman,76.1
-2018,Male,Chairman,75.9
-1999,Male,Board member,78.1
-2000,Male,Board member,78.4
-2001,Male,Board member,78.7
-2002,Male,Board member,78.4
-2003,Male,Board member,78.1
-2004,Male,Board member,77.7
-2005,Male,Board member,77.7
-2006,Male,Board member,77.7
-2007,Male,Board member,77.5
-2008,Male,Board member,77.1
-2009,Male,Board member,76.6
-2010,Male,Board member,76
-2011,Male,Board member,75.5
-2012,Male,Board member,75.1
-2013,Male,Board member,74.9
-2014,Male,Board member,74.5
-2015,Male,Board member,74.1
-2016,Male,Board member,74.1
-2017,Male,Board member,73.9
-2018,Male,Board member,73.8
-2009,Male,Director of governmental agencies,71.01449275
-2010,Male,Director of governmental agencies,68.9119171
-2011,Male,Director of governmental agencies,69.23076923
-2012,Male,Director of governmental agencies,69.27374302
-2013,Male,Director of governmental agencies,67.03910615
-2014,Male,Director of governmental agencies,69.23076923
+1999,Male,Managers,84.6
+2000,Male,Managers,83.9
+2001,Male,Managers,83.4
+2002,Male,Managers,83.1
+2003,Male,Managers,82.7
+2004,Male,Managers,82.3
+2005,Male,Managers,81.8
+2006,Male,Managers,81.6
+2007,Male,Managers,81.3
+2008,Male,Managers,80.9
+2009,Male,Managers,80.6
+2010,Male,Managers,79.8
+2011,Male,Managers,79.6
+2012,Male,Managers,79.2
+2013,Male,Managers,78.6
+2014,Male,Managers,78.4
+2015,Male,Managers,78.1
+2016,Male,Managers,77.9
+2017,Male,Managers,77.8
+2018,Male,Managers,77.3
+1999,Male,Chairmen,77.6
+2000,Male,Chairmen,77.9
+2001,Male,Chairmen,78.2
+2002,Male,Chairmen,78.5
+2003,Male,Chairmen,77.9
+2004,Male,Chairmen,78
+2005,Male,Chairmen,78.3
+2006,Male,Chairmen,78.1
+2007,Male,Chairmen,78.1
+2008,Male,Chairmen,77.9
+2009,Male,Chairmen,77.3
+2010,Male,Chairmen,76.9
+2011,Male,Chairmen,76.5
+2012,Male,Chairmen,76.1
+2013,Male,Chairmen,76.3
+2014,Male,Chairmen,76.1
+2015,Male,Chairmen,75.9
+2016,Male,Chairmen,76.1
+2017,Male,Chairmen,76.1
+2018,Male,Chairmen,75.9
+1999,Male,Board of Directors,78.1
+2000,Male,Board of Directors,78.4
+2001,Male,Board of Directors,78.7
+2002,Male,Board of Directors,78.4
+2003,Male,Board of Directors,78.1
+2004,Male,Board of Directors,77.7
+2005,Male,Board of Directors,77.7
+2006,Male,Board of Directors,77.7
+2007,Male,Board of Directors,77.5
+2008,Male,Board of Directors,77.1
+2009,Male,Board of Directors,76.6
+2010,Male,Board of Directors,76
+2011,Male,Board of Directors,75.5
+2012,Male,Board of Directors,75.1
+2013,Male,Board of Directors,74.9
+2014,Male,Board of Directors,74.5
+2015,Male,Board of Directors,74.1
+2016,Male,Board of Directors,74.1
+2017,Male,Board of Directors,73.9
+2018,Male,Board of Directors,73.8
+2009,Male,Director of governmental agencies,71
+2010,Male,Director of governmental agencies,69
+2011,Male,Director of governmental agencies,69
+2012,Male,Director of governmental agencies,69
+2013,Male,Director of governmental agencies,67
+2014,Male,Director of governmental agencies,69
 2015,Male,Director of governmental agencies,63.75
-2016,Male,Director of governmental agencies,62.82051282
-2017,Male,Director of governmental agencies,61.03896104
-2018,Male,Director of governmental agencies,60.64516129
-2019,Male,Director of governmental agencies,58.33333333
-1999,Female,CEO,15.4
-2000,Female,CEO,16.1
-2001,Female,CEO,16.6
-2002,Female,CEO,16.9
-2003,Female,CEO,17.3
-2004,Female,CEO,17.7
-2005,Female,CEO,18.2
-2006,Female,CEO,18.4
-2007,Female,CEO,18.7
-2008,Female,CEO,19.1
-2009,Female,CEO,19.4
-2010,Female,CEO,20.2
-2011,Female,CEO,20.4
-2012,Female,CEO,20.8
-2013,Female,CEO,21.4
-2014,Female,CEO,21.6
-2015,Female,CEO,21.9
-2016,Female,CEO,22.1
-2017,Female,CEO,22.2
-2018,Female,CEO,22.7
-1999,Female,Chairman,22.4
-2000,Female,Chairman,22.1
-2001,Female,Chairman,21.8
-2002,Female,Chairman,21.5
-2003,Female,Chairman,22.1
-2004,Female,Chairman,22
-2005,Female,Chairman,21.7
-2006,Female,Chairman,21.9
-2007,Female,Chairman,21.9
-2008,Female,Chairman,22.1
-2009,Female,Chairman,22.7
-2010,Female,Chairman,23.1
-2011,Female,Chairman,23.5
-2012,Female,Chairman,23.9
-2013,Female,Chairman,23.7
-2014,Female,Chairman,23.9
-2015,Female,Chairman,24.1
-2016,Female,Chairman,23.9
-2017,Female,Chairman,23.9
-2018,Female,Chairman,24.1
-1999,Female,Board member,21.9
-2000,Female,Board member,21.6
-2001,Female,Board member,21.3
-2002,Female,Board member,21.6
-2003,Female,Board member,21.9
-2004,Female,Board member,22.3
-2005,Female,Board member,22.3
-2006,Female,Board member,22.3
-2007,Female,Board member,22.5
-2008,Female,Board member,22.9
-2009,Female,Board member,23.4
-2010,Female,Board member,24
-2011,Female,Board member,24.5
-2012,Female,Board member,24.9
-2013,Female,Board member,25.1
-2014,Female,Board member,25.5
-2015,Female,Board member,25.9
-2016,Female,Board member,25.9
-2017,Female,Board member,26.1
-2018,Female,Board member,26.2
-2009,Female,Director of governmental agencies,28.98550725
-2010,Female,Director of governmental agencies,31.0880829
-2011,Female,Director of governmental agencies,30.76923077
-2012,Female,Director of governmental agencies,30.72625698
-2013,Female,Director of governmental agencies,32.96089385
-2014,Female,Director of governmental agencies,30.76923077
+2016,Male,Director of governmental agencies,63
+2017,Male,Director of governmental agencies,61
+2018,Male,Director of governmental agencies,61
+2019,Male,Director of governmental agencies,58
+1999,Female,Managers,15.4
+2000,Female,Managers,16.1
+2001,Female,Managers,16.6
+2002,Female,Managers,16.9
+2003,Female,Managers,17.3
+2004,Female,Managers,17.7
+2005,Female,Managers,18.2
+2006,Female,Managers,18.4
+2007,Female,Managers,18.7
+2008,Female,Managers,19.1
+2009,Female,Managers,19.4
+2010,Female,Managers,20.2
+2011,Female,Managers,20.4
+2012,Female,Managers,20.8
+2013,Female,Managers,21.4
+2014,Female,Managers,21.6
+2015,Female,Managers,21.9
+2016,Female,Managers,22.1
+2017,Female,Managers,22.2
+2018,Female,Managers,22.7
+1999,Female,Chairmen,22.4
+2000,Female,Chairmen,22.1
+2001,Female,Chairmen,21.8
+2002,Female,Chairmen,21.5
+2003,Female,Chairmen,22.1
+2004,Female,Chairmen,22
+2005,Female,Chairmen,21.7
+2006,Female,Chairmen,21.9
+2007,Female,Chairmen,21.9
+2008,Female,Chairmen,22.1
+2009,Female,Chairmen,22.7
+2010,Female,Chairmen,23.1
+2011,Female,Chairmen,23.5
+2012,Female,Chairmen,23.9
+2013,Female,Chairmen,23.7
+2014,Female,Chairmen,23.9
+2015,Female,Chairmen,24.1
+2016,Female,Chairmen,23.9
+2017,Female,Chairmen,23.9
+2018,Female,Chairmen,24.1
+1999,Female,Board of Directors,21.9
+2000,Female,Board of Directors,21.6
+2001,Female,Board of Directors,21.3
+2002,Female,Board of Directors,21.6
+2003,Female,Board of Directors,21.9
+2004,Female,Board of Directors,22.3
+2005,Female,Board of Directors,22.3
+2006,Female,Board of Directors,22.3
+2007,Female,Board of Directors,22.5
+2008,Female,Board of Directors,22.9
+2009,Female,Board of Directors,23.4
+2010,Female,Board of Directors,24
+2011,Female,Board of Directors,24.5
+2012,Female,Board of Directors,24.9
+2013,Female,Board of Directors,25.1
+2014,Female,Board of Directors,25.5
+2015,Female,Board of Directors,25.9
+2016,Female,Board of Directors,25.9
+2017,Female,Board of Directors,26.1
+2018,Female,Board of Directors,26.2
+2009,Female,Director of governmental agencies,29
+2010,Female,Director of governmental agencies,31
+2011,Female,Director of governmental agencies,31
+2012,Female,Director of governmental agencies,31
+2013,Female,Director of governmental agencies,33
+2014,Female,Director of governmental agencies,31
 2015,Female,Director of governmental agencies,36.25
-2016,Female,Director of governmental agencies,37.17948718
-2017,Female,Director of governmental agencies,38.96103896
-2018,Female,Director of governmental agencies,39.35483871
-2019,Female,Director of governmental agencies,41.66666667
+2016,Female,Director of governmental agencies,37
+2017,Female,Director of governmental agencies,39
+2018,Female,Director of governmental agencies,39
+2019,Female,Director of governmental agencies,42
