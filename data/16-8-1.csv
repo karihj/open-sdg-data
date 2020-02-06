@@ -1,34 +1,34 @@
 Year,Organization,Value
-2000,WTO,0.71429
-2000,IBRD,0.54945
-2000,UNGA,0.5291
-2000,IMF,0.5618
-2000,IFC,0.57471
-2005,IFC,0.5618
-2005,IMF,0.5524899999999999
-2005,IBRD,0.54348
-2005,ECOSOC,1.85
-2005,UNGA,0.52356
-2005,WTO,0.67114
-2010,IMF,0.54945
-2010,IFC,0.54945
-2010,UNGA,0.52083
-2010,WTO,0.65359
-2010,IBRD,0.53476
-2015,IBRD,0.53191
-2015,IFC,0.54348
-2015,IMF,0.53191
-2015,UNGA,0.51813
-2015,WTO,0.625
-2016,UNGA,0.51813
-2016,IBRD,0.53191
-2016,IFC,0.54348
-2016,WTO,0.61728
-2016,IMF,0.53191
-2017,IBRD,0.5291
-2017,WTO,0.6097600000000001
-2017,UNGA,0.51813
-2017,IFC,0.54348
-2017,IMF,0.5291
-2018,WTO,0.6097600000000001
-2018,IFC,0.54348
+2000,World Trade Organization,0.71429
+2000,International Bank for Reconstruction and Development,0.54945
+2000,UN General Assembly,0.5291
+2000,International Monetary Fund,0.5618
+2000,International Finanace Corporation,0.57471
+2005,International Finanace Corporation,0.5618
+2005,International Monetary Fund,0.5524899999999999
+2005,International Bank for Reconstruction and Development,0.54348
+2005,UN Econonomic and Social Council,1.85
+2005,UN General Assembly,0.52356
+2005,World Trade Organization,0.67114
+2010,International Monetary Fund,0.54945
+2010,International Finanace Corporation,0.54945
+2010,UN General Assembly,0.52083
+2010,World Trade Organization,0.65359
+2010,International Bank for Reconstruction and Development,0.53476
+2015,International Bank for Reconstruction and Development,0.53191
+2015,International Finanace Corporation,0.54348
+2015,International Monetary Fund,0.53191
+2015,UN General Assembly,0.51813
+2015,World Trade Organization,0.625
+2016,UN General Assembly,0.51813
+2016,International Bank for Reconstruction and Development,0.53191
+2016,International Finanace Corporation,0.54348
+2016,World Trade Organization,0.61728
+2016,International Monetary Fund,0.53191
+2017,International Bank for Reconstruction and Development,0.5291
+2017,World Trade Organization,0.6097600000000001
+2017,UN General Assembly,0.51813
+2017,International Finanace Corporation,0.54348
+2017,International Monetary Fund,0.5291
+2018,World Trade Organization,0.6097600000000001
+2018,International Finanace Corporation,0.54348
