@@ -1,7 +1,72 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Type of occupation,Value
+2001,Dentist,10.074
+2002,Dentist,10.095
+2003,Dentist,10
+2004,Dentist,9.859
+2005,Dentist,9.797
+2006,Dentist,9.543
+2007,Dentist,9.633
+2008,Dentist,9.682
+2009,Dentist,9.301
+2010,Dentist,9.335
+2011,Dentist,8.751
+2012,Dentist,8.295
+2013,Dentist,8.318
+2014,Dentist,8.341
+2015,Dentist,8.419
+2016,Dentist,8.361
+2017,Dentist,8.328
+2000,Nurse,140.3
+2001,Nurse,140.12
+2002,Nurse,141.045
+2003,Nurse,144.583
+2004,Nurse,145.07
+2005,Nurse,148.407
+2006,Nurse,147.047
+2007,Nurse,150.917
+2008,Nurse,160.051
+2009,Nurse,162.006
+2010,Nurse,152.201
+2011,Nurse,154.793
+2012,Nurse,157.266
+2013,Nurse,161.07
+2014,Nurse,161.005
+2015,Nurse,163.144
+2016,Nurse,151.429
+2017,Nurse,156.806
+2000,Pharmacist ,8.203
+2001,Pharmacist ,8.59
+2002,Pharmacist ,9.569
+2003,Pharmacist ,9.688
+2004,Pharmacist ,9.859
+2005,Pharmacist ,10.136
+2006,Pharmacist ,10.41
+2007,Pharmacist ,10.714
+2008,Pharmacist ,10.582
+2009,Pharmacist ,10.566
+2010,Pharmacist ,11.396
+2011,Pharmacist ,11.75
+2012,Pharmacist ,10.998
+2013,Pharmacist ,11.009
+2014,Pharmacist ,11.05
+2015,Pharmacist ,11.205
+2016,Pharmacist ,10.977
+2017,Pharmacist ,5.104
+2000,Physician ,34.522
+2001,Physician ,34.995
+2002,Physician ,36.067
+2003,Physician ,36.354
+2004,Physician ,36.276
+2005,Physician ,36.271
+2006,Physician ,36.47
+2007,Physician ,36.927
+2008,Physician ,37.247
+2009,Physician ,36.919
+2010,Physician ,35.654
+2011,Physician ,34.57
+2012,Physician ,35.084
+2013,Physician ,35.719
+2014,Physician ,36.317
+2015,Physician ,37.826
+2016,Physician ,38.857
+2017,Physician ,39.701
