@@ -1,7 +1,84 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Capacity,Value
+2011,,66
+2012,,79.46153846
+2014,,83.76923077
+2016,,72.23076923
+2017,,72.23076923
+2018,,83.61538462
+2011,Food safety,100
+2011,Coordination,80
+2011,Zoonosis,100
+2011,Response,71
+2011,Risk communication,14
+2011,Points of entry,54
+2011,Legislation,50
+2011,Radionuclear,83
+2011,Surveillance,45
+2011,Laboratory,60
+2011,Chemical,58
+2011,Preparedness,77
+2012,Food safety,100
+2012,Human resources,20
+2012,Coordination,100
+2012,Zoonosis,100
+2012,Response,83
+2012,Risk communication,71
+2012,Points of entry,74
+2012,Legislation,100
+2012,Radionuclear,79
+2012,Surveillance,75
+2012,Laboratory,77
+2012,Chemical,54
+2012,Preparedness,100
+2014,Food safety,100
+2014,Human resources,60
+2014,Coordination,83
+2014,Zoonosis,100
+2014,Response,89
+2014,Risk communication,71
+2014,Points of entry,94
+2014,Legislation,100
+2014,Radionuclear,77
+2014,Surveillance,85
+2014,Laboratory,86
+2014,Chemical,54
+2014,Preparedness,90
+2016,Food safety,80
+2016,Human resources,60
+2016,Coordination,80
+2016,Zoonosis,78
+2016,Response,71
+2016,Risk communication,86
+2016,Points of entry,66
+2016,Legislation,100
+2016,Radionuclear,46
+2016,Surveillance,65
+2016,Laboratory,53
+2016,Chemical,54
+2016,Preparedness,100
+2017,Food safety,80
+2017,Human resources,60
+2017,Coordination,80
+2017,Zoonosis,78
+2017,Response,71
+2017,Risk communication,86
+2017,Points of entry,66
+2017,Legislation,100
+2017,Radionuclear,46
+2017,Surveillance,65
+2017,Laboratory,53
+2017,Chemical,54
+2017,Preparedness,100
+2018,Legislation,87
+2018,Coordination,100
+2018,Zoonosis,80
+2018,Food safety,80
+2018,Laboratory,87
+2018,Surveillance,80
+2018,Human resources,60
+2018,Risk communication,100
+2018,Points of entry,80
+2018,Chemical,60
+2018,Radionuclear,80
+2018,National Health Emergency Framework,100
+2018,Health Service Provision,93
