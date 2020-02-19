@@ -1,7 +1,43 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Sex,Units,Type of skill,Value
+2001,,Attainment at age 9,Reading,92.1
+2001,Female,Attainment at age 9,Reading,94.6
+2001,Male,Attainment at age 9,Reading,89.7
+2003,,Attainment at age 15,Math,85.0
+2003,,Attainment at age 15,Reading,81.5
+2003,Female,Attainment at age 15,Math,88.5
+2003,Female,Attainment at age 15,Reading,90.5
+2003,Male,Attainment at age 15,Math,81.7
+2003,Male,Attainment at age 15,Reading,73.1
+2006,,Attainment at age 9,Reading,93.2
+2006,Female,Attainment at age 9,Reading,95.4
+2006,Male,Attainment at age 9,Reading,91.0
+2006,,Attainment at age 15,Reading,79.5
+2006,,Attainment at age 15,Math,83.2
+2006,Female,Attainment at age 15,Reading,87.5
+2006,Female,Attainment at age 15,Math,84.7
+2006,Male,Attainment at age 15,Reading,71.1
+2006,Male,Attainment at age 15,Math,81.7
+2009,,Attainment at age 15,Reading,83.2
+2009,,Attainment at age 15,Math,83.1
+2009,Female,Attainment at age 15,Reading,90.1
+2009,Female,Attainment at age 15,Math,84.0
+2009,Male,Attainment at age 15,Reading,76.2
+2009,Male,Attainment at age 15,Math,82.2
+2012,,Attainment at age 15,Reading,79.0
+2012,,Attainment at age 15,Math,78.5
+2012,Female,Attainment at age 15,Reading,88.0
+2012,Female,Attainment at age 15,Math,80.3
+2012,Male,Attainment at age 15,Reading,70.2
+2012,Male,Attainment at age 15,Math,76.8
+2015,,Attainment at age 15,Reading,77.9
+2015,,Attainment at age 15,Math,76.4
+2015,Female,Attainment at age 15,Reading,84.3
+2015,Female,Attainment at age 15,Math,77.2
+2015,Male,Attainment at age 15,Reading,71.1
+2015,Male,Attainment at age 15,Math,75.6
+2018,,Attainment at age 15,Reading,74.0
+2018,,Attainment at age 15,Math,80.0
+2018,Female,Attainment at age 15,Reading,81.0
+2018,Female,Attainment at age 15,Math,82.0
+2018,Male,Attainment at age 15,Reading,69.0
+2018,Male,Attainment at age 15,Math,77.0
