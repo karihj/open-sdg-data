@@ -1,7 +1,133 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Cause of death,Gender,Value
+1996,X31 Exposure to excessive natural cold,,0.373192814
+1997,X31 Exposure to excessive natural cold,,0.0
+1998,X31 Exposure to excessive natural cold,,0.36713280299999995
+1999,X31 Exposure to excessive natural cold,,0.362697307
+2000,X31 Exposure to excessive natural cold,,1.0750800040000001
+2001,X31 Exposure to excessive natural cold,,0.705813432
+2002,X31 Exposure to excessive natural cold,,0.348948792
+2003,X31 Exposure to excessive natural cold,,0.693310593
+2004,X31 Exposure to excessive natural cold,,0.344151151
+2005,X31 Exposure to excessive natural cold,,0.0
+2006,X31 Exposure to excessive natural cold,,0.6669089770000001
+2007,X31 Exposure to excessive natural cold,,0.0
+2008,X31 Exposure to excessive natural cold,,0.0
+2009,X31 Exposure to excessive natural cold,,0.313118409
+2010,X31 Exposure to excessive natural cold,,1.25932689
+2011,X31 Exposure to excessive natural cold,,0.314019067
+2012,X31 Exposure to excessive natural cold,,0.0
+2013,X31 Exposure to excessive natural cold,,0.0
+2014,X31 Exposure to excessive natural cold,,0.30705835
+2015,X31 Exposure to excessive natural cold,,0.0
+2016,X31 Exposure to excessive natural cold,,0.30072565100000004
+2017,X31 Exposure to excessive natural cold,,0.29555281699999997
+1996,X31 Exposure to excessive natural cold,Male,0.0
+1997,X31 Exposure to excessive natural cold,Male,0.0
+1998,X31 Exposure to excessive natural cold,Male,0.0
+1999,X31 Exposure to excessive natural cold,Male,0.724186377
+2000,X31 Exposure to excessive natural cold,Male,2.147996993
+2001,X31 Exposure to excessive natural cold,Male,0.704870656
+2002,X31 Exposure to excessive natural cold,Male,0.697107006
+2003,X31 Exposure to excessive natural cold,Male,1.3861262619999999
+2004,X31 Exposure to excessive natural cold,Male,0.6877531790000001
+2005,X31 Exposure to excessive natural cold,Male,0.0
+2006,X31 Exposure to excessive natural cold,Male,1.322733826
+2007,X31 Exposure to excessive natural cold,Male,0.0
+2008,X31 Exposure to excessive natural cold,Male,0.0
+2009,X31 Exposure to excessive natural cold,Male,0.0
+2010,X31 Exposure to excessive natural cold,Male,1.2505002
+2011,X31 Exposure to excessive natural cold,Male,0.6249765629999999
+2012,X31 Exposure to excessive natural cold,Male,0.0
+2013,X31 Exposure to excessive natural cold,Male,0.0
+2014,X31 Exposure to excessive natural cold,Male,0.612302379
+2015,X31 Exposure to excessive natural cold,Male,0.0
+2016,X31 Exposure to excessive natural cold,Male,0.597835834
+2017,X31 Exposure to excessive natural cold,Male,0.0
+1996,X31 Exposure to excessive natural cold,Female,0.748234167
+1997,X31 Exposure to excessive natural cold,Female,0.0
+1998,X31 Exposure to excessive natural cold,Female,0.73563489
+1999,X31 Exposure to excessive natural cold,Female,0.0
+2000,X31 Exposure to excessive natural cold,Female,0.0
+2001,X31 Exposure to excessive natural cold,Female,0.7067587340000001
+2002,X31 Exposure to excessive natural cold,Female,0.0
+2003,X31 Exposure to excessive natural cold,Female,0.0
+2004,X31 Exposure to excessive natural cold,Female,0.0
+2005,X31 Exposure to excessive natural cold,Female,0.0
+2006,X31 Exposure to excessive natural cold,Female,0.0
+2007,X31 Exposure to excessive natural cold,Female,0.0
+2008,X31 Exposure to excessive natural cold,Female,0.0
+2009,X31 Exposure to excessive natural cold,Female,0.635727908
+2010,X31 Exposure to excessive natural cold,Female,1.2682790720000001
+2011,X31 Exposure to excessive natural cold,Female,0.0
+2012,X31 Exposure to excessive natural cold,Female,0.0
+2013,X31 Exposure to excessive natural cold,Female,0.0
+2014,X31 Exposure to excessive natural cold,Female,0.0
+2015,X31 Exposure to excessive natural cold,Female,0.0
+2016,X31 Exposure to excessive natural cold,Female,0.0
+2017,X31 Exposure to excessive natural cold,Female,0.597671472
+1996,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+1997,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+1998,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+1999,"X36 Victim of avalanche, landslide and other earth movements",,0.725394615
+2000,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+2001,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+2002,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+2003,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+2004,"X36 Victim of avalanche, landslide and other earth movements",,0.344151151
+2005,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+2006,"X36 Victim of avalanche, landslide and other earth movements",,0.333454488
+2007,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+2008,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+2009,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+2010,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+2011,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+2012,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+2013,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+2014,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+2015,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+2016,"X36 Victim of avalanche, landslide and other earth movements",,0.0
+2017,"X36 Victim of avalanche, landslide and other earth movements",,0.29555281699999997
+1996,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+1997,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+1998,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+1999,"X36 Victim of avalanche, landslide and other earth movements",Male,1.4483727530000001
+2000,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+2001,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+2002,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+2003,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+2004,"X36 Victim of avalanche, landslide and other earth movements",Male,0.6877531790000001
+2005,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+2006,"X36 Victim of avalanche, landslide and other earth movements",Male,0.661366913
+2007,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+2008,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+2009,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+2010,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+2011,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+2012,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+2013,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+2014,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+2015,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+2016,"X36 Victim of avalanche, landslide and other earth movements",Male,0.0
+2017,"X36 Victim of avalanche, landslide and other earth movements",Male,0.584682488
+1996,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+1997,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+1998,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+1999,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2000,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2001,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2002,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2003,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2004,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2005,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2006,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2007,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2008,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2009,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2010,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2011,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2012,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2013,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2014,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2015,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2016,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
+2017,"X36 Victim of avalanche, landslide and other earth movements",Female,0.0
