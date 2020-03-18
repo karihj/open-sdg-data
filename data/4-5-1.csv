@@ -1,7 +1,15 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Index,Value
+2001,Reading attainment at age 9,1.05455
+2003,Reading attainment at age 15,1.19212
+2003,Math attainment at age 15,1.07602
+2006,Reading attainment at age 15,1.18022
+2006,Math attainment at age 15,1.0363799999999999
+2006,Reading attainment at age 9,1.0483200000000001
+2009,Reading attainment at age 15,1.15476
+2009,Math attainment at age 15,1.02189
+2012,Reading attainment at age 15,1.20181
+2012,Math attainment at age 15,1.04393
+2015,Reading attainment at age 15,1.15673
+2015,Math attainment at age 15,1.02099
+2018,Reading attainment at age 15,1.173913043
+2018,Math attainment at age 15,1.064935065
