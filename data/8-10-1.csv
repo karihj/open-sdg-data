@@ -1,7 +1,31 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Service,Value
+2004,Branches of commercial banks,61.25890491
+2005,Branches of commercial banks,58.24706976
+2006,Branches of commercial banks,53.01926367
+2007,Branches of commercial banks,51.02836787
+2008,Branches of commercial banks,48.18375764
+2009,Branches of commercial banks,41.01851156
+2010,Branches of commercial banks,40.613292200000004
+2011,Branches of commercial banks,36.74023087
+2012,Branches of commercial banks,33.48196824
+2013,Branches of commercial banks,30.75900167
+2014,Branches of commercial banks,28.55642658
+2015,Branches of commercial banks,26.73959283
+2016,Branches of commercial banks,25.86240599
+2017,Branches of commercial banks,25.71309506
+2018,Branches of commercial banks,23.24580284
+2004,Number of Automated Teller Machines (ATMs),82.59627628
+2005,Number of Automated Teller Machines (ATMs),87.54091771
+2006,Number of Automated Teller Machines (ATMs),84.03053109
+2007,Number of Automated Teller Machines (ATMs),84.50557737
+2008,Number of Automated Teller Machines (ATMs),80.517595
+2009,Number of Automated Teller Machines (ATMs),62.31056336
+2010,Number of Automated Teller Machines (ATMs),64.5405031
+2011,Number of Automated Teller Machines (ATMs),60.29166091
+2012,Number of Automated Teller Machines (ATMs),58.82813111
+2013,Number of Automated Teller Machines (ATMs),60.89660936
+2014,Number of Automated Teller Machines (ATMs),62.94696181
+2015,Number of Automated Teller Machines (ATMs),58.94864783
+2016,Number of Automated Teller Machines (ATMs),71.57270494
+2017,Number of Automated Teller Machines (ATMs),72.11488729
+2018,Number of Automated Teller Machines (ATMs),70.02439374
