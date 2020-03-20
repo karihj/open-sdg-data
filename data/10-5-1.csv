@@ -1,7 +1,26 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Indicator,Value
+2015,Liquid assets to short-term liabilities,37.617
+2016,Liquid assets to short-term liabilities,37.187
+2017,Liquid assets to short-term liabilities,30.109
+2018,Liquid assets to short-term liabilities,23.324
+2018,Regulatory Tier 1 capital to assets,17.035
+2015,Regulatory Tier 1 capital to risk- weighted assets,27.386
+2016,Regulatory Tier 1 capital to risk- weighted assets,27.19
+2017,Regulatory Tier 1 capital to risk- weighted assets,24.299
+2018,Regulatory Tier 1 capital to risk- weighted assets,21.816
+2015,Nonperforming loans net of provisions to capital,8.889
+2016,Nonperforming loans net of provisions to capital,6.777
+2017,Nonperforming loans net of provisions to capital,5.462999999999999
+2018,Nonperforming loans net of provisions to capital,6.568
+2015,Nonperforming loans to total gross loans,5.852
+2016,Nonperforming loans to total gross loans,4.123
+2017,Nonperforming loans to total gross loans,2.864
+2018,Nonperforming loans to total gross loans,2.513
+2015,Return on assets,4.195
+2016,Return on assets,2.375
+2017,Return on assets,1.9
+2018,Return on assets,1.619
+2015,Net open position in foreign exchange to capital  ?,2.08829
+2016,Net open position in foreign exchange to capital  ?,-0.48368
+2017,Net open position in foreign exchange to capital  ?,0.53827
+2018,Net open position in foreign exchange to capital  ?,-0.24356
