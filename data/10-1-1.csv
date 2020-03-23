@@ -1,7 +1,121 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Income/expenditure,Income group,Value
+2002-2004,Expenditure,1st quartile,6.280601967999999
+2003-2005,Expenditure,1st quartile,7.674755827
+2004-2006,Expenditure,1st quartile,15.95094892
+2005-2007,Expenditure,1st quartile,13.56608759
+2006-2008,Expenditure,1st quartile,14.31796667
+2007-2009,Expenditure,1st quartile,3.501315087
+2008-2010,Expenditure,1st quartile,-9.376454184
+2009-2011,Expenditure,1st quartile,-4.507547111
+2010-2012,Expenditure,1st quartile,8.971542154
+2011-2014,Expenditure,1st quartile,5.932695999
+2012-2015,Expenditure,1st quartile,4.43507329
+2013-2016,Expenditure,1st quartile,3.398256313
+2002-2004,Expenditure,2nd quartile,9.157000514
+2003-2005,Expenditure,2nd quartile,9.145458634
+2004-2006,Expenditure,2nd quartile,7.707071097999999
+2005-2007,Expenditure,2nd quartile,11.58337617
+2006-2008,Expenditure,2nd quartile,4.857913313
+2007-2009,Expenditure,2nd quartile,5.003834979
+2008-2010,Expenditure,2nd quartile,-3.9897127219999997
+2009-2011,Expenditure,2nd quartile,1.374077971
+2010-2012,Expenditure,2nd quartile,8.375958741
+2011-2014,Expenditure,2nd quartile,26.11119637
+2012-2015,Expenditure,2nd quartile,-0.386645615
+2013-2016,Expenditure,2nd quartile,-3.304337067
+2002-2004,Expenditure,3rd quartile,8.832820236
+2003-2005,Expenditure,3rd quartile,1.7699466259999999
+2004-2006,Expenditure,3rd quartile,5.557991477000001
+2005-2007,Expenditure,3rd quartile,8.520599273
+2006-2008,Expenditure,3rd quartile,11.33936389
+2007-2009,Expenditure,3rd quartile,7.356473772
+2008-2010,Expenditure,3rd quartile,-1.8226361580000001
+2009-2011,Expenditure,3rd quartile,0.413291299
+2010-2012,Expenditure,3rd quartile,6.095609679
+2011-2014,Expenditure,3rd quartile,28.524754499999997
+2012-2015,Expenditure,3rd quartile,-2.571775611
+2013-2016,Expenditure,3rd quartile,-13.5370764
+2002-2004,Expenditure,4th quartile,12.98969464
+2003-2005,Expenditure,4th quartile,9.018821286
+2004-2006,Expenditure,4th quartile,4.666830514
+2005-2007,Expenditure,4th quartile,0.97958802
+2006-2008,Expenditure,4th quartile,1.83538522
+2007-2009,Expenditure,4th quartile,10.85369197
+2008-2010,Expenditure,4th quartile,1.173030662
+2009-2011,Expenditure,4th quartile,2.825838212
+2010-2012,Expenditure,4th quartile,6.673967723
+2011-2014,Expenditure,4th quartile,13.29323978
+2012-2015,Expenditure,4th quartile,-5.05974981
+2013-2016,Expenditure,4th quartile,-2.197145791
+2002-2004,Expenditure,Total,9.318719941
+2003-2005,Expenditure,Total,6.956562826
+2004-2006,Expenditure,Total,7.742893648
+2005-2007,Expenditure,Total,7.731866517
+2006-2008,Expenditure,Total,7.5423201
+2007-2009,Expenditure,Total,6.971880197000001
+2008-2010,Expenditure,Total,-3.081218976
+2009-2011,Expenditure,Total,0.359568005
+2010-2012,Expenditure,Total,7.32846131
+2011-2014,Expenditure,Total,17.33356596
+2012-2015,Expenditure,Total,-2.066962745
+2013-2016,Expenditure,Total,-4.9370670819999996
+2005,Income,1st quantile,7.4380165289999995
+2006,Income,1st quantile,7.884615385
+2007,Income,1st quantile,12.29946524
+2008,Income,1st quantile,11.98412698
+2009,Income,1st quantile,13.53649894
+2010,Income,1st quantile,-0.124843945
+2011,Income,1st quantile,-1.375
+2012,Income,1st quantile,4.182509506000001
+2013,Income,1st quantile,5.109489051000001
+2014,Income,1st quantile,11.57407407
+2015,Income,1st quantile,0.2593361
+2016,Income,1st quantile,9.984480083
+2005,Income,2nd quantile,5.622188906
+2006,Income,2nd quantile,9.013484741000001
+2007,Income,2nd quantile,12.3046875
+2008,Income,2nd quantile,12.28985507
+2009,Income,2nd quantile,11.82240578
+2010,Income,2nd quantile,-0.184672207
+2011,Income,2nd quantile,-1.618871415
+2012,Income,2nd quantile,1.692524683
+2013,Income,2nd quantile,7.905686546
+2014,Income,2nd quantile,7.06940874
+2015,Income,2nd quantile,5.842336935
+2016,Income,2nd quantile,8.884688091000001
+2005,Income,3rd quantile,6.439628483
+2006,Income,3rd quantile,7.911576498
+2007,Income,3rd quantile,13.47708895
+2008,Income,3rd quantile,11.54394299
+2009,Income,3rd quantile,14.13969336
+2010,Income,3rd quantile,-1.641791045
+2011,Income,3rd quantile,-2.8831562969999998
+2012,Income,3rd quantile,1.71875
+2013,Income,3rd quantile,9.216589862000001
+2014,Income,3rd quantile,6.926863572
+2015,Income,3rd quantile,4.274909569
+2016,Income,3rd quantile,9.145380006
+2005,Income,4th quantile,5.1934826880000005
+2006,Income,4th quantile,9.341723136
+2007,Income,4th quantile,16.64453298
+2008,Income,4th quantile,10.77798861
+2009,Income,4th quantile,13.08667352
+2010,Income,4th quantile,-2.332626477
+2011,Income,4th quantile,-3.970223325
+2012,Income,4th quantile,4.618863049
+2013,Income,4th quantile,6.298240197999999
+2014,Income,4th quantile,6.0993319779999995
+2015,Income,4th quantile,5.3654530519999994
+2016,Income,4th quantile,9.898674981000001
+2005,Income,5th quantile,8.390804597999999
+2006,Income,5th quantile,11.2407211
+2007,Income,5th quantile,19.256434699999996
+2008,Income,5th quantile,11.27098321
+2009,Income,5th quantile,16.47509579
+2010,Income,5th quantile,-6.373355263
+2011,Income,5th quantile,-10.16688625
+2012,Income,5th quantile,5.69542899
+2013,Income,5th quantile,9.250693802
+2014,Income,5th quantile,6.202370872
+2015,Income,5th quantile,5.182379908
+2016,Income,5th quantile,8.811824901
