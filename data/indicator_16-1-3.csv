@@ -1,7 +1,13 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Type of Violence,Value
+2013,Sexual assault,1.2
+2014,Sexual assault,1.7
+2015,Sexual assault,1.9
+2016,Sexual assault,2
+2017,Sexual assault,2.8
+2018,Sexual assault,2.5
+2013,Physical assault,3.3
+2014,Physical assault,3.0
+2015,Physical assault,2.6
+2016,Physical assault,2.1
+2017,Physical assault,2.0
+2018,Physical assault,3.0
