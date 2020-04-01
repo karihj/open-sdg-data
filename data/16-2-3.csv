@@ -1,7 +1,33 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Gender,Age,Perpetrator,Value
+2018,Male,'20',Adult,5.963302752000001
+2018,Male,'19',Adult,3.8167938930000003
+2018,Male,'18',Adult,2.8382213810000003
+2018,Male,'17',Adult,2.96
+2018,Male,'16',Adult,4.160887656
+2018,Male,'20',Same age,7.3394495410000005
+2018,Male,'19',Same age,4.580152672
+2018,Male,'18',Same age,4.824976348
+2018,Male,'17',Same age,4.08
+2018,Male,'16',Same age,4.993065187
+2018,Female,'20',Adult,20.80536913
+2018,Female,'19',Adult,15.61181435
+2018,Female,'18',Adult,8.868999186
+2018,Female,'17',Adult,5.796038151
+2018,Female,'16',Adult,5.422853454
+2018,Female,'20',Same age,22.81879195
+2018,Female,'19',Same age,17.72151899
+2018,Female,'18',Same age,13.91375102
+2018,Female,'17',Same age,14.74688188
+2018,Female,'16',Same age,12.97611362
+2020,Male,'16',Adult,2.398081535
+2020,Male,'15',Adult,1.7421602790000001
+2020,Male,'14',Adult,1.3986013990000001
+2020,Male,'16',Same age,2.637889688
+2020,Male,'15',Same age,2.7293844369999998
+2020,Male,'14',Same age,2.097902098
+2020,Female,'16',Adult,4.918032787
+2020,Female,'15',Adult,4.575163399
+2020,Female,'14',Adult,3.551609323
+2020,Female,'16',Same age,10.18799272
+2020,Female,'15',Same age,9.602845287000001
+2020,Female,'14',Same age,5.155210643
