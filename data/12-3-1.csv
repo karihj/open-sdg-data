@@ -1,4 +1,4 @@
-Year,Units,Waste type,Sector,Unit measure,Value
+Year,Waste type,Waste origin,Sector,Unit type,Value
 2016,Food and inedible waste,Household,,Tonnes,93959.0
 2019,Food and inedible waste,Household,,Tonnes,32785.0
 2016,Food and inedible waste,Supply chain,,Tonnes,83240.0

@@ -1,3 +1,4 @@
 From,To
-Waste type,Unit measure
-Unit measure,Sector
+Waste type,Waste origin
+Waste origin,Unit type
+Unit type,Sector
