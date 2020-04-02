@@ -1,4 +1,4 @@
-Year,Waste type,Waste origin,Sector,Units type,Value
+Year,Waste type,Waste origin,Sector,Unit type,Value
 2016,Food and inedible waste,Household,,Tonnes,93959.0
 2019,Food and inedible waste,Household,,Tonnes,32785.0
 2016,Food and inedible waste,Supply chain,,Tonnes,83240.0
@@ -34,7 +34,7 @@ Year,Waste type,Waste origin,Sector,Units type,Value
 2016,Food and inedible waste,Supply chain,,Kg per person,250.32403190000002
 2019,Food and inedible waste,Supply chain,,Kg per person,112.6
 2016,Food,Household,,Tonnes,7649.0
-2016,Food,Household,,Tonnes,7152.2
+2019,Food,Household,,Tonnes,7152.2
 2016,Food,Supply chain,,Tonnes,42378.61
 2019,Food,Supply chain,,Tonnes,9654.15
 2016,Food,Supply chain,Agriculture (01),Tonnes,253.3
