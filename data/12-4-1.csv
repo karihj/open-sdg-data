@@ -1,7 +1,118 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Convention,Value
+1994,Basel,0.0
+1995,Basel,1.0
+1996,Basel,1.0
+1997,Basel,1.0
+1998,Basel,1.0
+1999,Basel,1.0
+2000,Basel,1.0
+2001,Basel,1.0
+2002,Basel,1.0
+2003,Basel,1.0
+2004,Basel,1.0
+2005,Basel,1.0
+2006,Basel,1.0
+2007,Basel,1.0
+2008,Basel,1.0
+2009,Basel,1.0
+2010,Basel,1.0
+2011,Basel,1.0
+2012,Basel,1.0
+2013,Basel,1.0
+2014,Basel,1.0
+2015,Basel,1.0
+2016,Basel,1.0
+2017,Basel,1.0
+2018,Basel,1.0
+2019,Basel,1.0
+2020,Basel,1.0
+2017,Minimata,0.0
+2018,Minimata,1.0
+2019,Minimata,1.0
+2020,Minimata,1.0
+1988,Montreal Protocol,0.0
+1989,Montreal Protocol,1.0
+1990,Montreal Protocol,1.0
+1991,Montreal Protocol,1.0
+1992,Montreal Protocol,1.0
+1993,Montreal Protocol,1.0
+1994,Montreal Protocol,1.0
+1995,Montreal Protocol,1.0
+1996,Montreal Protocol,1.0
+1997,Montreal Protocol,1.0
+1998,Montreal Protocol,1.0
+1999,Montreal Protocol,1.0
+2000,Montreal Protocol,1.0
+2001,Montreal Protocol,1.0
+2002,Montreal Protocol,1.0
+2003,Montreal Protocol,1.0
+2004,Montreal Protocol,1.0
+2005,Montreal Protocol,1.0
+2006,Montreal Protocol,1.0
+2007,Montreal Protocol,1.0
+2008,Montreal Protocol,1.0
+2009,Montreal Protocol,1.0
+2010,Montreal Protocol,1.0
+2011,Montreal Protocol,1.0
+2012,Montreal Protocol,1.0
+2013,Montreal Protocol,1.0
+2014,Montreal Protocol,1.0
+2015,Montreal Protocol,1.0
+2016,Montreal Protocol,1.0
+2017,Montreal Protocol,1.0
+2018,Montreal Protocol,1.0
+2019,Montreal Protocol,1.0
+2020,Montreal Protocol,1.0
+2001,Stockholm Convention,0.0
+2002,Stockholm Convention,1.0
+2003,Stockholm Convention,1.0
+2004,Stockholm Convention,1.0
+2005,Stockholm Convention,1.0
+2006,Stockholm Convention,1.0
+2007,Stockholm Convention,1.0
+2008,Stockholm Convention,1.0
+2009,Stockholm Convention,1.0
+2010,Stockholm Convention,1.0
+2011,Stockholm Convention,1.0
+2012,Stockholm Convention,1.0
+2013,Stockholm Convention,1.0
+2014,Stockholm Convention,1.0
+2015,Stockholm Convention,1.0
+2016,Stockholm Convention,1.0
+2017,Stockholm Convention,1.0
+2018,Stockholm Convention,1.0
+2019,Stockholm Convention,1.0
+2020,Stockholm Convention,1.0
+1988,,0.0
+1989,,0.2
+1990,,0.2
+1991,,0.2
+1992,,0.2
+1993,,0.2
+1994,,0.2
+1995,,0.4
+1996,,0.4
+1997,,0.4
+1998,,0.4
+1999,,0.4
+2000,,0.4
+2001,,0.4
+2002,,0.6
+2003,,0.6
+2004,,0.6
+2005,,0.6
+2006,,0.6
+2007,,0.6
+2008,,0.6
+2009,,0.6
+2010,,0.6
+2011,,0.6
+2012,,0.6
+2013,,0.6
+2014,,0.6
+2015,,0.6
+2016,,0.6
+2017,,0.8
+2018,,0.8
+2019,,0.8
+2020,,0.8
