@@ -1,7 +1,63 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Type of Product,Status,Value
+2005,Arms,Most-favoured-nation status,8.12067
+2005,Clothing,Most-favoured-nation status,14.87714
+2005,Industrial products,Most-favoured-nation status,1.62617
+2005,Textiles,Most-favoured-nation status,4.84124
+2005,All products,Most-favoured-nation status,2.68193
+2005,Agricultural products,Most-favoured-nation status,11.51347
+2010,Oil,Most-favoured-nation status,0
+2010,Industrial products,Most-favoured-nation status,1.25309
+2010,Clothing,Most-favoured-nation status,14.91721
+2010,Agricultural products,Most-favoured-nation status,11.63038
+2010,All products,Most-favoured-nation status,2.61493
+2010,Arms,Most-favoured-nation status,7.69405
+2010,Textiles,Most-favoured-nation status,4.45305
+2015,Arms,Most-favoured-nation status,8.57709
+2015,Clothing,Most-favoured-nation status,14.89692
+2015,Industrial products,Most-favoured-nation status,1.22998
+2015,Textiles,Most-favoured-nation status,5.27239
+2015,Agricultural products,Most-favoured-nation status,15.44017
+2015,All products,Most-favoured-nation status,2.85161
+2016,Clothing,Most-favoured-nation status,0
+2016,Industrial products,Most-favoured-nation status,0.72747
+2016,Textiles,Most-favoured-nation status,5.27391
+2016,Agricultural products,Most-favoured-nation status,8.32874
+2016,Arms,Most-favoured-nation status,7.86374
+2016,All products,Most-favoured-nation status,1.2118
+2017,Clothing,Most-favoured-nation status,0
+2017,Agricultural products,Most-favoured-nation status,19.24411
+2017,All products,Most-favoured-nation status,1.66244
+2017,Arms,Most-favoured-nation status,0
+2017,Industrial products,Most-favoured-nation status,0.00756
+2017,Textiles,Most-favoured-nation status,0
+2005,Arms,Preferential Status,2.3405
+2005,Agricultural products,Preferential Status,8.70884
+2005,Textiles,Preferential Status,2.12379
+2005,All products,Preferential Status,1.18042
+2005,Industrial products,Preferential Status,0.45735
+2005,Cloths,Preferential Status,6.26899
+2010,Cloths,Preferential Status,8.05477
+2010,Agricultural products,Preferential Status,7.17875
+2010,All products,Preferential Status,1.27167
+2010,Oil,Preferential Status,0
+2010,Industrial products,Preferential Status,0.42578
+2010,Textiles,Preferential Status,2.13606
+2010,Arms,Preferential Status,1.84994
+2015,Arms,Preferential Status,1.54039
+2015,All products,Preferential Status,1.1336
+2015,Agricultural products,Preferential Status,10.56332
+2015,Textiles,Preferential Status,0.84678
+2015,Industrial products,Preferential Status,0.14441
+2015,Cloths,Preferential Status,1.94881
+2016,Agricultural products,Preferential Status,7.04065
+2016,Textiles,Preferential Status,1.54096
+2016,Industrial products,Preferential Status,0.2254
+2016,Cloths,Preferential Status,0
+2016,Arms,Preferential Status,6.73788
+2016,All products,Preferential Status,0.63486
+2017,All products,Preferential Status,1.07911
+2017,Agricultural products,Preferential Status,12.49977
+2017,Textiles,Preferential Status,0
+2017,Cloths,Preferential Status,0
+2017,Industrial products,Preferential Status,0.00411
+2017,Arms,Preferential Status,0
