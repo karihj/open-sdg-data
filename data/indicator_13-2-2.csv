@@ -1,6 +1,652 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
+Year,Sector,Units,Value
+1990,,UNFCCC - NIR,13005.38
+1991,,UNFCCC - NIR,12785.18
+1992,,UNFCCC - NIR,12686.19
+1993,,UNFCCC - NIR,12769.63
+1994,,UNFCCC - NIR,12668.01
+1995,,UNFCCC - NIR,12787.07
+1996,,UNFCCC - NIR,12833.28
+1997,,UNFCCC - NIR,13002.96
+1998,,UNFCCC - NIR,13168.11
+1999,,UNFCCC - NIR,13401.65
+2000,,UNFCCC - NIR,13424.62
+2001,,UNFCCC - NIR,13334.33
+2002,,UNFCCC - NIR,13429.08
+2003,,UNFCCC - NIR,13400.78
+2004,,UNFCCC - NIR,13508
+2005,,UNFCCC - NIR,13374.55
+2006,,UNFCCC - NIR,14028.66
+2007,,UNFCCC - NIR,14361.59
+2008,,UNFCCC - NIR,14767.32
+2009,,UNFCCC - NIR,14442.83
+2010,,UNFCCC - NIR,14316.77
+2011,,UNFCCC - NIR,14023.7
+2012,,UNFCCC - NIR,14033.88
+2013,,UNFCCC - NIR,14012.86
+2014,,UNFCCC - NIR,14025.14
+2015,,UNFCCC - NIR,14078.41
+2016,,UNFCCC - NIR,13985.21
+2017,,UNFCCC - NIR,14075.43
+1990,Energy,UNFCCC - NIR,1866.69
+1991,Energy,UNFCCC - NIR,1780.91
+1992,Energy,UNFCCC - NIR,1923.55
+1993,Energy,UNFCCC - NIR,2035.54
+1994,Energy,UNFCCC - NIR,1974.78
+1995,Energy,UNFCCC - NIR,2068.65
+1996,Energy,UNFCCC - NIR,2124.77
+1997,Energy,UNFCCC - NIR,2168.53
+1998,Energy,UNFCCC - NIR,2162.1
+1999,Energy,UNFCCC - NIR,2227.26
+2000,Energy,UNFCCC - NIR,2210.48
+2001,Energy,UNFCCC - NIR,2095.48
+2002,Energy,UNFCCC - NIR,2203.38
+2003,Energy,UNFCCC - NIR,2194.1
+2004,Energy,UNFCCC - NIR,2294.83
+2005,Energy,UNFCCC - NIR,2184.44
+2006,Energy,UNFCCC - NIR,2253.87
+2007,Energy,UNFCCC - NIR,2402
+2008,Energy,UNFCCC - NIR,2259.53
+2009,Energy,UNFCCC - NIR,2177.38
+2010,Energy,UNFCCC - NIR,2056.98
+2011,Energy,UNFCCC - NIR,1922.49
+2012,Energy,UNFCCC - NIR,1880.6
+2013,Energy,UNFCCC - NIR,1844.35
+2014,Energy,UNFCCC - NIR,1859.47
+2015,Energy,UNFCCC - NIR,1876.94
+2016,Energy,UNFCCC - NIR,1857.62
+2017,Energy,UNFCCC - NIR,1907.49
+1990,Industrial Processes,UNFCCC - NIR,958.01
+1991,Industrial Processes,UNFCCC - NIR,837.43
+1992,Industrial Processes,UNFCCC - NIR,607.73
+1993,Industrial Processes,UNFCCC - NIR,565
+1994,Industrial Processes,UNFCCC - NIR,531.1
+1995,Industrial Processes,UNFCCC - NIR,571.21
+1996,Industrial Processes,UNFCCC - NIR,546.56
+1997,Industrial Processes,UNFCCC - NIR,675.46
+1998,Industrial Processes,UNFCCC - NIR,827.83
+1999,Industrial Processes,UNFCCC - NIR,974.81
+2000,Industrial Processes,UNFCCC - NIR,1008.56
+2001,Industrial Processes,UNFCCC - NIR,1011.78
+2002,Industrial Processes,UNFCCC - NIR,987.92
+2003,Industrial Processes,UNFCCC - NIR,984.86
+2004,Industrial Processes,UNFCCC - NIR,986.03
+2005,Industrial Processes,UNFCCC - NIR,964.69
+2006,Industrial Processes,UNFCCC - NIR,1436
+2007,Industrial Processes,UNFCCC - NIR,1577.52
+2008,Industrial Processes,UNFCCC - NIR,2108.7
+2009,Industrial Processes,UNFCCC - NIR,1917.66
+2010,Industrial Processes,UNFCCC - NIR,1951.13
+2011,Industrial Processes,UNFCCC - NIR,1845.72
+2012,Industrial Processes,UNFCCC - NIR,1937.49
+2013,Industrial Processes,UNFCCC - NIR,1962.75
+2014,Industrial Processes,UNFCCC - NIR,1941.85
+2015,Industrial Processes,UNFCCC - NIR,2023
+2016,Industrial Processes,UNFCCC - NIR,1973.99
+2017,Industrial Processes,UNFCCC - NIR,2039.34
+1990,Agriculture,UNFCCC - NIR,592.68
+1991,Agriculture,UNFCCC - NIR,576.01
+1992,Agriculture,UNFCCC - NIR,559.55
+1993,Agriculture,UNFCCC - NIR,562.66
+1994,Agriculture,UNFCCC - NIR,568.15
+1995,Agriculture,UNFCCC - NIR,547.61
+1996,Agriculture,UNFCCC - NIR,560.24
+1997,Agriculture,UNFCCC - NIR,553.44
+1998,Agriculture,UNFCCC - NIR,563.52
+1999,Agriculture,UNFCCC - NIR,568.06
+2000,Agriculture,UNFCCC - NIR,551.75
+2001,Agriculture,UNFCCC - NIR,551.82
+2002,Agriculture,UNFCCC - NIR,535.21
+2003,Agriculture,UNFCCC - NIR,525.09
+2004,Agriculture,UNFCCC - NIR,515.88
+2005,Agriculture,UNFCCC - NIR,518.75
+2006,Agriculture,UNFCCC - NIR,542.9
+2007,Agriculture,UNFCCC - NIR,559.56
+2008,Agriculture,UNFCCC - NIR,572.13
+2009,Agriculture,UNFCCC - NIR,556.98
+2010,Agriculture,UNFCCC - NIR,545.73
+2011,Agriculture,UNFCCC - NIR,545.73
+2012,Agriculture,UNFCCC - NIR,545.06
+2013,Agriculture,UNFCCC - NIR,539.68
+2014,Agriculture,UNFCCC - NIR,583.3
+2015,Agriculture,UNFCCC - NIR,570.52
+2016,Agriculture,UNFCCC - NIR,571.14
+2017,Agriculture,UNFCCC - NIR,578.19
+1990,"Land use, land-use change and forestry",UNFCCC - NIR,9407.11
+1991,"Land use, land-use change and forestry",UNFCCC - NIR,9403.53
+1992,"Land use, land-use change and forestry",UNFCCC - NIR,9392.23
+1993,"Land use, land-use change and forestry",UNFCCC - NIR,9391.45
+1994,"Land use, land-use change and forestry",UNFCCC - NIR,9367.13
+1995,"Land use, land-use change and forestry",UNFCCC - NIR,9360.9
+1996,"Land use, land-use change and forestry",UNFCCC - NIR,9358.96
+1997,"Land use, land-use change and forestry",UNFCCC - NIR,9358.19
+1998,"Land use, land-use change and forestry",UNFCCC - NIR,9361.14
+1999,"Land use, land-use change and forestry",UNFCCC - NIR,9371.13
+2000,"Land use, land-use change and forestry",UNFCCC - NIR,9386.94
+2001,"Land use, land-use change and forestry",UNFCCC - NIR,9399.03
+2002,"Land use, land-use change and forestry",UNFCCC - NIR,9423.18
+2003,"Land use, land-use change and forestry",UNFCCC - NIR,9416.56
+2004,"Land use, land-use change and forestry",UNFCCC - NIR,9419.73
+2005,"Land use, land-use change and forestry",UNFCCC - NIR,9427.24
+2006,"Land use, land-use change and forestry",UNFCCC - NIR,9481.01
+2007,"Land use, land-use change and forestry",UNFCCC - NIR,9508.38
+2008,"Land use, land-use change and forestry",UNFCCC - NIR,9525.93
+2009,"Land use, land-use change and forestry",UNFCCC - NIR,9499.8
+2010,"Land use, land-use change and forestry",UNFCCC - NIR,9471.94
+2011,"Land use, land-use change and forestry",UNFCCC - NIR,9442.06
+2012,"Land use, land-use change and forestry",UNFCCC - NIR,9432.07
+2013,"Land use, land-use change and forestry",UNFCCC - NIR,9414.14
+2014,"Land use, land-use change and forestry",UNFCCC - NIR,9390.65
+2015,"Land use, land-use change and forestry",UNFCCC - NIR,9363.32
+2016,"Land use, land-use change and forestry",UNFCCC - NIR,9345.3
+2017,"Land use, land-use change and forestry",UNFCCC - NIR,9320.78
+1990,Waste,UNFCCC - NIR,180.89
+1991,Waste,UNFCCC - NIR,187.3
+1992,Waste,UNFCCC - NIR,203.12
+1993,Waste,UNFCCC - NIR,215
+1994,Waste,UNFCCC - NIR,226.85
+1995,Waste,UNFCCC - NIR,238.7
+1996,Waste,UNFCCC - NIR,242.74
+1997,Waste,UNFCCC - NIR,247.33
+1998,Waste,UNFCCC - NIR,253.51
+1999,Waste,UNFCCC - NIR,260.39
+2000,Waste,UNFCCC - NIR,266.89
+2001,Waste,UNFCCC - NIR,276.21
+2002,Waste,UNFCCC - NIR,279.39
+2003,Waste,UNFCCC - NIR,280.18
+2004,Waste,UNFCCC - NIR,291.53
+2005,Waste,UNFCCC - NIR,279.44
+2006,Waste,UNFCCC - NIR,314.88
+2007,Waste,UNFCCC - NIR,314.13
+2008,Waste,UNFCCC - NIR,301.04
+2009,Waste,UNFCCC - NIR,291.01
+2010,Waste,UNFCCC - NIR,290.99
+2011,Waste,UNFCCC - NIR,267.7
+2012,Waste,UNFCCC - NIR,238.67
+2013,Waste,UNFCCC - NIR,251.93
+2014,Waste,UNFCCC - NIR,249.88
+2015,Waste,UNFCCC - NIR,244.64
+2016,Waste,UNFCCC - NIR,237.16
+2017,Waste,UNFCCC - NIR,229.62
+1995,,Eurostat - AEA,3673.96
+1996,,Eurostat - AEA,3865.08
+1997,,Eurostat - AEA,4057.23
+1998,,Eurostat - AEA,4276.42
+1999,,Eurostat - AEA,4551.19
+2000,,Eurostat - AEA,4647.47
+2001,,Eurostat - AEA,4583.03
+2002,,Eurostat - AEA,4550.93
+2003,,Eurostat - AEA,4809.5
+2004,,Eurostat - AEA,4867.11
+2005,,Eurostat - AEA,4734.94
+2006,,Eurostat - AEA,4984.89
+2007,,Eurostat - AEA,5485.65
+2008,,Eurostat - AEA,5881.99
+2009,,Eurostat - AEA,5502.59
+2010,,Eurostat - AEA,5584.09
+2011,,Eurostat - AEA,5331.16
+2012,,Eurostat - AEA,5448.25
+2013,,Eurostat - AEA,5750.07
+2014,,Eurostat - AEA,5873.25
+2015,,Eurostat - AEA,6305.98
+2016,,Eurostat - AEA,6869.35
+2017,,Eurostat - AEA,7660.5
+1995,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1381.29
+1996,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1455.12
+1997,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1429.52
+1998,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1410.34
+1999,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1400.21
+2000,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1336.15
+2001,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1247.09
+2002,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1308.16
+2003,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1265.79
+2004,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1219.28
+2005,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1196.99
+2006,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1141.36
+2007,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1168.47
+2008,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1125.49
+2009,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1189.52
+2010,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1119.15
+2011,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1085.12
+2012,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1070.38
+2013,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1057.46
+2014,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1061.75
+2015,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1063.56
+2016,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1034.1
+2017,"A - Aggriculture, forestry and fishing",Eurostat - AEA,1011.65
+1995,B - Mining and quarrying,Eurostat - AEA,0.34
+1996,B - Mining and quarrying,Eurostat - AEA,0.28
+1997,B - Mining and quarrying,Eurostat - AEA,0.33
+1998,B - Mining and quarrying,Eurostat - AEA,0.29
+1999,B - Mining and quarrying,Eurostat - AEA,0.34
+2000,B - Mining and quarrying,Eurostat - AEA,0.29
+2001,B - Mining and quarrying,Eurostat - AEA,0.92
+2002,B - Mining and quarrying,Eurostat - AEA,0.78
+2003,B - Mining and quarrying,Eurostat - AEA,4.49
+2004,B - Mining and quarrying,Eurostat - AEA,0.81
+2005,B - Mining and quarrying,Eurostat - AEA,0.83
+2006,B - Mining and quarrying,Eurostat - AEA,1.28
+2007,B - Mining and quarrying,Eurostat - AEA,1.16
+2008,B - Mining and quarrying,Eurostat - AEA,1.05
+2009,B - Mining and quarrying,Eurostat - AEA,1.21
+2010,B - Mining and quarrying,Eurostat - AEA,1.31
+2011,B - Mining and quarrying,Eurostat - AEA,1.32
+2012,B - Mining and quarrying,Eurostat - AEA,1.69
+2013,B - Mining and quarrying,Eurostat - AEA,1.23
+2014,B - Mining and quarrying,Eurostat - AEA,1.4
+2015,B - Mining and quarrying,Eurostat - AEA,1.43
+2016,B - Mining and quarrying,Eurostat - AEA,1.66
+2017,B - Mining and quarrying,Eurostat - AEA,2.1
+1995,C - Manufacturing,Eurostat - AEA,769.73
+1996,C - Manufacturing,Eurostat - AEA,781.81
+1997,C - Manufacturing,Eurostat - AEA,929.16
+1998,C - Manufacturing,Eurostat - AEA,1027.05
+1999,C - Manufacturing,Eurostat - AEA,1171.74
+2000,C - Manufacturing,Eurostat - AEA,1157.62
+2001,C - Manufacturing,Eurostat - AEA,1194.26
+2002,C - Manufacturing,Eurostat - AEA,1200.35
+2003,C - Manufacturing,Eurostat - AEA,1189.7
+2004,C - Manufacturing,Eurostat - AEA,1173.49
+2005,C - Manufacturing,Eurostat - AEA,1085.16
+2006,C - Manufacturing,Eurostat - AEA,1557.36
+2007,C - Manufacturing,Eurostat - AEA,1675.75
+2008,C - Manufacturing,Eurostat - AEA,2168.91
+2009,C - Manufacturing,Eurostat - AEA,1941.55
+2010,C - Manufacturing,Eurostat - AEA,1939.72
+2011,C - Manufacturing,Eurostat - AEA,1826.9
+2012,C - Manufacturing,Eurostat - AEA,1898.38
+2013,C - Manufacturing,Eurostat - AEA,1913.04
+2014,C - Manufacturing,Eurostat - AEA,1853.32
+2015,C - Manufacturing,Eurostat - AEA,1951.44
+2016,C - Manufacturing,Eurostat - AEA,1922.88
+2017,C - Manufacturing,Eurostat - AEA,1963
+1995,D - Electricity and power generation,Eurostat - AEA,87.29
+1996,D - Electricity and power generation,Eurostat - AEA,86.65
+1997,D - Electricity and power generation,Eurostat - AEA,70.41
+1998,D - Electricity and power generation,Eurostat - AEA,89.55
+1999,D - Electricity and power generation,Eurostat - AEA,116.24
+2000,D - Electricity and power generation,Eurostat - AEA,157.97
+2001,D - Electricity and power generation,Eurostat - AEA,148.26
+2002,D - Electricity and power generation,Eurostat - AEA,152.67
+2003,D - Electricity and power generation,Eurostat - AEA,140.76
+2004,D - Electricity and power generation,Eurostat - AEA,125.59
+2005,D - Electricity and power generation,Eurostat - AEA,121.13
+2006,D - Electricity and power generation,Eurostat - AEA,134.94
+2007,D - Electricity and power generation,Eurostat - AEA,169.1
+2008,D - Electricity and power generation,Eurostat - AEA,194.77
+2009,D - Electricity and power generation,Eurostat - AEA,177
+2010,D - Electricity and power generation,Eurostat - AEA,199.48
+2011,D - Electricity and power generation,Eurostat - AEA,187.38
+2012,D - Electricity and power generation,Eurostat - AEA,180.33
+2013,D - Electricity and power generation,Eurostat - AEA,182.21
+2014,D - Electricity and power generation,Eurostat - AEA,193.64
+2015,D - Electricity and power generation,Eurostat - AEA,173.26
+2016,D - Electricity and power generation,Eurostat - AEA,158.27
+2017,D - Electricity and power generation,Eurostat - AEA,154.19
+1995,"E - Water collection, waste management and remediation activities",Eurostat - AEA,239.57
+1996,"E - Water collection, waste management and remediation activities",Eurostat - AEA,243.52
+1997,"E - Water collection, waste management and remediation activities",Eurostat - AEA,248.52
+1998,"E - Water collection, waste management and remediation activities",Eurostat - AEA,254.91
+1999,"E - Water collection, waste management and remediation activities",Eurostat - AEA,262.33
+2000,"E - Water collection, waste management and remediation activities",Eurostat - AEA,269.26
+2001,"E - Water collection, waste management and remediation activities",Eurostat - AEA,278.81
+2002,"E - Water collection, waste management and remediation activities",Eurostat - AEA,282.34
+2003,"E - Water collection, waste management and remediation activities",Eurostat - AEA,283.9
+2004,"E - Water collection, waste management and remediation activities",Eurostat - AEA,295.59
+2005,"E - Water collection, waste management and remediation activities",Eurostat - AEA,283.84
+2006,"E - Water collection, waste management and remediation activities",Eurostat - AEA,320.82
+2007,"E - Water collection, waste management and remediation activities",Eurostat - AEA,321.8
+2008,"E - Water collection, waste management and remediation activities",Eurostat - AEA,307.98
+2009,"E - Water collection, waste management and remediation activities",Eurostat - AEA,298.23
+2010,"E - Water collection, waste management and remediation activities",Eurostat - AEA,297.77
+2011,"E - Water collection, waste management and remediation activities",Eurostat - AEA,274.56
+2012,"E - Water collection, waste management and remediation activities",Eurostat - AEA,246.41
+2013,"E - Water collection, waste management and remediation activities",Eurostat - AEA,259.31
+2014,"E - Water collection, waste management and remediation activities",Eurostat - AEA,257.2
+2015,"E - Water collection, waste management and remediation activities",Eurostat - AEA,253.66
+2016,"E - Water collection, waste management and remediation activities",Eurostat - AEA,246.98
+2017,"E - Water collection, waste management and remediation activities",Eurostat - AEA,240.09
+1995,F - Construction,Eurostat - AEA,153.46
+1996,F - Construction,Eurostat - AEA,148.13
+1997,F - Construction,Eurostat - AEA,182.64
+1998,F - Construction,Eurostat - AEA,188.22
+1999,F - Construction,Eurostat - AEA,214.76
+2000,F - Construction,Eurostat - AEA,225.25
+2001,F - Construction,Eurostat - AEA,224.89
+2002,F - Construction,Eurostat - AEA,216.11
+2003,F - Construction,Eurostat - AEA,197.76
+2004,F - Construction,Eurostat - AEA,241.38
+2005,F - Construction,Eurostat - AEA,262.14
+2006,F - Construction,Eurostat - AEA,258.39
+2007,F - Construction,Eurostat - AEA,281.19
+2008,F - Construction,Eurostat - AEA,268.98
+2009,F - Construction,Eurostat - AEA,201.87
+2010,F - Construction,Eurostat - AEA,160.51
+2011,F - Construction,Eurostat - AEA,137.92
+2012,F - Construction,Eurostat - AEA,143.5
+2013,F - Construction,Eurostat - AEA,139.83
+2014,F - Construction,Eurostat - AEA,181.2
+2015,F - Construction,Eurostat - AEA,157.45
+2016,F - Construction,Eurostat - AEA,177.75
+2017,F - Construction,Eurostat - AEA,196.34
+1995,G - Trade and repair of mechanical equipment,Eurostat - AEA,26.24
+1996,G - Trade and repair of mechanical equipment,Eurostat - AEA,28.74
+1997,G - Trade and repair of mechanical equipment,Eurostat - AEA,34.17
+1998,G - Trade and repair of mechanical equipment,Eurostat - AEA,39.35
+1999,G - Trade and repair of mechanical equipment,Eurostat - AEA,46.58
+2000,G - Trade and repair of mechanical equipment,Eurostat - AEA,48.75
+2001,G - Trade and repair of mechanical equipment,Eurostat - AEA,51.47
+2002,G - Trade and repair of mechanical equipment,Eurostat - AEA,53.67
+2003,G - Trade and repair of mechanical equipment,Eurostat - AEA,67.62
+2004,G - Trade and repair of mechanical equipment,Eurostat - AEA,68.43
+2005,G - Trade and repair of mechanical equipment,Eurostat - AEA,71.75
+2006,G - Trade and repair of mechanical equipment,Eurostat - AEA,86.06
+2007,G - Trade and repair of mechanical equipment,Eurostat - AEA,72.8
+2008,G - Trade and repair of mechanical equipment,Eurostat - AEA,63.21
+2009,G - Trade and repair of mechanical equipment,Eurostat - AEA,52.84
+2010,G - Trade and repair of mechanical equipment,Eurostat - AEA,48.59
+2011,G - Trade and repair of mechanical equipment,Eurostat - AEA,43.38
+2012,G - Trade and repair of mechanical equipment,Eurostat - AEA,48.9
+2013,G - Trade and repair of mechanical equipment,Eurostat - AEA,47.03
+2014,G - Trade and repair of mechanical equipment,Eurostat - AEA,48.07
+2015,G - Trade and repair of mechanical equipment,Eurostat - AEA,53.2
+2016,G - Trade and repair of mechanical equipment,Eurostat - AEA,59.43
+2017,G - Trade and repair of mechanical equipment,Eurostat - AEA,58.74
+1995,H - Tranportation and storage,Eurostat - AEA,466.15
+1996,H - Tranportation and storage,Eurostat - AEA,582.76
+1997,H - Tranportation and storage,Eurostat - AEA,619.84
+1998,H - Tranportation and storage,Eurostat - AEA,708.86
+1999,H - Tranportation and storage,Eurostat - AEA,767.47
+2000,H - Tranportation and storage,Eurostat - AEA,889.84
+2001,H - Tranportation and storage,Eurostat - AEA,879.53
+2002,H - Tranportation and storage,Eurostat - AEA,779.06
+2003,H - Tranportation and storage,Eurostat - AEA,1084.26
+2004,H - Tranportation and storage,Eurostat - AEA,1143.19
+2005,H - Tranportation and storage,Eurostat - AEA,1097.37
+2006,H - Tranportation and storage,Eurostat - AEA,816.02
+2007,H - Tranportation and storage,Eurostat - AEA,1154.52
+2008,H - Tranportation and storage,Eurostat - AEA,1133.77
+2009,H - Tranportation and storage,Eurostat - AEA,992.99
+2010,H - Tranportation and storage,Eurostat - AEA,1185.48
+2011,H - Tranportation and storage,Eurostat - AEA,1157.66
+2012,H - Tranportation and storage,Eurostat - AEA,1252.52
+2013,H - Tranportation and storage,Eurostat - AEA,1544.86
+2014,H - Tranportation and storage,Eurostat - AEA,1677.71
+2015,H - Tranportation and storage,Eurostat - AEA,2020.7
+2016,H - Tranportation and storage,Eurostat - AEA,2608.23
+2017,H - Tranportation and storage,Eurostat - AEA,3346.52
+1995,I - Accommodation and food services activities,Eurostat - AEA,0.44
+1996,I - Accommodation and food services activities,Eurostat - AEA,0.39
+1997,I - Accommodation and food services activities,Eurostat - AEA,0.45
+1998,I - Accommodation and food services activities,Eurostat - AEA,0.53
+1999,I - Accommodation and food services activities,Eurostat - AEA,0.61
+2000,I - Accommodation and food services activities,Eurostat - AEA,1.21
+2001,I - Accommodation and food services activities,Eurostat - AEA,0.7
+2002,I - Accommodation and food services activities,Eurostat - AEA,0.92
+2003,I - Accommodation and food services activities,Eurostat - AEA,1.1
+2004,I - Accommodation and food services activities,Eurostat - AEA,1.3
+2005,I - Accommodation and food services activities,Eurostat - AEA,1.5
+2006,I - Accommodation and food services activities,Eurostat - AEA,1.95
+2007,I - Accommodation and food services activities,Eurostat - AEA,2.16
+2008,I - Accommodation and food services activities,Eurostat - AEA,2.38
+2009,I - Accommodation and food services activities,Eurostat - AEA,2.71
+2010,I - Accommodation and food services activities,Eurostat - AEA,2.87
+2011,I - Accommodation and food services activities,Eurostat - AEA,2.76
+2012,I - Accommodation and food services activities,Eurostat - AEA,3.1
+2013,I - Accommodation and food services activities,Eurostat - AEA,3.26
+2014,I - Accommodation and food services activities,Eurostat - AEA,3.49
+2015,I - Accommodation and food services activities,Eurostat - AEA,4.01
+2016,I - Accommodation and food services activities,Eurostat - AEA,5.22
+2017,I - Accommodation and food services activities,Eurostat - AEA,5.41
+1995,J - Information and communication,Eurostat - AEA,1.5
+1996,J - Information and communication,Eurostat - AEA,1.36
+1997,J - Information and communication,Eurostat - AEA,1.43
+1998,J - Information and communication,Eurostat - AEA,1.39
+1999,J - Information and communication,Eurostat - AEA,1.48
+2000,J - Information and communication,Eurostat - AEA,1.63
+2001,J - Information and communication,Eurostat - AEA,1.82
+2002,J - Information and communication,Eurostat - AEA,1.84
+2003,J - Information and communication,Eurostat - AEA,2.01
+2004,J - Information and communication,Eurostat - AEA,2.09
+2005,J - Information and communication,Eurostat - AEA,2.18
+2006,J - Information and communication,Eurostat - AEA,2.34
+2007,J - Information and communication,Eurostat - AEA,2.69
+2008,J - Information and communication,Eurostat - AEA,2.71
+2009,J - Information and communication,Eurostat - AEA,2.98
+2010,J - Information and communication,Eurostat - AEA,2.83
+2011,J - Information and communication,Eurostat - AEA,2.69
+2012,J - Information and communication,Eurostat - AEA,2.73
+2013,J - Information and communication,Eurostat - AEA,3.11
+2014,J - Information and communication,Eurostat - AEA,2.8
+2015,J - Information and communication,Eurostat - AEA,2.96
+2016,J - Information and communication,Eurostat - AEA,2.9
+2017,J - Information and communication,Eurostat - AEA,3.06
+1995,K - Financial and insurance activities,Eurostat - AEA,2.86
+1996,K - Financial and insurance activities,Eurostat - AEA,2.78
+1997,K - Financial and insurance activities,Eurostat - AEA,3.35
+1998,K - Financial and insurance activities,Eurostat - AEA,3.01
+1999,K - Financial and insurance activities,Eurostat - AEA,3.41
+2000,K - Financial and insurance activities,Eurostat - AEA,2.92
+2001,K - Financial and insurance activities,Eurostat - AEA,1.79
+2002,K - Financial and insurance activities,Eurostat - AEA,2.02
+2003,K - Financial and insurance activities,Eurostat - AEA,2.17
+2004,K - Financial and insurance activities,Eurostat - AEA,1.92
+2005,K - Financial and insurance activities,Eurostat - AEA,1.65
+2006,K - Financial and insurance activities,Eurostat - AEA,2.13
+2007,K - Financial and insurance activities,Eurostat - AEA,2.55
+2008,K - Financial and insurance activities,Eurostat - AEA,4.4
+2009,K - Financial and insurance activities,Eurostat - AEA,6.12
+2010,K - Financial and insurance activities,Eurostat - AEA,9.58
+2011,K - Financial and insurance activities,Eurostat - AEA,10.42
+2012,K - Financial and insurance activities,Eurostat - AEA,5.69
+2013,K - Financial and insurance activities,Eurostat - AEA,4.75
+2014,K - Financial and insurance activities,Eurostat - AEA,3.56
+2015,K - Financial and insurance activities,Eurostat - AEA,4.2
+2016,K - Financial and insurance activities,Eurostat - AEA,4.77
+2017,K - Financial and insurance activities,Eurostat - AEA,4.28
+1995,"M - Professional, scientific and technical activities",Eurostat - AEA,1.63
+1996,"M - Professional, scientific and technical activities",Eurostat - AEA,1.59
+1997,"M - Professional, scientific and technical activities",Eurostat - AEA,1.74
+1998,"M - Professional, scientific and technical activities",Eurostat - AEA,1.89
+1999,"M - Professional, scientific and technical activities",Eurostat - AEA,2
+2000,"M - Professional, scientific and technical activities",Eurostat - AEA,2.89
+2001,"M - Professional, scientific and technical activities",Eurostat - AEA,2.49
+2002,"M - Professional, scientific and technical activities",Eurostat - AEA,2.91
+2003,"M - Professional, scientific and technical activities",Eurostat - AEA,3.71
+2004,"M - Professional, scientific and technical activities",Eurostat - AEA,4.38
+2005,"M - Professional, scientific and technical activities",Eurostat - AEA,4.05
+2006,"M - Professional, scientific and technical activities",Eurostat - AEA,4.63
+2007,"M - Professional, scientific and technical activities",Eurostat - AEA,4.54
+2008,"M - Professional, scientific and technical activities",Eurostat - AEA,4.43
+2009,"M - Professional, scientific and technical activities",Eurostat - AEA,4.86
+2010,"M - Professional, scientific and technical activities",Eurostat - AEA,4.51
+2011,"M - Professional, scientific and technical activities",Eurostat - AEA,4.14
+2012,"M - Professional, scientific and technical activities",Eurostat - AEA,4.4
+2013,"M - Professional, scientific and technical activities",Eurostat - AEA,4.26
+2014,"M - Professional, scientific and technical activities",Eurostat - AEA,4.19
+2015,"M - Professional, scientific and technical activities",Eurostat - AEA,4.59
+2016,"M - Professional, scientific and technical activities",Eurostat - AEA,5.16
+2017,"M - Professional, scientific and technical activities",Eurostat - AEA,5.44
+1995,N - Administrative and support service activities,Eurostat - AEA,2.64
+1996,N - Administrative and support service activities,Eurostat - AEA,2.27
+1997,N - Administrative and support service activities,Eurostat - AEA,2.69
+1998,N - Administrative and support service activities,Eurostat - AEA,2.78
+1999,N - Administrative and support service activities,Eurostat - AEA,3.46
+2000,N - Administrative and support service activities,Eurostat - AEA,3.58
+2001,N - Administrative and support service activities,Eurostat - AEA,3.61
+2002,N - Administrative and support service activities,Eurostat - AEA,3.87
+2003,N - Administrative and support service activities,Eurostat - AEA,4.75
+2004,N - Administrative and support service activities,Eurostat - AEA,5.32
+2005,N - Administrative and support service activities,Eurostat - AEA,5.56
+2006,N - Administrative and support service activities,Eurostat - AEA,11.17
+2007,N - Administrative and support service activities,Eurostat - AEA,12.25
+2008,N - Administrative and support service activities,Eurostat - AEA,14.79
+2009,N - Administrative and support service activities,Eurostat - AEA,15.37
+2010,N - Administrative and support service activities,Eurostat - AEA,15.75
+2011,N - Administrative and support service activities,Eurostat - AEA,14.3
+2012,N - Administrative and support service activities,Eurostat - AEA,15.06
+2013,N - Administrative and support service activities,Eurostat - AEA,16.24
+2014,N - Administrative and support service activities,Eurostat - AEA,17.58
+2015,N - Administrative and support service activities,Eurostat - AEA,22.43
+2016,N - Administrative and support service activities,Eurostat - AEA,23.85
+2017,N - Administrative and support service activities,Eurostat - AEA,27.94
+1995,O - Public administration and defence; compulsory social security,Eurostat - AEA,5.63
+1996,O - Public administration and defence; compulsory social security,Eurostat - AEA,4.69
+1997,O - Public administration and defence; compulsory social security,Eurostat - AEA,5.16
+1998,O - Public administration and defence; compulsory social security,Eurostat - AEA,4.95
+1999,O - Public administration and defence; compulsory social security,Eurostat - AEA,4.97
+2000,O - Public administration and defence; compulsory social security,Eurostat - AEA,4.83
+2001,O - Public administration and defence; compulsory social security,Eurostat - AEA,4.56
+2002,O - Public administration and defence; compulsory social security,Eurostat - AEA,4.91
+2003,O - Public administration and defence; compulsory social security,Eurostat - AEA,5.66
+2004,O - Public administration and defence; compulsory social security,Eurostat - AEA,5.69
+2005,O - Public administration and defence; compulsory social security,Eurostat - AEA,5.74
+2006,O - Public administration and defence; compulsory social security,Eurostat - AEA,7.03
+2007,O - Public administration and defence; compulsory social security,Eurostat - AEA,6.79
+2008,O - Public administration and defence; compulsory social security,Eurostat - AEA,6.13
+2009,O - Public administration and defence; compulsory social security,Eurostat - AEA,6.38
+2010,O - Public administration and defence; compulsory social security,Eurostat - AEA,6.15
+2011,O - Public administration and defence; compulsory social security,Eurostat - AEA,5.92
+2012,O - Public administration and defence; compulsory social security,Eurostat - AEA,6.26
+2013,O - Public administration and defence; compulsory social security,Eurostat - AEA,6.37
+2014,O - Public administration and defence; compulsory social security,Eurostat - AEA,6.07
+2015,O - Public administration and defence; compulsory social security,Eurostat - AEA,7.34
+2016,O - Public administration and defence; compulsory social security,Eurostat - AEA,7.45
+2017,O - Public administration and defence; compulsory social security,Eurostat - AEA,7.6
+1995,P - Education,Eurostat - AEA,0.13
+1996,P - Education,Eurostat - AEA,0.11
+1997,P - Education,Eurostat - AEA,0.1
+1998,P - Education,Eurostat - AEA,0.16
+1999,P - Education,Eurostat - AEA,0.16
+2000,P - Education,Eurostat - AEA,0.19
+2001,P - Education,Eurostat - AEA,0.2
+2002,P - Education,Eurostat - AEA,0.19
+2003,P - Education,Eurostat - AEA,0.26
+2004,P - Education,Eurostat - AEA,0.26
+2005,P - Education,Eurostat - AEA,0.34
+2006,P - Education,Eurostat - AEA,0.46
+2007,P - Education,Eurostat - AEA,0.56
+2008,P - Education,Eurostat - AEA,0.55
+2009,P - Education,Eurostat - AEA,0.64
+2010,P - Education,Eurostat - AEA,0.92
+2011,P - Education,Eurostat - AEA,0.78
+2012,P - Education,Eurostat - AEA,0.82
+2013,P - Education,Eurostat - AEA,0.81
+2014,P - Education,Eurostat - AEA,0.81
+2015,P - Education,Eurostat - AEA,0.87
+2016,P - Education,Eurostat - AEA,0.91
+2017,P - Education,Eurostat - AEA,0.92
+1995,Q - Human health and social work activities,Eurostat - AEA,0.39
+1996,Q - Human health and social work activities,Eurostat - AEA,0.34
+1997,Q - Human health and social work activities,Eurostat - AEA,0.35
+1998,Q - Human health and social work activities,Eurostat - AEA,0.38
+1999,Q - Human health and social work activities,Eurostat - AEA,0.46
+2000,Q - Human health and social work activities,Eurostat - AEA,0.59
+2001,Q - Human health and social work activities,Eurostat - AEA,0.74
+2002,Q - Human health and social work activities,Eurostat - AEA,1
+2003,Q - Human health and social work activities,Eurostat - AEA,1.15
+2004,Q - Human health and social work activities,Eurostat - AEA,1.26
+2005,Q - Human health and social work activities,Eurostat - AEA,1.38
+2006,Q - Human health and social work activities,Eurostat - AEA,1.81
+2007,Q - Human health and social work activities,Eurostat - AEA,1.76
+2008,Q - Human health and social work activities,Eurostat - AEA,1.89
+2009,Q - Human health and social work activities,Eurostat - AEA,2.09
+2010,Q - Human health and social work activities,Eurostat - AEA,2.18
+2011,Q - Human health and social work activities,Eurostat - AEA,2.12
+2012,Q - Human health and social work activities,Eurostat - AEA,2.25
+2013,Q - Human health and social work activities,Eurostat - AEA,2.05
+2014,Q - Human health and social work activities,Eurostat - AEA,1.96
+2015,Q - Human health and social work activities,Eurostat - AEA,2.17
+2016,Q - Human health and social work activities,Eurostat - AEA,2.35
+2017,Q - Human health and social work activities,Eurostat - AEA,2.18
+1995,"R - Arts, entertainment and recreation",Eurostat - AEA,0.35
+1996,"R - Arts, entertainment and recreation",Eurostat - AEA,0.33
+1997,"R - Arts, entertainment and recreation",Eurostat - AEA,0.39
+1998,"R - Arts, entertainment and recreation",Eurostat - AEA,0.36
+1999,"R - Arts, entertainment and recreation",Eurostat - AEA,0.41
+2000,"R - Arts, entertainment and recreation",Eurostat - AEA,0.97
+2001,"R - Arts, entertainment and recreation",Eurostat - AEA,0.59
+2002,"R - Arts, entertainment and recreation",Eurostat - AEA,0.57
+2003,"R - Arts, entertainment and recreation",Eurostat - AEA,0.66
+2004,"R - Arts, entertainment and recreation",Eurostat - AEA,1.08
+2005,"R - Arts, entertainment and recreation",Eurostat - AEA,0.81
+2006,"R - Arts, entertainment and recreation",Eurostat - AEA,1
+2007,"R - Arts, entertainment and recreation",Eurostat - AEA,1.01
+2008,"R - Arts, entertainment and recreation",Eurostat - AEA,1.32
+2009,"R - Arts, entertainment and recreation",Eurostat - AEA,1.26
+2010,"R - Arts, entertainment and recreation",Eurostat - AEA,1.42
+2011,"R - Arts, entertainment and recreation",Eurostat - AEA,1.32
+2012,"R - Arts, entertainment and recreation",Eurostat - AEA,1.35
+2013,"R - Arts, entertainment and recreation",Eurostat - AEA,1.32
+2014,"R - Arts, entertainment and recreation",Eurostat - AEA,1.27
+2015,"R - Arts, entertainment and recreation",Eurostat - AEA,1.64
+2016,"R - Arts, entertainment and recreation",Eurostat - AEA,1.6
+2017,"R - Arts, entertainment and recreation",Eurostat - AEA,1.87
+1995,S - Other services activities,Eurostat - AEA,0.94
+1996,S - Other services activities,Eurostat - AEA,0.94
+1997,S - Other services activities,Eurostat - AEA,1.04
+1998,S - Other services activities,Eurostat - AEA,1.03
+1999,S - Other services activities,Eurostat - AEA,1.08
+2000,S - Other services activities,Eurostat - AEA,0.94
+2001,S - Other services activities,Eurostat - AEA,0.78
+2002,S - Other services activities,Eurostat - AEA,0.83
+2003,S - Other services activities,Eurostat - AEA,0.97
+2004,S - Other services activities,Eurostat - AEA,0.96
+2005,S - Other services activities,Eurostat - AEA,1.06
+2006,S - Other services activities,Eurostat - AEA,1.17
+2007,S - Other services activities,Eurostat - AEA,1.29
+2008,S - Other services activities,Eurostat - AEA,1.35
+2009,S - Other services activities,Eurostat - AEA,1.53
+2010,S - Other services activities,Eurostat - AEA,1.56
+2011,S - Other services activities,Eurostat - AEA,1.53
+2012,S - Other services activities,Eurostat - AEA,1.56
+2013,S - Other services activities,Eurostat - AEA,1.52
+2014,S - Other services activities,Eurostat - AEA,1.5
+2015,S - Other services activities,Eurostat - AEA,1.67
+2016,S - Other services activities,Eurostat - AEA,2.17
+2017,S - Other services activities,Eurostat - AEA,1.78
+1995,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.4
+1996,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.38
+1997,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.37
+1998,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.3
+1999,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.24
+2000,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.19
+2001,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.29
+2002,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.19
+2003,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.22
+2004,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.2
+2005,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.22
+2006,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.21
+2007,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.25
+2008,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.2
+2009,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.17
+2010,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.21
+2011,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.16
+2012,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.17
+2013,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.17
+2014,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.23
+2015,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.17
+2016,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.15
+2017,U - Activities of extraterritorial organisations and bodies,Eurostat - AEA,0.19
+1995,Households,Eurostat - AEA,531.16
+1996,Households,Eurostat - AEA,521.24
+1997,Households,Eurostat - AEA,523.56
+1998,Households,Eurostat - AEA,539.04
+1999,Households,Eurostat - AEA,551.18
+2000,Households,Eurostat - AEA,540.74
+2001,Households,Eurostat - AEA,538.85
+2002,Households,Eurostat - AEA,536.99
+2003,Households,Eurostat - AEA,550.54
+2004,Households,Eurostat - AEA,572.71
+2005,Households,Eurostat - AEA,588.69
+2006,Households,Eurostat - AEA,631.63
+2007,Households,Eurostat - AEA,600.78
+2008,Households,Eurostat - AEA,574.66
+2009,Households,Eurostat - AEA,600.05
+2010,Households,Eurostat - AEA,580.52
+2011,Households,Eurostat - AEA,567.07
+2012,Households,Eurostat - AEA,559.17
+2013,Households,Eurostat - AEA,557.81
+2014,Households,Eurostat - AEA,551.58
+2015,Households,Eurostat - AEA,574.91
+2016,Households,Eurostat - AEA,597.78
+2017,Households,Eurostat - AEA,620.02
