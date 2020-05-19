@@ -3,10 +3,10 @@ Year,Age group,Type of violence,Value
 2016,,Physical violence,0.013136289
 2017,,Physical violence,0.009090909
 2018,,Physical violence,0.009193777
-2015, 18-25,Physical violence,0
-2016, 18-25,Physical violence,0.01875
-2017, 18-25,Physical violence,0.021978022
-2018, 18-25,Physical violence,0.006134969
+2015,18-25,Physical violence,0
+2016,18-25,Physical violence,0.01875
+2017,18-25,Physical violence,0.021978022
+2018,18-25,Physical violence,0.006134969
 2015,26-35,Physical violence,0.027027027
 2016,26-35,Physical violence,0.01980198
 2017,26-35,Physical violence,0.012987013
@@ -35,10 +35,10 @@ Year,Age group,Type of violence,Value
 2016,,Sexual violence,0.009031199
 2017,,Sexual violence,0.005785124
 2018,,Sexual violence,0.007072136
-2015, 18-25,Sexual violence,0.009009009
-2016, 18-25,Sexual violence,0.05
-2017, 18-25,Sexual violence,0
-2018, 18-25,Sexual violence,0.012269939
+2015,18-25,Sexual violence,0.009009009
+2016,18-25,Sexual violence,0.05
+2017,18-25,Sexual violence,0
+2018,18-25,Sexual violence,0.012269939
 2015,26-35,Sexual violence,0.031007752
 2016,26-35,Sexual violence,0.004950495
 2017,26-35,Sexual violence,0.017316017
