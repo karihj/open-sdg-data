@@ -1,7 +1,12 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Status,Value
+2018,Hate crimes recorded by police,7
+2018,Prosecuted,1
+2018,Sentenced,2
+2017,Hate crimes recorded by police,14
+2017,Prosecuted,1
+2017,Sentenced,3
+2016,Hate crimes recorded by police,6
+2016,Prosecuted,0
+2016,Sentenced,0
+2015,Hate crimes recorded by police,10
+2014,Hate crimes recorded by police,8
