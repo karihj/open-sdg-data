@@ -33,36 +33,36 @@ Year,Waste type,Waste origin,Sector,Units,Value
 2019,Edible food and inedible waste,Household,,Kg per person,90.3
 2016,Edible food and inedible waste,Supply chain,,Kg per person,250.32403190000002
 2019,Edible food and inedible waste,Supply chain,,Kg per person,112.6
-2016,Edible food,Household,,Kilotonnes,7649.0
-2016,Edible food,Household,,Kilotonnes,7152.2
-2016,Edible food,Supply chain,,Kilotonnes,42378.61
-2019,Edible food,Supply chain,,Kilotonnes,9654.15
-2016,Edible food,Supply chain,Agriculture (01),Kilotonnes,253.3
-2016,Edible food,Supply chain,Wholesale (46),Kilotonnes,0.41
-2016,Edible food,Supply chain,Retail (47),Kilotonnes,1310.0
-2016,Edible food,Supply chain,Accommodation (55),Kilotonnes,7.4
-2016,Edible food,Supply chain,Food and beverage service (56),Kilotonnes,29724.0
-2016,Edible food,Supply chain,Education (P),Kilotonnes,2428.0
-2016,Edible food,Supply chain,Meat processing (10.1),Kilotonnes,5859.0
-2016,Edible food,Supply chain,Processing of fruit and vegetables (10.3),Kilotonnes,3.6
-2016,Edible food,Supply chain,Manufacture of oil and fat (10.4),Kilotonnes,0.0
-2016,Edible food,Supply chain,Manufacture of bakery and farinaceous products (10.7),Kilotonnes,2672.1
-2016,Edible food,Supply chain,Health institutions (86),Kilotonnes,0.0
-2016,Edible food,Supply chain,Nursing homes (87),Kilotonnes,120.8
-2019,Edible food,Supply chain,Agriculture (01),Kilotonnes,0.0
-2019,Edible food,Supply chain,Meat processing (03),Kilotonnes,22807.8
-2019,Edible food,Supply chain,Processing of fruit and vegetables (10.3),Kilotonnes,8.74
-2019,Edible food,Supply chain,Manufacture of oil and fat (10.4),Kilotonnes,0.0
-2019,Edible food,Supply chain,Manufacture of dairy products (10.5),Kilotonnes,0.0
-2019,Edible food,Supply chain,Manufacture of bakery and farinaceous products (10.7),Kilotonnes,298.5
-2019,Edible food,Supply chain,Manufacture of other food products (10.8),Kilotonnes,1.5
-2019,Edible food,Supply chain,Manufacture of beverages (11),Kilotonnes,0.0
-2019,Edible food,Supply chain,Wholesale and retail (46 and 47),Kilotonnes,2418.7
-2019,Edible food,Supply chain,Accommodation (55),Kilotonnes,4918.8
-2019,Edible food,Supply chain,Food and beverage service (56),Kilotonnes,6346.5
-2019,Edible food,Supply chain,Education (85),Kilotonnes,3581.7
-2019,Edible food,Supply chain,Health institutions (86),Kilotonnes,136.77
-2019,Edible food,Supply chain,Nursing homes (87),Kilotonnes,326.5
+2016,Edible food,Household,,Tonnes,7649.0
+2016,Edible food,Household,,Tonnes,7152.2
+2016,Edible food,Supply chain,,Tonnes,42378.61
+2019,Edible food,Supply chain,,Tonnes,9654.15
+2016,Edible food,Supply chain,Agriculture (01),Tonnes,253.3
+2016,Edible food,Supply chain,Wholesale (46),Tonnes,0.41
+2016,Edible food,Supply chain,Retail (47),Tonnes,1310.0
+2016,Edible food,Supply chain,Accommodation (55),Tonnes,7.4
+2016,Edible food,Supply chain,Food and beverage service (56),Tonnes,29724.0
+2016,Edible food,Supply chain,Education (P),Tonnes,2428.0
+2016,Edible food,Supply chain,Meat processing (10.1),Tonnes,5859.0
+2016,Edible food,Supply chain,Processing of fruit and vegetables (10.3),Tonnes,3.6
+2016,Edible food,Supply chain,Manufacture of oil and fat (10.4),Tonnes,0.0
+2016,Edible food,Supply chain,Manufacture of bakery and farinaceous products (10.7),Tonnes,2672.1
+2016,Edible food,Supply chain,Health institutions (86),Tonnes,0.0
+2016,Edible food,Supply chain,Nursing homes (87),Tonnes,120.8
+2019,Edible food,Supply chain,Agriculture (01),Tonnes,0.0
+2019,Edible food,Supply chain,Meat processing (03),Tonnes,22807.8
+2019,Edible food,Supply chain,Processing of fruit and vegetables (10.3),Tonnes,8.74
+2019,Edible food,Supply chain,Manufacture of oil and fat (10.4),Tonnes,0.0
+2019,Edible food,Supply chain,Manufacture of dairy products (10.5),Tonnes,0.0
+2019,Edible food,Supply chain,Manufacture of bakery and farinaceous products (10.7),Tonnes,298.5
+2019,Edible food,Supply chain,Manufacture of other food products (10.8),Tonnes,1.5
+2019,Edible food,Supply chain,Manufacture of beverages (11),Tonnes,0.0
+2019,Edible food,Supply chain,Wholesale and retail (46 and 47),Tonnes,2418.7
+2019,Edible food,Supply chain,Accommodation (55),Tonnes,4918.8
+2019,Edible food,Supply chain,Food and beverage service (56),Tonnes,6346.5
+2019,Edible food,Supply chain,Education (85),Tonnes,3581.7
+2019,Edible food,Supply chain,Health institutions (86),Tonnes,136.77
+2019,Edible food,Supply chain,Nursing homes (87),Tonnes,326.5
 2016,Edible food,Household,,Kg per person,23.0
 2019,Edible food,Household,,Kg per person,19.7
 2016,Edible food,Supply chain,,Kg per person,127.44335079999999
