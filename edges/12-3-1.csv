@@ -1,4 +1,3 @@
 From,To
 Waste type,Waste origin
-Waste origin,Units type
-Units type,Sector
+Waste origin,Sector
