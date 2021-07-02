@@ -1,111 +1,126 @@
 Year,Disease,Value
-1996,Cancer,200.0
-1997,Cancer,194.5
-1998,Cancer,182.8
-1999,Cancer,191.1
-2000,Cancer,177.4
-2001,Cancer,171.2
-2002,Cancer,177.6
-2003,Cancer,170.2
-2004,Cancer,176.2
-2005,Cancer,174.1
-2006,Cancer,164.4
-2007,Cancer,185.9
-2008,Cancer,177.2
-2009,Cancer,176.0
-2010,Cancer,179.5
-2011,Cancer,183.4
-2012,Cancer,182.4
-2013,Cancer,182.1
-2014,Cancer,190.1
-2015,Cancer,182.0
-2016,Cancer,202.4
-2017,Cancer,175.6
-1996,Diabetes,8.2
-1997,Diabetes,5.6
+1996,Cancer,202.64
+1997,Cancer,197.13
+1998,Cancer,185.77
+1999,Cancer,192.59
+2000,Cancer,179.18
+2001,Cancer,173.63
+2002,Cancer,180.06
+2003,Cancer,174.02
+2004,Cancer,179.65
+2005,Cancer,178.83
+2006,Cancer,168.06
+2007,Cancer,190.14
+2008,Cancer,180.37
+2009,Cancer,180.67
+2010,Cancer,183.55
+2011,Cancer,187.47
+2012,Cancer,185.56
+2013,Cancer,185.8
+2014,Cancer,192.53
+2015,Cancer,184.75
+2016,Cancer,204.79
+2017,Cancer,176.74
+2018,Cancer,169.9
+2019,Cancer,179.84
+2020,Cancer,173.29
+1996,Diabetes,8.21
+1997,Diabetes,5.56
 1998,Diabetes,9.2
-1999,Diabetes,9.1
-2000,Diabetes,6.8
-2001,Diabetes,9.5
-2002,Diabetes,5.2
-2003,Diabetes,8.0
-2004,Diabetes,7.2
-2005,Diabetes,7.2
+1999,Diabetes,9.18
+2000,Diabetes,6.81
+2001,Diabetes,9.53
+2002,Diabetes,5.23
+2003,Diabetes,7.97
+2004,Diabetes,7.23
+2005,Diabetes,7.15
 2006,Diabetes,9.0
-2007,Diabetes,8.5
-2008,Diabetes,8.2
-2009,Diabetes,8.5
-2010,Diabetes,7.6
-2011,Diabetes,6.0
+2007,Diabetes,8.45
+2008,Diabetes,8.24
+2009,Diabetes,8.45
+2010,Diabetes,7.56
+2011,Diabetes,5.97
 2012,Diabetes,7.2
-2013,Diabetes,10.3
-2014,Diabetes,8.3
-2015,Diabetes,7.0
-2016,Diabetes,9.6
-2017,Diabetes,10.9
-1996,Cardiovascular disease,288.9
-1997,Cardiovascular disease,280.9
-1998,Cardiovascular disease,271.7
-1999,Cardiovascular disease,287.3
-2000,Cardiovascular disease,256.9
-2001,Cardiovascular disease,240.7
-2002,Cardiovascular disease,260.0
-2003,Cardiovascular disease,253.4
-2004,Cardiovascular disease,251.9
-2005,Cardiovascular disease,223.5
-2006,Cardiovascular disease,238.8
-2007,Cardiovascular disease,223.9
+2013,Diabetes,10.25
+2014,Diabetes,8.29
+2015,Diabetes,6.99
+2016,Diabetes,9.62
+2017,Diabetes,10.94
+2018,Diabetes,10.62
+2019,Diabetes,8.4
+2020,Diabetes,9.06
+1996,Cardiovascular disease,288.48
+1997,Cardiovascular disease,280.87
+1998,Cardiovascular disease,271.68
+1999,Cardiovascular disease,287.26
+2000,Cardiovascular disease,256.94
+2001,Cardiovascular disease,240.68
+2002,Cardiovascular disease,259.97
+2003,Cardiovascular disease,253.41
+2004,Cardiovascular disease,251.92
+2005,Cardiovascular disease,223.45
+2006,Cardiovascular disease,238.75
+2007,Cardiovascular disease,223.94
 2008,Cardiovascular disease,223.8
-2009,Cardiovascular disease,228.3
-2010,Cardiovascular disease,227.9
-2011,Cardiovascular disease,216.4
-2012,Cardiovascular disease,205.3
-2013,Cardiovascular disease,221.2
-2014,Cardiovascular disease,207.0
-2015,Cardiovascular disease,226.7
-2016,Cardiovascular disease,221.6
-2017,Cardiovascular disease,204.5
-1996,Chronic respiratory disease,36.6
-1997,Chronic respiratory disease,27.4
-1998,Chronic respiratory disease,30.8
-1999,Chronic respiratory disease,33.7
-2000,Chronic respiratory disease,32.6
-2001,Chronic respiratory disease,28.6
-2002,Chronic respiratory disease,33.2
+2009,Cardiovascular disease,228.26
+2010,Cardiovascular disease,227.94
+2011,Cardiovascular disease,216.36
+2012,Cardiovascular disease,205.27
+2013,Cardiovascular disease,221.22
+2014,Cardiovascular disease,206.96
+2015,Cardiovascular disease,226.68
+2016,Cardiovascular disease,221.63
+2017,Cardiovascular disease,204.52
+2018,Cardiovascular disease,188.26
+2019,Cardiovascular disease,196.36
+2020,Cardiovascular disease,187.84
+1996,Chronic respiratory disease,36.57
+1997,Chronic respiratory disease,27.42
+1998,Chronic respiratory disease,30.84
+1999,Chronic respiratory disease,33.73
+2000,Chronic respiratory disease,32.61
+2001,Chronic respiratory disease,28.59
+2002,Chronic respiratory disease,33.15
 2003,Chronic respiratory disease,31.2
-2004,Chronic respiratory disease,28.9
-2005,Chronic respiratory disease,31.3
-2006,Chronic respiratory disease,31.3
-2007,Chronic respiratory disease,34.8
-2008,Chronic respiratory disease,30.7
-2009,Chronic respiratory disease,36.3
-2010,Chronic respiratory disease,37.8
-2011,Chronic respiratory disease,32.0
-2012,Chronic respiratory disease,31.3
-2013,Chronic respiratory disease,32.6
-2014,Chronic respiratory disease,29.8
+2004,Chronic respiratory disease,28.91
+2005,Chronic respiratory disease,31.34
+2006,Chronic respiratory disease,31.34
+2007,Chronic respiratory disease,34.78
+2008,Chronic respiratory disease,30.75
+2009,Chronic respiratory disease,36.32
+2010,Chronic respiratory disease,37.78
+2011,Chronic respiratory disease,32.03
+2012,Chronic respiratory disease,31.29
+2013,Chronic respiratory disease,32.62
+2014,Chronic respiratory disease,29.78
 2015,Chronic respiratory disease,31.3
-2016,Chronic respiratory disease,36.1
+2016,Chronic respiratory disease,36.09
 2017,Chronic respiratory disease,39.9
-1996,,533.7
-1997,,508.4
-1998,,494.5
-1999,,521.2
-2000,,473.8
-2001,,450.0
-2002,,476.0
-2003,,462.8
-2004,,464.3
-2005,,436.0
-2006,,443.5
-2007,,453.1
-2008,,440.0
-2009,,449.0
-2010,,452.7
-2011,,437.7
-2012,,426.2
-2013,,446.2
-2014,,435.1
-2015,,447.0
-2016,,469.7
-2017,,430.9
+2018,Chronic respiratory disease,40.18
+2019,Chronic respiratory disease,28.29
+2020,Chronic respiratory disease,31.86
+1996,,535.9
+1997,,510.98
+1998,,497.46
+1999,,522.65
+2000,,475.54
+2001,,452.43
+2002,,478.41
+2003,,466.6
+2004,,467.7
+2005,,440.77
+2006,,447.16
+2007,,457.31
+2008,,443.16
+2009,,453.71
+2010,,456.82
+2011,,441.82
+2012,,429.32
+2013,,449.89
+2014,,437.56
+2015,,449.71
+2016,,472.14
+2017,,432.1
+2018,,408.95
+2019,,412.9
+2020,,402.05
