@@ -17,13 +17,14 @@ from sdg.build import build_data
 if __name__ == '__main__':
     # Error checking (extremely rudimentary)
     for root, dirs, files in os.walk(".."):
-        try:
-            if name.endswith(".md"):
-                data = open(os.path.join(root,name),"r").read()
-                data = yaml.load(data)
-        except Exception as e:
-            print("Error in " + str(os.path.join(root,name)))
-            print("Error is " + str(e))
+        for name in files:
+            try:
+                if name.endswith(".md"):
+                    data = open(os.path.join(root, name), "r").read()
+                    data = yaml.load(data)
+            except Exception as e:
+                print("Error in " + str(os.path.join(root, name)))
+                print("Error is " + str(e))
     status = build_data()
     if(not status):
         raise RuntimeError("Failed data build")
