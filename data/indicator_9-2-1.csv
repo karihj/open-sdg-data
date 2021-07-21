@@ -22,6 +22,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,C. Manufacturing,8.87037
 2018,Percentage of GDP,C. Manufacturing,8.40113
 2019,Percentage of GDP,C. Manufacturing,8.67690
+2020,Percentage of GDP,C. Manufacturing,8.722
 1997,Percentage of GDP,"C: 10-12 Manufacture of food products, beverages and tobacco products",6.55430
 1998,Percentage of GDP,"C: 10-12 Manufacture of food products, beverages and tobacco products",6.12592
 1999,Percentage of GDP,"C: 10-12 Manufacture of food products, beverages and tobacco products",5.22530
@@ -45,6 +46,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,"C: 10-12 Manufacture of food products, beverages and tobacco products",3.66183
 2018,Percentage of GDP,"C: 10-12 Manufacture of food products, beverages and tobacco products",3.80553
 2019,Percentage of GDP,"C: 10-12 Manufacture of food products, beverages and tobacco products",4.18680
+2020,Percentage of GDP,"C: 10-12 Manufacture of food products, beverages and tobacco products",4.16
 1997,Percentage of GDP,C: 10-12 Thereof Fish processing,4.27041
 1998,Percentage of GDP,C: 10-12 Thereof Fish processing,3.89586
 1999,Percentage of GDP,C: 10-12 Thereof Fish processing,3.18918
@@ -68,6 +70,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,C: 10-12 Thereof Fish processing,2.08732
 2018,Percentage of GDP,C: 10-12 Thereof Fish processing,2.16512
 2019,Percentage of GDP,C: 10-12 Thereof Fish processing,2.23122
+2020,Percentage of GDP,C: 10-12 Thereof Fish processing,2.416
 1997,Percentage of GDP,"C: 13-15 Manufacture of textiles, wearing apparel and leather products",0.52414
 1998,Percentage of GDP,"C: 13-15 Manufacture of textiles, wearing apparel and leather products",0.40937
 1999,Percentage of GDP,"C: 13-15 Manufacture of textiles, wearing apparel and leather products",0.37880
@@ -91,6 +94,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,"C: 13-15 Manufacture of textiles, wearing apparel and leather products",0.10322
 2018,Percentage of GDP,"C: 13-15 Manufacture of textiles, wearing apparel and leather products",0.10432
 2019,Percentage of GDP,"C: 13-15 Manufacture of textiles, wearing apparel and leather products",0.10633
+2020,Percentage of GDP,"C: 13-15 Manufacture of textiles, wearing apparel and leather products",0.11
 1997,Percentage of GDP,C: 16-17 Manufacture of wood and paper products,0.37111
 1998,Percentage of GDP,C: 16-17 Manufacture of wood and paper products,0.32499
 1999,Percentage of GDP,C: 16-17 Manufacture of wood and paper products,0.31291
@@ -114,6 +118,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,C: 16-17 Manufacture of wood and paper products,0.08551
 2018,Percentage of GDP,C: 16-17 Manufacture of wood and paper products,0.07044
 2019,Percentage of GDP,C: 16-17 Manufacture of wood and paper products,0.06569
+2020,Percentage of GDP,C: 16-17 Manufacture of wood and paper products,0.064
 1997,Percentage of GDP,C: 18 Printing and reproduction of recorded media,0.36177
 1998,Percentage of GDP,C: 18 Printing and reproduction of recorded media,0.38736
 1999,Percentage of GDP,C: 18 Printing and reproduction of recorded media,0.37506
@@ -137,6 +142,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,C: 18 Printing and reproduction of recorded media,0.23911
 2018,Percentage of GDP,C: 18 Printing and reproduction of recorded media,0.19471
 2019,Percentage of GDP,C: 18 Printing and reproduction of recorded media,0.16694
+2020,Percentage of GDP,C: 18 Printing and reproduction of recorded media,0.119
 1997,Percentage of GDP,C: 19 Manufacture of coke and refined petroleum products,0.00000
 1998,Percentage of GDP,C: 19 Manufacture of coke and refined petroleum products,0.00000
 1999,Percentage of GDP,C: 19 Manufacture of coke and refined petroleum products,0.00000
@@ -160,6 +166,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,C: 19 Manufacture of coke and refined petroleum products,0.01180
 2018,Percentage of GDP,C: 19 Manufacture of coke and refined petroleum products,0.01463
 2019,Percentage of GDP,C: 19 Manufacture of coke and refined petroleum products,0.01180
+2020,Percentage of GDP,C: 19 Manufacture of coke and refined petroleum products,0.005
 1997,Percentage of GDP,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",0.56875
 1998,Percentage of GDP,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",0.56457
 1999,Percentage of GDP,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",0.54051
@@ -182,7 +189,8 @@ Year,Units,Industry category,Value
 2016,Percentage of GDP,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",0.27523
 2017,Percentage of GDP,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",-0.07174
 2018,Percentage of GDP,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",-0.04197
-2019,Percentage of GDP,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",-0.04849
+2019,Percentage of GDP,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",0.282
+2020,Percentage of GDP,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",0.316
 1997,Percentage of GDP,C: 22 Manufacture of rubber and plastic products,0.41384
 1998,Percentage of GDP,C: 22 Manufacture of rubber and plastic products,0.38268
 1999,Percentage of GDP,C: 22 Manufacture of rubber and plastic products,0.36033
@@ -206,6 +214,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,C: 22 Manufacture of rubber and plastic products,0.12440
 2018,Percentage of GDP,C: 22 Manufacture of rubber and plastic products,0.12168
 2019,Percentage of GDP,C: 22 Manufacture of rubber and plastic products,0.11508
+2020,Percentage of GDP,C: 22 Manufacture of rubber and plastic products,0.131
 1997,Percentage of GDP,C: 23 Manufacture of other non-metallic mineral products,0.61454
 1998,Percentage of GDP,C: 23 Manufacture of other non-metallic mineral products,0.58745
 1999,Percentage of GDP,C: 23 Manufacture of other non-metallic mineral products,0.51987
@@ -229,6 +238,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,C: 23 Manufacture of other non-metallic mineral products,0.45397
 2018,Percentage of GDP,C: 23 Manufacture of other non-metallic mineral products,0.46530
 2019,Percentage of GDP,C: 23 Manufacture of other non-metallic mineral products,0.41044
+2020,Percentage of GDP,C: 23 Manufacture of other non-metallic mineral products,0.44
 1997,Percentage of GDP,C: 24 Manufacture of basic metals,1.31960
 1998,Percentage of GDP,C: 24 Manufacture of basic metals,1.32947
 1999,Percentage of GDP,C: 24 Manufacture of basic metals,0.97429
@@ -252,6 +262,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,C: 24 Manufacture of basic metals,1.76279
 2018,Percentage of GDP,C: 24 Manufacture of basic metals,1.06671
 2019,Percentage of GDP,C: 24 Manufacture of basic metals,1.14224
+2020,Percentage of GDP,C: 24 Manufacture of basic metals,0.5
 1997,Percentage of GDP,"C: 25 Manufacture of fabricated metal products, except machinery and equipment",0.96913
 1998,Percentage of GDP,"C: 25 Manufacture of fabricated metal products, except machinery and equipment",0.97306
 1999,Percentage of GDP,"C: 25 Manufacture of fabricated metal products, except machinery and equipment",0.93668
@@ -275,6 +286,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,"C: 25 Manufacture of fabricated metal products, except machinery and equipment",0.66276
 2018,Percentage of GDP,"C: 25 Manufacture of fabricated metal products, except machinery and equipment",0.68521
 2019,Percentage of GDP,"C: 25 Manufacture of fabricated metal products, except machinery and equipment",0.70229
+2020,Percentage of GDP,"C: 25 Manufacture of fabricated metal products, except machinery and equipment",0.677
 1997,Percentage of GDP,"C: 26 Manufacture of computer, electronic and optical products",0.02325
 1998,Percentage of GDP,"C: 26 Manufacture of computer, electronic and optical products",0.02646
 1999,Percentage of GDP,"C: 26 Manufacture of computer, electronic and optical products",0.02794
@@ -298,6 +310,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,"C: 26 Manufacture of computer, electronic and optical products",0.04183
 2018,Percentage of GDP,"C: 26 Manufacture of computer, electronic and optical products",0.04101
 2019,Percentage of GDP,"C: 26 Manufacture of computer, electronic and optical products",0.03095
+2020,Percentage of GDP,"C: 26 Manufacture of computer, electronic and optical products",0.056
 1997,Percentage of GDP,C: 27 Manufacture of electrical equipment,0.06874
 1998,Percentage of GDP,C: 27 Manufacture of electrical equipment,0.07055
 1999,Percentage of GDP,C: 27 Manufacture of electrical equipment,0.07324
@@ -321,6 +334,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,C: 27 Manufacture of electrical equipment,0.06510
 2018,Percentage of GDP,C: 27 Manufacture of electrical equipment,0.07134
 2019,Percentage of GDP,C: 27 Manufacture of electrical equipment,0.05453
+2020,Percentage of GDP,C: 27 Manufacture of electrical equipment,0.103
 1997,Percentage of GDP,C: 28 Manufacture of machinery and equipment n.e.c.,0.60553
 1998,Percentage of GDP,C: 28 Manufacture of machinery and equipment n.e.c.,0.56412
 1999,Percentage of GDP,C: 28 Manufacture of machinery and equipment n.e.c.,0.54159
@@ -344,6 +358,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,C: 28 Manufacture of machinery and equipment n.e.c.,0.64322
 2018,Percentage of GDP,C: 28 Manufacture of machinery and equipment n.e.c.,0.72231
 2019,Percentage of GDP,C: 28 Manufacture of machinery and equipment n.e.c.,0.67827
+2020,Percentage of GDP,C: 28 Manufacture of machinery and equipment n.e.c.,0.813
 1997,Percentage of GDP,"C: 29 Manufacture of motor vehicles, trailers and semi-trailers",0.04906
 1998,Percentage of GDP,"C: 29 Manufacture of motor vehicles, trailers and semi-trailers",0.04911
 1999,Percentage of GDP,"C: 29 Manufacture of motor vehicles, trailers and semi-trailers",0.04737
@@ -367,6 +382,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,"C: 29 Manufacture of motor vehicles, trailers and semi-trailers",0.02031
 2018,Percentage of GDP,"C: 29 Manufacture of motor vehicles, trailers and semi-trailers",0.01885
 2019,Percentage of GDP,"C: 29 Manufacture of motor vehicles, trailers and semi-trailers",0.01431
+2020,Percentage of GDP,"C: 29 Manufacture of motor vehicles, trailers and semi-trailers",0.017
 1997,Percentage of GDP,C: 30 Manufacture of other transport equipment,0.20740
 1998,Percentage of GDP,C: 30 Manufacture of other transport equipment,0.18527
 1999,Percentage of GDP,C: 30 Manufacture of other transport equipment,0.15351
@@ -390,6 +406,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,C: 30 Manufacture of other transport equipment,0.02039
 2018,Percentage of GDP,C: 30 Manufacture of other transport equipment,0.01779
 2019,Percentage of GDP,C: 30 Manufacture of other transport equipment,0.01861
+2020,Percentage of GDP,C: 30 Manufacture of other transport equipment,0.021
 1997,Percentage of GDP,C: 31-32 Manufacture of furniture; other manufacturing,0.81352
 1998,Percentage of GDP,C: 31-32 Manufacture of furniture; other manufacturing,0.83121
 1999,Percentage of GDP,C: 31-32 Manufacture of furniture; other manufacturing,0.82696
@@ -413,6 +430,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,C: 31-32 Manufacture of furniture; other manufacturing,0.60957
 2018,Percentage of GDP,C: 31-32 Manufacture of furniture; other manufacturing,0.59082
 2019,Percentage of GDP,C: 31-32 Manufacture of furniture; other manufacturing,0.63149
+2020,Percentage of GDP,C: 31-32 Manufacture of furniture; other manufacturing,0.745
 1997,Percentage of GDP,C: 33 Repair and installation of machinery and equipment,0.65962
 1998,Percentage of GDP,C: 33 Repair and installation of machinery and equipment,0.60324
 1999,Percentage of GDP,C: 33 Repair and installation of machinery and equipment,0.52115
@@ -436,6 +454,7 @@ Year,Units,Industry category,Value
 2017,Percentage of GDP,C: 33 Repair and installation of machinery and equipment,0.43629
 2018,Percentage of GDP,C: 33 Repair and installation of machinery and equipment,0.45248
 2019,Percentage of GDP,C: 33 Repair and installation of machinery and equipment,0.38961
+2020,Percentage of GDP,C: 33 Repair and installation of machinery and equipment,0.445
 1997,MISK per capita,C. Manufacturing,0.28132
 1998,MISK per capita,C. Manufacturing,0.29684
 1999,MISK per capita,C. Manufacturing,0.27811
@@ -459,6 +478,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,C. Manufacturing,0.68591
 2018,MISK per capita,C. Manufacturing,0.67204
 2019,MISK per capita,C. Manufacturing,0.72081
+2020,MISK per capita,C. Manufacturing,0.7
 1997,MISK per capita,"C: 10-12 Manufacture of food products, beverages and tobacco products",0.13055
 1998,MISK per capita,"C: 10-12 Manufacture of food products, beverages and tobacco products",0.13555
 1999,MISK per capita,"C: 10-12 Manufacture of food products, beverages and tobacco products",0.12299
@@ -482,6 +502,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,"C: 10-12 Manufacture of food products, beverages and tobacco products",0.28315
 2018,MISK per capita,"C: 10-12 Manufacture of food products, beverages and tobacco products",0.17320
 2019,MISK per capita,"C: 10-12 Manufacture of food products, beverages and tobacco products",0.18535
+2020,MISK per capita,"C: 10-12 Manufacture of food products, beverages and tobacco products",0.334
 1997,MISK per capita,"C: 13-15 Manufacture of textiles, wearing apparel and leather products",0.01044
 1998,MISK per capita,"C: 13-15 Manufacture of textiles, wearing apparel and leather products",0.00906
 1999,MISK per capita,"C: 13-15 Manufacture of textiles, wearing apparel and leather products",0.00892
@@ -505,6 +526,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,"C: 13-15 Manufacture of textiles, wearing apparel and leather products",0.00798
 2018,MISK per capita,"C: 13-15 Manufacture of textiles, wearing apparel and leather products",0.00835
 2019,MISK per capita,"C: 13-15 Manufacture of textiles, wearing apparel and leather products",0.00883
+2020,MISK per capita,"C: 13-15 Manufacture of textiles, wearing apparel and leather products",0.009
 1997,MISK per capita,C: 16-17 Manufacture of wood and paper products,0.00739
 1998,MISK per capita,C: 16-17 Manufacture of wood and paper products,0.00719
 1999,MISK per capita,C: 16-17 Manufacture of wood and paper products,0.00737
@@ -528,6 +550,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,C: 16-17 Manufacture of wood and paper products,0.00661
 2018,MISK per capita,C: 16-17 Manufacture of wood and paper products,0.00563
 2019,MISK per capita,C: 16-17 Manufacture of wood and paper products,0.00546
+2020,MISK per capita,C: 16-17 Manufacture of wood and paper products,0.005
 1997,MISK per capita,C: 18 Printing and reproduction of recorded media,0.00721
 1998,MISK per capita,C: 18 Printing and reproduction of recorded media,0.00857
 1999,MISK per capita,C: 18 Printing and reproduction of recorded media,0.00883
@@ -551,6 +574,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,C: 18 Printing and reproduction of recorded media,0.01849
 2018,MISK per capita,C: 18 Printing and reproduction of recorded media,0.01558
 2019,MISK per capita,C: 18 Printing and reproduction of recorded media,0.01387
+2020,MISK per capita,C: 18 Printing and reproduction of recorded media,0.01
 1997,MISK per capita,C: 19 Manufacture of coke and refined petroleum products,0.00000
 1998,MISK per capita,C: 19 Manufacture of coke and refined petroleum products,0.00000
 1999,MISK per capita,C: 19 Manufacture of coke and refined petroleum products,0.00000
@@ -574,6 +598,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,C: 19 Manufacture of coke and refined petroleum products,0.00091
 2018,MISK per capita,C: 19 Manufacture of coke and refined petroleum products,0.00117
 2019,MISK per capita,C: 19 Manufacture of coke and refined petroleum products,0.00098
+2020,MISK per capita,C: 19 Manufacture of coke and refined petroleum products,0.00043
 1997,MISK per capita,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",0.01133
 1998,MISK per capita,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",0.01249
 1999,MISK per capita,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",0.01272
@@ -596,7 +621,8 @@ Year,Units,Industry category,Value
 2016,MISK per capita,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",0.02062
 2017,MISK per capita,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",-0.00555
 2018,MISK per capita,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",-0.00336
-2019,MISK per capita,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",-0.00403
+2019,MISK per capita,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",0.023
+2020,MISK per capita,"C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",0.025
 1997,MISK per capita,C: 22 Manufacture of rubber and plastic products,0.00824
 1998,MISK per capita,C: 22 Manufacture of rubber and plastic products,0.00847
 1999,MISK per capita,C: 22 Manufacture of rubber and plastic products,0.00848
@@ -620,6 +646,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,C: 22 Manufacture of rubber and plastic products,0.00962
 2018,MISK per capita,C: 22 Manufacture of rubber and plastic products,0.00973
 2019,MISK per capita,C: 22 Manufacture of rubber and plastic products,0.00956
+2020,MISK per capita,C: 22 Manufacture of rubber and plastic products,0.011
 1997,MISK per capita,C: 23 Manufacture of other non-metallic mineral products,0.01224
 1998,MISK per capita,C: 23 Manufacture of other non-metallic mineral products,0.01300
 1999,MISK per capita,C: 23 Manufacture of other non-metallic mineral products,0.01224
@@ -643,6 +670,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,C: 23 Manufacture of other non-metallic mineral products,0.03510
 2018,MISK per capita,C: 23 Manufacture of other non-metallic mineral products,0.03722
 2019,MISK per capita,C: 23 Manufacture of other non-metallic mineral products,0.03410
+2020,MISK per capita,C: 23 Manufacture of other non-metallic mineral products,0.035
 1997,MISK per capita,C: 24 Manufacture of basic metals,0.02628
 1998,MISK per capita,C: 24 Manufacture of basic metals,0.02942
 1999,MISK per capita,C: 24 Manufacture of basic metals,0.02293
@@ -666,6 +694,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,C: 24 Manufacture of basic metals,0.13631
 2018,MISK per capita,C: 24 Manufacture of basic metals,0.08533
 2019,MISK per capita,C: 24 Manufacture of basic metals,0.09489
+2020,MISK per capita,C: 24 Manufacture of basic metals,0.04
 1997,MISK per capita,"C: 25 Manufacture of fabricated metal products, except machinery and equipment",0.01930
 1998,MISK per capita,"C: 25 Manufacture of fabricated metal products, except machinery and equipment",0.02153
 1999,MISK per capita,"C: 25 Manufacture of fabricated metal products, except machinery and equipment",0.02205
@@ -689,6 +718,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,"C: 25 Manufacture of fabricated metal products, except machinery and equipment",0.05125
 2018,MISK per capita,"C: 25 Manufacture of fabricated metal products, except machinery and equipment",0.05481
 2019,MISK per capita,"C: 25 Manufacture of fabricated metal products, except machinery and equipment",0.05834
+2020,MISK per capita,"C: 25 Manufacture of fabricated metal products, except machinery and equipment",0.054
 1997,MISK per capita,"C: 26 Manufacture of computer, electronic and optical products",0.00046
 1998,MISK per capita,"C: 26 Manufacture of computer, electronic and optical products",0.00059
 1999,MISK per capita,"C: 26 Manufacture of computer, electronic and optical products",0.00066
@@ -712,6 +742,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,"C: 26 Manufacture of computer, electronic and optical products",0.00323
 2018,MISK per capita,"C: 26 Manufacture of computer, electronic and optical products",0.00328
 2019,MISK per capita,"C: 26 Manufacture of computer, electronic and optical products",0.00257
+2020,MISK per capita,"C: 26 Manufacture of computer, electronic and optical products",0.004
 1997,MISK per capita,C: 27 Manufacture of electrical equipment,0.00137
 1998,MISK per capita,C: 27 Manufacture of electrical equipment,0.00156
 1999,MISK per capita,C: 27 Manufacture of electrical equipment,0.00172
@@ -735,6 +766,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,C: 27 Manufacture of electrical equipment,0.00503
 2018,MISK per capita,C: 27 Manufacture of electrical equipment,0.00571
 2019,MISK per capita,C: 27 Manufacture of electrical equipment,0.00453
+2020,MISK per capita,C: 27 Manufacture of electrical equipment,0.008
 1997,MISK per capita,C: 28 Manufacture of machinery and equipment n.e.c.,0.01206
 1998,MISK per capita,C: 28 Manufacture of machinery and equipment n.e.c.,0.01248
 1999,MISK per capita,C: 28 Manufacture of machinery and equipment n.e.c.,0.01275
@@ -758,6 +790,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,C: 28 Manufacture of machinery and equipment n.e.c.,0.04974
 2018,MISK per capita,C: 28 Manufacture of machinery and equipment n.e.c.,0.05778
 2019,MISK per capita,C: 28 Manufacture of machinery and equipment n.e.c.,0.05635
+2020,MISK per capita,C: 28 Manufacture of machinery and equipment n.e.c.,0.065
 1997,MISK per capita,"C: 29 Manufacture of motor vehicles, trailers and semi-trailers",0.00098
 1998,MISK per capita,"C: 29 Manufacture of motor vehicles, trailers and semi-trailers",0.00109
 1999,MISK per capita,"C: 29 Manufacture of motor vehicles, trailers and semi-trailers",0.00111
@@ -781,6 +814,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,"C: 29 Manufacture of motor vehicles, trailers and semi-trailers",0.00157
 2018,MISK per capita,"C: 29 Manufacture of motor vehicles, trailers and semi-trailers",0.00151
 2019,MISK per capita,"C: 29 Manufacture of motor vehicles, trailers and semi-trailers",0.00119
+2020,MISK per capita,"C: 29 Manufacture of motor vehicles, trailers and semi-trailers",0.001
 1997,MISK per capita,C: 30 Manufacture of other transport equipment,0.00413
 1998,MISK per capita,C: 30 Manufacture of other transport equipment,0.00410
 1999,MISK per capita,C: 30 Manufacture of other transport equipment,0.00361
@@ -804,6 +838,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,C: 30 Manufacture of other transport equipment,0.00158
 2018,MISK per capita,C: 30 Manufacture of other transport equipment,0.00142
 2019,MISK per capita,C: 30 Manufacture of other transport equipment,0.00155
+2020,MISK per capita,C: 30 Manufacture of other transport equipment,0.002
 1997,MISK per capita,C: 31-32 Manufacture of furniture; other manufacturing,0.01620
 1998,MISK per capita,C: 31-32 Manufacture of furniture; other manufacturing,0.01839
 1999,MISK per capita,C: 31-32 Manufacture of furniture; other manufacturing,0.01946
@@ -827,6 +862,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,C: 31-32 Manufacture of furniture; other manufacturing,0.04714
 2018,MISK per capita,C: 31-32 Manufacture of furniture; other manufacturing,0.04726
 2019,MISK per capita,C: 31-32 Manufacture of furniture; other manufacturing,0.05246
+2020,MISK per capita,C: 31-32 Manufacture of furniture; other manufacturing,0.06
 1997,MISK per capita,C: 33 Repair and installation of machinery and equipment,0.01314
 1998,MISK per capita,C: 33 Repair and installation of machinery and equipment,0.01335
 1999,MISK per capita,C: 33 Repair and installation of machinery and equipment,0.01227
@@ -850,6 +886,7 @@ Year,Units,Industry category,Value
 2017,MISK per capita,C: 33 Repair and installation of machinery and equipment,0.03374
 2018,MISK per capita,C: 33 Repair and installation of machinery and equipment,0.03620
 2019,MISK per capita,C: 33 Repair and installation of machinery and equipment,0.03237
+2020,MISK per capita,C: 33 Repair and installation of machinery and equipment,0.036
 1997,MISK per capita,C: 10-12 Thereof Fish processing,0.08505
 1998,MISK per capita,C: 10-12 Thereof Fish processing,0.08621
 1999,MISK per capita,C: 10-12 Thereof Fish processing,0.07506
@@ -873,3 +910,4 @@ Year,Units,Industry category,Value
 2017,MISK per capita,C: 10-12 Thereof Fish processing,0.16140
 2018,MISK per capita,C: 10-12 Thereof Fish processing,0.17320
 2019,MISK per capita,C: 10-12 Thereof Fish processing,0.18535
+2020,MISK per capita,C: 10-12 Thereof Fish processing,0.194
