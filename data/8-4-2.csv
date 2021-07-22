@@ -1,55 +1,61 @@
 Year,Category,Value
-2000,Domestic Material Consumption (DMC) [Kilotonnes],6767.35
-2001,Domestic Material Consumption (DMC) [Kilotonnes],6249.16
-2002,Domestic Material Consumption (DMC) [Kilotonnes],5823.5
-2003,Domestic Material Consumption (DMC) [Kilotonnes],6181.2
-2004,Domestic Material Consumption (DMC) [Kilotonnes],16044.46
-2005,Domestic Material Consumption (DMC) [Kilotonnes],11595.99
-2006,Domestic Material Consumption (DMC) [Kilotonnes],13683.95
-2007,Domestic Material Consumption (DMC) [Kilotonnes],13985.04
-2008,Domestic Material Consumption (DMC) [Kilotonnes],16465.44
-2009,Domestic Material Consumption (DMC) [Kilotonnes],16015.26
-2010,Domestic Material Consumption (DMC) [Kilotonnes],10033.84
-2011,Domestic Material Consumption (DMC) [Kilotonnes],6378.41
-2012,Domestic Material Consumption (DMC) [Kilotonnes],7255.92
-2013,Domestic Material Consumption (DMC) [Kilotonnes],9355.79
-2014,Domestic Material Consumption (DMC) [Kilotonnes],6949.72
-2015,Domestic Material Consumption (DMC) [Kilotonnes],7043.75
-2016,Domestic Material Consumption (DMC) [Kilotonnes],9418.77
-2017,Domestic Material Consumption (DMC) [Kilotonnes],10114.26
-2000,DMC per capita [kilotonnes per person],0.024251476
-2001,DMC per capita [kilotonnes per person],0.022053705
-2002,DMC per capita [kilotonnes per person],0.020321033
-2003,DMC per capita [kilotonnes per person],0.021427457
-2004,DMC per capita [kilotonnes per person],0.055217194000000004
-2005,DMC per capita [kilotonnes per person],0.039498973
-2006,DMC per capita [kilotonnes per person],0.045629745
-2007,DMC per capita [kilotonnes per person],0.04545438
-2008,DMC per capita [kilotonnes per person],0.052195182
-2009,DMC per capita [kilotonnes per person],0.050146727
-2010,DMC per capita [kilotonnes per person],0.031589711
-2011,DMC per capita [kilotonnes per person],0.020029424
-2012,DMC per capita [kilotonnes per person],0.022704905
-2013,DMC per capita [kilotonnes per person],0.029068157999999997
-2014,DMC per capita [kilotonnes per person],0.021339696000000002
-2015,DMC per capita [kilotonnes per person],0.021403069
-2016,DMC per capita [kilotonnes per person],0.028324657000000003
-2017,DMC per capita [kilotonnes per person],0.02989298
-2000,DMC per GDP [kilotonnes per MISK],0.009560700000000002
-2001,DMC per GDP [kilotonnes per MISK],0.007817274
-2002,DMC per GDP [kilotonnes per MISK],0.006835383
-2003,DMC per GDP [kilotonnes per MISK],0.007059701999999999
-2004,DMC per GDP [kilotonnes per MISK],0.016522198999999998
-2005,DMC per GDP [kilotonnes per MISK],0.010951164
-2006,DMC per GDP [kilotonnes per MISK],0.011325448
-2007,DMC per GDP [kilotonnes per MISK],0.010147757
-2008,DMC per GDP [kilotonnes per MISK],0.010456047
-2009,DMC per GDP [kilotonnes per MISK],0.009839456
-2010,DMC per GDP [kilotonnes per MISK],0.005998521
-2011,DMC per GDP [kilotonnes per MISK],0.0036288490000000004
-2012,DMC per GDP [kilotonnes per MISK],0.003939733
-2013,DMC per GDP [kilotonnes per MISK],0.004775894
-2014,DMC per GDP [kilotonnes per MISK],0.0033515890000000003
-2015,DMC per GDP [kilotonnes per MISK],0.00307058
-2016,DMC per GDP [kilotonnes per MISK],0.003781217
-2017,DMC per GDP [kilotonnes per MISK],0.003865855
+2000,Domestic Material Consumption (DMC) [Kilotonnes],7751.0
+2001,Domestic Material Consumption (DMC) [Kilotonnes],7241.0
+2002,Domestic Material Consumption (DMC) [Kilotonnes],6558.0
+2003,Domestic Material Consumption (DMC) [Kilotonnes],7268.0
+2004,Domestic Material Consumption (DMC) [Kilotonnes],17409.0
+2005,Domestic Material Consumption (DMC) [Kilotonnes],13141.0
+2006,Domestic Material Consumption (DMC) [Kilotonnes],15920.0
+2007,Domestic Material Consumption (DMC) [Kilotonnes],16103.0
+2008,Domestic Material Consumption (DMC) [Kilotonnes],18082.0
+2009,Domestic Material Consumption (DMC) [Kilotonnes],16814.0
+2010,Domestic Material Consumption (DMC) [Kilotonnes],10562.0
+2011,Domestic Material Consumption (DMC) [Kilotonnes],6843.0
+2012,Domestic Material Consumption (DMC) [Kilotonnes],7969.0
+2013,Domestic Material Consumption (DMC) [Kilotonnes],9825.0
+2014,Domestic Material Consumption (DMC) [Kilotonnes],7510.0
+2015,Domestic Material Consumption (DMC) [Kilotonnes],7705.0
+2016,Domestic Material Consumption (DMC) [Kilotonnes],10254.0
+2017,Domestic Material Consumption (DMC) [Kilotonnes],11169.0
+2018,Domestic Material Consumption (DMC) [Kilotonnes],11322.0
+2019,Domestic Material Consumption (DMC) [Kilotonnes],10900.0
+2000,DMC per capita [kilotonnes per person],0.0276
+2001,DMC per capita [kilotonnes per person],0.0254
+2002,DMC per capita [kilotonnes per person],0.0228
+2003,DMC per capita [kilotonnes per person],0.0251
+2004,DMC per capita [kilotonnes per person],0.0595
+2005,DMC per capita [kilotonnes per person],0.0444
+2006,DMC per capita [kilotonnes per person],0.0523
+2007,DMC per capita [kilotonnes per person],0.0517
+2008,DMC per capita [kilotonnes per person],0.0566
+2009,DMC per capita [kilotonnes per person],0.0527
+2010,DMC per capita [kilotonnes per person],0.0332
+2011,DMC per capita [kilotonnes per person],0.0215
+2012,DMC per capita [kilotonnes per person],0.0248
+2013,DMC per capita [kilotonnes per person],0.0303
+2014,DMC per capita [kilotonnes per person],0.0229
+2015,DMC per capita [kilotonnes per person],0.0233
+2016,DMC per capita [kilotonnes per person],0.0306
+2017,DMC per capita [kilotonnes per person],0.0325
+2018,DMC per capita [kilotonnes per person],0.0321
+2019,DMC per capita [kilotonnes per person],0.0302
+2000,DMC per GDP [kilotonnes per MISK],0.0109
+2001,DMC per GDP [kilotonnes per MISK],0.009
+2002,DMC per GDP [kilotonnes per MISK],0.0077
+2003,DMC per GDP [kilotonnes per MISK],0.0083
+2004,DMC per GDP [kilotonnes per MISK],0.0179
+2005,DMC per GDP [kilotonnes per MISK],0.0124
+2006,DMC per GDP [kilotonnes per MISK],0.013
+2007,DMC per GDP [kilotonnes per MISK],0.0116
+2008,DMC per GDP [kilotonnes per MISK],0.0114
+2009,DMC per GDP [kilotonnes per MISK],0.0103
+2010,DMC per GDP [kilotonnes per MISK],0.0063
+2011,DMC per GDP [kilotonnes per MISK],0.0039
+2012,DMC per GDP [kilotonnes per MISK],0.0043
+2013,DMC per GDP [kilotonnes per MISK],0.005
+2014,DMC per GDP [kilotonnes per MISK],0.0036
+2015,DMC per GDP [kilotonnes per MISK],0.0033
+2016,DMC per GDP [kilotonnes per MISK],0.0041
+2017,DMC per GDP [kilotonnes per MISK],0.0042
+2018,DMC per GDP [kilotonnes per MISK],0.004
+2019,DMC per GDP [kilotonnes per MISK],0.0036

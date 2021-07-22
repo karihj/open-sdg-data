@@ -5,93 +5,93 @@ Year,Sex,Living condition,Value
 2011,Female,Secondary homeless,0.18
 2011,Male,Primary homeless,0.05
 2011,Male,Secondary homeless,0.23
-2004,,Poor housing conditions,20.0
-2005,,Poor housing conditions,19.0
-2006,,Poor housing conditions,13.0
-2007,,Poor housing conditions,11.0
-2008,,Poor housing conditions,20.0
-2009,,Poor housing conditions,17.0
+2004,,Poor housing conditions,20.3
+2005,,Poor housing conditions,19.1
+2006,,Poor housing conditions,12.9
+2007,,Poor housing conditions,11.1
+2008,,Poor housing conditions,19.9
+2009,,Poor housing conditions,17.4
 2010,,Poor housing conditions,16.0
 2011,,Poor housing conditions,16.0
-2012,,Poor housing conditions,19.0
+2012,,Poor housing conditions,18.6
 2013,,Poor housing conditions,18.0
-2014,,Poor housing conditions,16.0
-2015,,Poor housing conditions,19.0
-2016,,Poor housing conditions,19.0
-2017,,Poor housing conditions,20.0
-2018,,Poor housing conditions,19.0
+2014,,Poor housing conditions,15.8
+2015,,Poor housing conditions,19.3
+2016,,Poor housing conditions,18.6
+2017,,Poor housing conditions,19.8
+2018,,Poor housing conditions,19.2
 2004,,Overcrowding,9.0
 2005,,Overcrowding,9.0
-2006,,Overcrowding,9.0
-2007,,Overcrowding,11.0
-2008,,Overcrowding,7.0
+2006,,Overcrowding,9.4
+2007,,Overcrowding,11.3
+2008,,Overcrowding,6.9
 2009,,Overcrowding,8.0
 2010,,Overcrowding,8.0
-2011,,Overcrowding,8.0
-2012,,Overcrowding,9.0
-2013,,Overcrowding,10.0
-2014,,Overcrowding,8.0
-2015,,Overcrowding,9.0
-2016,,Overcrowding,8.0
-2017,,Overcrowding,11.0
-2018,,Overcrowding,14.0
-2004,Female,Poor housing conditions,21.0
-2005,Female,Poor housing conditions,20.0
-2006,Female,Poor housing conditions,14.0
-2007,Female,Poor housing conditions,12.0
+2011,,Overcrowding,8.2
+2012,,Overcrowding,8.7
+2013,,Overcrowding,9.8
+2014,,Overcrowding,8.3
+2015,,Overcrowding,8.8
+2016,,Overcrowding,7.8
+2017,,Overcrowding,10.9
+2018,,Overcrowding,14.1
+2004,Female,Poor housing conditions,20.9
+2005,Female,Poor housing conditions,19.6
+2006,Female,Poor housing conditions,13.9
+2007,Female,Poor housing conditions,11.6
 2008,Female,Poor housing conditions,20.0
-2009,Female,Poor housing conditions,18.0
-2010,Female,Poor housing conditions,16.0
-2011,Female,Poor housing conditions,17.0
-2012,Female,Poor housing conditions,20.0
-2013,Female,Poor housing conditions,19.0
-2014,Female,Poor housing conditions,16.0
-2015,Female,Poor housing conditions,20.0
-2016,Female,Poor housing conditions,19.0
-2017,Female,Poor housing conditions,21.0
-2018,Female,Poor housing conditions,20.0
-2004,Female,Overcrowding,9.0
-2005,Female,Overcrowding,9.0
-2006,Female,Overcrowding,10.0
-2007,Female,Overcrowding,12.0
+2009,Female,Poor housing conditions,18.1
+2010,Female,Poor housing conditions,16.3
+2011,Female,Poor housing conditions,16.9
+2012,Female,Poor housing conditions,19.7
+2013,Female,Poor housing conditions,18.7
+2014,Female,Poor housing conditions,16.3
+2015,Female,Poor housing conditions,19.8
+2016,Female,Poor housing conditions,19.3
+2017,Female,Poor housing conditions,20.6
+2018,Female,Poor housing conditions,20.1
+2004,Female,Overcrowding,9.4
+2005,Female,Overcrowding,9.4
+2006,Female,Overcrowding,9.8
+2007,Female,Overcrowding,11.6
 2008,Female,Overcrowding,7.0
-2009,Female,Overcrowding,8.0
-2010,Female,Overcrowding,8.0
-2011,Female,Overcrowding,9.0
-2012,Female,Overcrowding,9.0
-2013,Female,Overcrowding,10.0
+2009,Female,Overcrowding,7.9
+2010,Female,Overcrowding,8.2
+2011,Female,Overcrowding,8.5
+2012,Female,Overcrowding,8.6
+2013,Female,Overcrowding,9.7
 2014,Female,Overcrowding,8.0
 2015,Female,Overcrowding,9.0
-2016,Female,Overcrowding,8.0
-2017,Female,Overcrowding,11.0
-2018,Female,Overcrowding,13.0
-2004,Male,Poor housing conditions,20.0
-2005,Male,Poor housing conditions,19.0
-2006,Male,Poor housing conditions,12.0
-2007,Male,Poor housing conditions,11.0
-2008,Male,Poor housing conditions,20.0
-2009,Male,Poor housing conditions,17.0
-2010,Male,Poor housing conditions,16.0
+2016,Female,Overcrowding,7.7
+2017,Female,Overcrowding,10.7
+2018,Female,Overcrowding,13.1
+2004,Male,Poor housing conditions,19.8
+2005,Male,Poor housing conditions,18.6
+2006,Male,Poor housing conditions,11.9
+2007,Male,Poor housing conditions,10.5
+2008,Male,Poor housing conditions,19.8
+2009,Male,Poor housing conditions,16.7
+2010,Male,Poor housing conditions,15.6
 2011,Male,Poor housing conditions,15.0
-2012,Male,Poor housing conditions,18.0
-2013,Male,Poor housing conditions,17.0
-2014,Male,Poor housing conditions,15.0
-2015,Male,Poor housing conditions,19.0
+2012,Male,Poor housing conditions,17.5
+2013,Male,Poor housing conditions,17.3
+2014,Male,Poor housing conditions,15.4
+2015,Male,Poor housing conditions,18.7
 2016,Male,Poor housing conditions,18.0
-2017,Male,Poor housing conditions,19.0
-2018,Male,Poor housing conditions,18.0
-2004,Male,Overcrowding,9.0
-2005,Male,Overcrowding,9.0
+2017,Male,Poor housing conditions,19.1
+2018,Male,Poor housing conditions,18.3
+2004,Male,Overcrowding,8.5
+2005,Male,Overcrowding,8.6
 2006,Male,Overcrowding,9.0
-2007,Male,Overcrowding,11.0
-2008,Male,Overcrowding,7.0
-2009,Male,Overcrowding,8.0
-2010,Male,Overcrowding,8.0
+2007,Male,Overcrowding,11.1
+2008,Male,Overcrowding,6.8
+2009,Male,Overcrowding,8.1
+2010,Male,Overcrowding,7.8
 2011,Male,Overcrowding,8.0
-2012,Male,Overcrowding,9.0
-2013,Male,Overcrowding,10.0
-2014,Male,Overcrowding,9.0
-2015,Male,Overcrowding,9.0
+2012,Male,Overcrowding,8.8
+2013,Male,Overcrowding,9.8
+2014,Male,Overcrowding,8.6
+2015,Male,Overcrowding,8.6
 2016,Male,Overcrowding,8.0
-2017,Male,Overcrowding,11.0
-2018,Male,Overcrowding,15.0
+2017,Male,Overcrowding,11.2
+2018,Male,Overcrowding,15.2

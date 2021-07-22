@@ -1,21 +1,31 @@
 Year,Type of treatment,Units,Value
-2014,,Tonne per capita,0.1113
-2015,,Tonne per capita,0.1659
-2016,,Tonne per capita,0.1439
-2017,,Tonne per capita,0.2408
-2014,Recovery,Tonne per capita,0.078
-2015,Recovery,Tonne per capita,0.1195
-2016,Recovery,Tonne per capita,0.0601
-2017,Recovery,Tonne per capita,0.1956
-2014,Disposal,Tonne per capita,0.0333
-2015,Disposal,Tonne per capita,0.0465
-2016,Disposal,Tonne per capita,0.0839
-2017,Disposal,Tonne per capita,0.0452
-2014,Recovery,Percentage of all hazardous waste,0.701
-2015,Recovery,Percentage of all hazardous waste,0.7199
-2016,Recovery,Percentage of all hazardous waste,0.4173
-2017,Recovery,Percentage of all hazardous waste,0.8122
-2014,Disposal,Percentage of all hazardous waste,0.299
-2015,Disposal,Percentage of all hazardous waste,0.2801
-2016,Disposal,Percentage of all hazardous waste,0.5827
-2017,Disposal,Percentage of all hazardous waste,0.1878
+2014,,Tonne per capita,0.1107
+2015,,Tonne per capita,0.1651
+2016,,Tonne per capita,0.1427
+2017,,Tonne per capita,0.2373
+2018,,Tonne per capita,0.2186
+2019,,Tonne per capita,0.3237
+2014,Recovery,Tonne per capita,0.0776
+2015,Recovery,Tonne per capita,0.1188
+2016,Recovery,Tonne per capita,0.0595
+2017,Recovery,Tonne per capita,0.1927
+2018,Recovery,Tonne per capita,0.1747
+2019,Recovery,Tonne per capita,0.2756
+2014,Disposal,Tonne per capita,0.0331
+2015,Disposal,Tonne per capita,0.0462
+2016,Disposal,Tonne per capita,0.0831
+2017,Disposal,Tonne per capita,0.0446
+2018,Disposal,Tonne per capita,0.0439
+2019,Disposal,Tonne per capita,0.0482
+2014,Recovery,Percentage of all hazardous waste,70.1
+2015,Recovery,Percentage of all hazardous waste,71.99
+2016,Recovery,Percentage of all hazardous waste,41.73
+2017,Recovery,Percentage of all hazardous waste,81.22
+2018,Recovery,Percentage of all hazardous waste,79.9
+2019,Recovery,Percentage of all hazardous waste,85.12
+2014,Disposal,Percentage of all hazardous waste,29.9
+2015,Disposal,Percentage of all hazardous waste,28.01
+2016,Disposal,Percentage of all hazardous waste,58.27
+2017,Disposal,Percentage of all hazardous waste,18.78
+2018,Disposal,Percentage of all hazardous waste,20.1
+2019,Disposal,Percentage of all hazardous waste,14.88
