@@ -16,10 +16,6 @@ ruamel.yaml.clib==0.2.6
 smmap==5.0.0
 typing_extensions==4.0.0
 zipp==3.6.0
-pyyaml
-pandas
-gitpython==3.1.20
 ruamel.yaml>=0.15
 git+git://github.com/dougmet/yamlmd
 git+git://github.com/open-sdg/sdg-build@0.3.0
-jsonschema
